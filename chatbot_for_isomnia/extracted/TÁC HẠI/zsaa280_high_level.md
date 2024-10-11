@@ -1,0 +1,3 @@
+# Title: Effects of sleep restriction on the sleep electroencephalogram of adolescents
+
+## Summary: This article presents findings from a longitudinal study examining how varying sleep durations affect the sleep electroencephalogram (EEG) and daytime functioning in adolescents. The study involved 77 participants aged 9.9 to 16.2 years, who followed different sleep schedules over three years. Results indicated that shorter time in bed (TIB) led to reduced total sleep time (TST) and significant changes in EEG patterns, including increased delta power and decreased alpha and sigma power. These changes suggest that sleep restriction impairs sleep recovery and cognitive function in adolescents, highlighting the importance of adequate sleep for their development.

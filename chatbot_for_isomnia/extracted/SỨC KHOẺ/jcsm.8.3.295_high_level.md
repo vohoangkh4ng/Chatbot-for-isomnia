@@ -1,0 +1,3 @@
+# Title: Insomnia and its Symptoms in adolescents: Comparing DSM-IV and ICSD-II Diagnostic Criteria
+
+## Summary: This study investigates the prevalence of insomnia symptoms among adolescents using two diagnostic frameworks: the DSM-IV and the ICSD-II. It highlights significant discrepancies in insomnia diagnosis rates, with 10.9% of adolescents meeting DSM-IV criteria for Primary Insomnia compared to a higher prevalence of 34.6% reporting frequent sleep-related daytime consequences. The findings emphasize the need for careful operationalization of insomnia to ensure accurate diagnosis and treatment, as many adolescents experience insomnia symptoms without meeting the criteria for insomnia disorders.

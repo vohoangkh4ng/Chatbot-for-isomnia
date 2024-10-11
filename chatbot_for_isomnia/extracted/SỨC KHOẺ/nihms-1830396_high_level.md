@@ -1,0 +1,3 @@
+# Title: Adolescent sleep myths: identifying false beliefs that impact adolescent sleep and well-being
+
+## Summary: This article investigates commonly held myths about sleep among adolescents and their caregivers that lack scientific support, which may negatively affect sleep-related attitudes and behaviors. The study employs the Delphi method with a panel of sleep health experts to identify and rate these myths based on their falseness and public health significance. The findings aim to inform the development of evidence-based counter-messages to enhance sleep health in adolescents.

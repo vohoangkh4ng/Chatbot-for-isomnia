@@ -1,0 +1,3 @@
+# Title: Effectiveness of Life Skill Training Program on Stress among Adolescents at a School Setting
+
+## Summary: The article investigates the prevalence of psychological stress among adolescents and evaluates the effectiveness of a life skill training program aimed at reducing stress in a school setting. The study involved 42 adolescent boys and utilized a standardized stress questionnaire to assess stress levels before and after a series of seven intervention sessions. The findings indicate that a significant portion of adolescents reported experiencing stress, highlighting the need for targeted interventions in this demographic.

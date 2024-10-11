@@ -1,0 +1,3 @@
+# Title: Chrono-Nutrition and Diet Quality in Adolescents with Delayed Sleep-Wake Phase Disorder
+
+## Summary: This article investigates the differences in chrono-nutrition and diet quality between adolescents with Delayed Sleep-Wake Phase Disorder (DSPD) and age-matched controls. The study involved 46 adolescents with DSPD and 43 controls, assessing their dietary habits through questionnaires. Findings revealed that adolescents with DSPD tended to eat their first meal later in the day and had a higher regularity in dinner consumption, while showing no significant differences in overall diet quality. The authors suggest that chrono-nutrition may be a modifiable risk factor for DSPD and call for further research to explore its potential as a treatment option.

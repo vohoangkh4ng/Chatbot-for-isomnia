@@ -1,0 +1,3 @@
+# Title: Perturbation of serum metabolome in relation to type 2 diabetes mellitus and urinary levels of phthalate metabolites and bisphenols
+
+## Summary: This study investigates the relationship between exposure to phthalates and bisphenols and the risk of type 2 diabetes mellitus (T2DM) through metabolomic analysis. It identifies 19 serum metabolic biomarkers associated with T2DM, primarily linked to galactose metabolism, amino acid metabolism, and pyrimidine metabolism. The findings suggest that phthalate exposure may increase T2DM risk by disrupting these metabolic pathways, while the role of bisphenols in this context remains unclear.

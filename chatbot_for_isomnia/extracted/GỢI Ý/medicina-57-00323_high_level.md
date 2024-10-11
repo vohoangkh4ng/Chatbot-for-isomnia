@@ -1,0 +1,3 @@
+# Title: Orofacial Myofunctional Therapy in Obstructive Sleep Apnea Syndrome: A Pathophysiological Perspective
+
+## Summary: This article reviews the pathophysiology of obstructive sleep apnea (OSA) syndrome, highlighting factors such as airway collapsibility and muscle responsiveness that contribute to the disorder. It discusses the limitations of conventional treatments like CPAP and surgery, particularly in mild to moderate cases. The authors present orofacial myofunctional therapy (OMT) as a promising alternative, detailing its benefits in improving muscle tone and sleep quality, reducing snoring, and enhancing adherence to CPAP. The review emphasizes the need for further randomized studies to evaluate the effectiveness of OMT in treating OSA.

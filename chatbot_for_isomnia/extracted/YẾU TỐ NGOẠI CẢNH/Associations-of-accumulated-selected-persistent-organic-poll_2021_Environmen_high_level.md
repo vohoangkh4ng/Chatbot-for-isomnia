@@ -1,0 +1,3 @@
+# Title: Associations of accumulated selected persistent organic pollutants in adipose tissue with insulin sensitivity and risk of incident type-2 diabetes
+
+## Summary: This article investigates the relationship between exposure to persistent organic pollutants (POPs) and the risk of developing type 2 diabetes mellitus (T2DM). It highlights findings from longitudinal and cross-sectional studies that suggest a positive association between specific POPs, particularly hexachlorobenzene and PCB-180, and increased T2DM risk, especially in individuals with normal weight or overweight. The study indicates that higher levels of these pollutants in adipose tissue may disrupt glucose homeostasis, contributing to insulin resistance and the development of T2DM.

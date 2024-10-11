@@ -1,0 +1,3 @@
+# Title: The impact of tryptophan supplementation on sleep quality: a systematic review, meta-analysis, and meta-regression
+
+## Summary: This article assesses the effects of L-tryptophan (Trp) supplementation on sleep quality through a systematic review, meta-analysis, and meta-regression. The study compiles data from 18 articles and finds that Trp supplementation, particularly at a dose of 1 g, can significantly reduce wake after sleep onset, thereby improving sleep quality. However, it notes that Trp supplementation does not appear to affect other sleep components. The findings highlight the potential of Trp as a beneficial supplement for enhancing sleep quality amidst growing concerns over sleep disturbances linked to various health issues.

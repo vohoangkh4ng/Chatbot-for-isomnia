@@ -1,0 +1,3 @@
+# Title: Trajectories of sleep problems in childhood: associations with mental health in adolescence
+
+## Summary: This study investigates the relationship between sleep-wake problems in childhood and mental health outcomes in adolescence. It examines how initial levels and changes in sleep problems during late childhood predict externalizing behavior, depressive symptoms, and anxiety in adolescence, while controlling for childhood mental health and concurrent sleep issues. The findings indicate that higher sleep-wake problems in childhood are associated with poorer mental health in adolescence, emphasizing the need for early screening and intervention for sleep difficulties.

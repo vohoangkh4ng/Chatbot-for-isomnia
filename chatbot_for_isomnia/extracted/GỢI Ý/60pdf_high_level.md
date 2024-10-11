@@ -1,0 +1,3 @@
+# Title: Stress Management for Adolescents: A Review
+
+## Summary: This article reviews the issue of academic stress among adolescents, particularly focusing on senior class students. It highlights the negative impact of academic stress on both academic performance and mental health, noting a lack of intervention programs to address these issues. The study aims to develop a stress management module tailored for 12th class students, identifying key stressors and improving coping strategies. The findings are intended to inform future intervention strategies to better support students facing academic challenges.

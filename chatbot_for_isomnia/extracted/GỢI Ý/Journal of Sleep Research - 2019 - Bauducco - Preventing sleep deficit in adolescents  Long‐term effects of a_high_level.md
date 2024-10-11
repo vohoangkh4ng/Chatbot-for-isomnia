@@ -1,0 +1,3 @@
+# Title: Preventing sleep deficit in adolescents: Long‐term effects of a quasi‐experimental school‐based intervention study
+
+## Summary: This study evaluates the long-term effects of a school-based sleep education curriculum aimed at preventing sleep deficit in adolescents. It involved 3,622 participants and found that those in the intervention group were approximately twice as likely to report sufficient sleep compared to a control group. While sleep knowledge improved, there were no significant changes in emotional sleep hygiene or perceived stress, and technology use increased among the intervention group. The findings suggest potential long-term benefits of school-based sleep programs, although further investigation into the mechanisms of change is needed.

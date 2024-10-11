@@ -1,0 +1,3 @@
+# Title: Why so slangry (sleepy and angry)? Shorter sleep duration and lower sleep efficiency predict worse next‐day mood in adolescents
+
+## Summary: This study investigates the relationship between sleep duration and quality, as measured by actigraphy, and next-day mood in urban adolescents. Using a micro-longitudinal design with a sample of 525 participants, the research found that longer sleep duration and higher sleep maintenance efficiency were associated with lower levels of anger and higher levels of happiness the following day. The findings suggest that improving sleep health could enhance mood and emotional regulation in adolescents, highlighting the importance of promoting better sleep practices.

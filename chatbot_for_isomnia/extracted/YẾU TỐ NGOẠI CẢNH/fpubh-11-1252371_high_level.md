@@ -1,0 +1,3 @@
+# Title: Smartphone addiction, sleep quality, depression, anxiety, and stress among medical students
+
+## Summary: This study investigates the associations between smartphone addiction, sleep quality, and mental health issues such as depression, anxiety, and stress among medical students in Belgrade and Nis, Serbia. A sample of 761 students completed various questionnaires, revealing a 21.7% prevalence of smartphone addiction. Significant correlations were found between excessive smartphone use (over 4 hours daily) and poor sleep quality, as well as elevated levels of stress, anxiety, and depression. The findings highlight the need for further research into the mechanisms linking smartphone addiction and psychosocial factors to inform effective interventions.

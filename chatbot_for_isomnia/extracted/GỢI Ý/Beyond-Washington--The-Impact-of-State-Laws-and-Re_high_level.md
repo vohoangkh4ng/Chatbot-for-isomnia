@@ -1,0 +1,3 @@
+# Title: Beyond Washington: The Impact of State Laws and Regulations on Dietetics Practice
+
+## Summary: This article discusses the critical role of state laws and regulations in shaping dietetics practice and the importance of state advocacy for dietetics professionals. It emphasizes the need for collaboration among members of the American Dietetic Association (ADA) to address various state matters that affect public access to nutrition services, professional status, and income opportunities. The article highlights recent shifts in state regulations and the necessity for dietetics professionals to stay informed and engaged in advocacy efforts to ensure high-quality nutrition care, particularly as states transition to community care options.

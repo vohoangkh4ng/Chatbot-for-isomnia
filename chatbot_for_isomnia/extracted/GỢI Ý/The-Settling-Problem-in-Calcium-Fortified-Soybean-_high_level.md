@@ -1,0 +1,3 @@
+# Title: Calcium-Fortified Soybean Drinks
+
+## Summary: This article discusses the bioavailability of calcium in calcium-fortified soybean drinks, highlighting that the mere addition of calcium fortificants does not guarantee equivalent absorption to that of dairy milk. The authors critique a previous study on the acceptability of flavored soymilk among children, pointing out significant discrepancies in calcium content and absorption rates. They emphasize the importance of proper dispersion of calcium in these beverages, as sedimentation can lead to lower actual calcium intake than labeled amounts, making them inadequate substitutes for dairy milk.

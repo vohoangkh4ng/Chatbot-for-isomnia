@@ -1,0 +1,3 @@
+# Title: The power of saying no
+
+## Summary: This article discusses the importance of learning to say "no" in a research career, particularly for young scientists and mentees. It emphasizes that saying "yes" too often can lead to overwhelming commitments, decreased productivity, and poor mental health. The authors argue that setting boundaries is essential for maintaining self-care and achieving career success. They suggest that mentors play a crucial role in teaching mentees how to navigate expectations and make strategic decisions about their commitments, ultimately fostering a healthier work-life balance and enhancing research quality.

@@ -1,0 +1,3 @@
+# Title: Distribution, behaviour, bioavailability and remediation of poly- and per-fluoroalkyl substances (PFAS) in solid biowastes and biowaste-treated soil
+
+## Summary: This article reviews the sources and impacts of poly- and perfluoroalkyl substances (PFAS) in soils treated with biowastes such as biosolids, composts, and manures. It discusses how these substances enter the soil through biowaste application, posing risks to human and animal health via plant uptake. The article also explores various remediation strategies, including source control, soil washing, phytoremediation, and chemical destruction, to mitigate PFAS contamination in both biowastes and treated soils.

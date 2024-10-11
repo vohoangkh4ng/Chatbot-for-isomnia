@@ -1,0 +1,3 @@
+# Title: Break or burn out
+
+## Summary: The article discusses the importance of taking breaks from work to prevent stress and depression among researchers. It highlights the risks of burnout in academic settings, particularly for early-career researchers, and emphasizes the need for both individual and organizational responsibility in addressing mental health. The piece features insights from experts on the significance of engaging in hobbies and activities outside of work to maintain well-being and productivity.

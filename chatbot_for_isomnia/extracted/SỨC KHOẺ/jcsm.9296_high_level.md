@@ -1,0 +1,3 @@
+# Title: The impact of lockdown on sleep patterns of children and adolescents with ADHD
+
+## Summary: This study investigates how the COVID-19 lockdown affected the sleep patterns of children and adolescents with attention-deficit hyperactivity disorder (ADHD). Through an online survey of 992 parents, the research found significant changes in bedtime and sleep duration, with many children and adolescents either sleeping less than 6 hours or more than 10 hours per night. Increased screen time during lockdown was associated with these changes, leading to heightened sleep disturbances such as difficulties falling asleep and increased anxiety. The findings suggest that the lockdown exacerbated existing maladaptive sleep patterns in this vulnerable population.

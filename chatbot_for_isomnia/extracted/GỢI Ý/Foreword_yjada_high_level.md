@@ -1,0 +1,3 @@
+# Title: PIPPAR SUPPLEMENT
+
+## Summary: This supplement addresses the nutritional needs and health concerns of adolescents, highlighting the risks associated with their diets, including cardiovascular disease, cancer, and obesity. It presents educational articles on the physical and psychosocial aspects of adolescent growth and development, as well as methods for nutrition assessment. Additionally, it discusses internal and environmental factors influencing adolescents' food choices and offers insights into designing effective nutrition education and intervention programs. The supplement aims to provide practitioners with ideas and encouragement for developing nutrition interventions tailored to adolescents.

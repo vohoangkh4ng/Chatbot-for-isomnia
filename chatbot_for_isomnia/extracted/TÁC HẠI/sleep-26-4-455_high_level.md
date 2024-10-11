@@ -1,0 +1,3 @@
+# Title: The Pediatric Daytime Sleepiness Scale (PDSS): Sleep Habits and School Outcomes in Middle-school Children
+
+## Summary: This article discusses the development of the Pediatric Daytime Sleepiness Scale (PDSS) to measure daytime sleepiness in middle-school children and its correlation with school-related outcomes. The study involved 450 students aged 11 to 15 and found that higher levels of daytime sleepiness were associated with lower academic achievement, increased absenteeism, and reduced school enjoyment. The PDSS demonstrated robust psychometric properties, making it a valuable tool for future research on sleep habits and their impact on educational performance in children.

@@ -1,0 +1,3 @@
+# Title: Sleep-related melatonin use in healthy children
+
+## Summary: This article addresses the concerns surrounding the use of melatonin in healthy children experiencing insomnia. It highlights that insomnia affects a significant number of children, particularly those with neurodevelopmental and psychiatric conditions. The article discusses the potential benefits of melatonin for children with delayed sleep phase syndrome and emphasizes the importance of proper insomnia evaluation and sleep hygiene practices. While melatonin appears to be safe, the article notes a lack of evidence supporting its routine use in otherwise healthy children.

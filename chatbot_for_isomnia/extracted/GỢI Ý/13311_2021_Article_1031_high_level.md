@@ -1,0 +1,3 @@
+# Title: Circadian Rhythm Sleep–Wake Disorders: a Contemporary Review of Neurobiology, Treatment, and Dysregulation in Neurodegenerative Disease
+
+## Summary: This article provides a comprehensive review of circadian rhythm sleep-wake disorders, exploring their neurobiology, treatment options, and the impact of dysregulation in neurodegenerative diseases. It discusses the significance of circadian rhythms in regulating various physiological processes, the consequences of misalignment with the external environment, and the tools used for diagnosis. The article also outlines management strategies for different circadian rhythm disorders and highlights the role of chronotherapies in addressing these issues.

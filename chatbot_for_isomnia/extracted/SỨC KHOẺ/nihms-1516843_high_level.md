@@ -1,0 +1,3 @@
+# Title: “Let’s talk about sleep”: A qualitative examination of levers for promoting healthy sleep among sleep-deprived vulnerable adolescents
+
+## Summary: This article investigates the prevalence of sleep deficiency among disadvantaged adolescents and explores strategies they employ to improve their sleep. Through focus groups with 27 adolescents from diverse neighborhoods in Boston, the study identifies barriers to healthy sleep, such as excessive phone use and caffeine consumption, and highlights a gap between the recognition of sleep's importance and actual sleep behaviors. The findings suggest potential levers for promoting better sleep in this vulnerable population.

@@ -1,0 +1,3 @@
+# Title: Sleep Hygiene Practices and Their Relation to Sleep Quality in Medical Students of Qazvin University of Medical Sciences
+
+## Summary: This study investigates the relationship between sleep hygiene practices and sleep quality among medical students at Qazvin University of Medical Sciences. It highlights that poor sleep quality is prevalent among these students, with 57.5% reporting inadequate sleep. The research identifies that male students, senior-level students, married students, and those with poor sleep hygiene practices are more likely to experience worse sleep quality. The findings suggest that improving sleep hygiene could be essential for enhancing sleep quality in this population.

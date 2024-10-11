@@ -1,0 +1,3 @@
+# Title: Too Jittery to Sleep? Temporal Associations of Actigraphic Sleep and Caffeine in Adolescents
+
+## Summary: This article investigates the relationship between caffeine consumption and sleep health in adolescents, utilizing data from a micro-longitudinal study. It explores whether poor sleep predicts caffeine intake or vice versa, focusing on objective sleep measurements through actigraphy. The findings suggest that adolescents with more variable sleep patterns are more likely to consume caffeine, and caffeine consumption is associated with later sleep onset and wake times. The study highlights the potential benefits of reducing caffeine intake to improve sleep regularity and timing in adolescents.

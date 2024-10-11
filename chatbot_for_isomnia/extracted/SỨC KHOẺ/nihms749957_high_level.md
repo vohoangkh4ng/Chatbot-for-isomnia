@@ -1,0 +1,3 @@
+# Title: Association between Social Media Use and Depression among U.S. Young Adults
+
+## Summary: This study investigates the relationship between social media use and depression in a nationally-representative sample of young adults aged 19 to 32. The research involved surveying 1,787 participants about their social media habits and depression levels, revealing that higher social media usage correlates with increased odds of depression. Specifically, individuals in the highest quartile of social media use exhibited significantly greater odds of depression compared to those in the lowest quartile, indicating a strong, linear dose-response relationship.

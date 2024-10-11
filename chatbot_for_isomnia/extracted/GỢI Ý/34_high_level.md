@@ -1,0 +1,3 @@
+# Title: Reliability, validity, and psychometric properties of the Persian version of the Tayside children’s sleep questionnaire
+
+## Summary: This article presents a study that translated the Tayside Children’s Sleep Questionnaire (TCSQ) into Persian and assessed its validity and reliability among Persian-speaking children aged 1 to 5 years. Conducted with 311 participants in Isfahan, the study utilized various statistical methods to evaluate the questionnaire's psychometric properties. Results indicated that the Persian version of TCSQ demonstrated good reliability and validity, making it a useful tool for screening sleep disorders in young children.

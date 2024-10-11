@@ -1,0 +1,3 @@
+# Title: Effect of Acupuncture on Cognitive Function of Insomnia Patients Compared with Drugs: A Protocol for Meta-analysis and Systematic Review
+
+## Summary: This article reviews the impact of insomnia on cognitive function and explores the potential benefits of acupuncture as a treatment compared to traditional pharmacotherapy. It highlights the limitations of drug treatments, such as poor long-term efficacy and risk of dependence, while suggesting that acupuncture may offer advantages in alleviating insomnia and enhancing cognitive function. The study aims to systematically evaluate the efficacy and safety of both interventions through a comprehensive meta-analysis, utilizing multiple databases and rigorous assessment methods to inform clinical decision-making.

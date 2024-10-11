@@ -1,0 +1,3 @@
+# Title: Organophosphate (OP) diesters and a review of sources, chemical properties, environmental occurrence, adverse effects, and future directions
+
+## Summary: This article reviews the increasing prevalence of organophosphate diesters (OP diesters) as degradation products of organophosphate triesters, particularly in the context of their use as flame retardants. It discusses their chemical properties, sources, environmental occurrence, and potential adverse effects on biota and humans. The review highlights that OP diesters are widely found in various environmental matrices and identifies at least 23 OP diesters reported as contaminants, emphasizing the need for further research on their environmental impact and persistence.

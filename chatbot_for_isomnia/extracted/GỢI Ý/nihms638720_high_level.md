@@ -1,0 +1,3 @@
+# Title: The bidirectional relationship between exercise and sleep: Implications for exercise adherence and sleep improvement
+
+## Summary: This article explores the bidirectional relationship between exercise and sleep, highlighting how exercise can serve as a nonpharmacologic treatment for sleep disturbances. It reviews evidence supporting exercise's efficacy in improving sleep quality and discusses how poor sleep may lead to decreased physical activity levels. The article emphasizes the need for further research to understand this relationship better and its implications for public health, particularly in promoting exercise adherence and enhancing sleep quality.

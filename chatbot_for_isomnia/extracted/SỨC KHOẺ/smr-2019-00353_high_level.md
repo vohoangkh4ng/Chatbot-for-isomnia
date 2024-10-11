@@ -1,0 +1,3 @@
+# Title: Effect of Delaying School Start Time on Sleep Quality, Emotions, and Performance in Korean Adolescents
+
+## Summary: This study investigates the impact of delaying school start times on sleep quality, emotional well-being, and academic performance among Korean adolescents. Data collected from 238 middle school students over a period of 12 months revealed significant improvements in sleep duration, quality, and emotional health, particularly in students who experienced increased total sleep time. The findings suggest that delaying school start times may enhance mental health and overall quality of life for students.

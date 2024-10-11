@@ -1,0 +1,3 @@
+# Title: Fatigue in children and adolescents with inflammatory bowel disease
+
+## Summary: This article aims to identify factors contributing to fatigue in pediatric patients with inflammatory bowel disease (IBD), beyond active disease and anemia. The authors conducted a systematic review of studies published up to May 2017, focusing on the relationship between fatigue and IBD in children and adolescents. They analyzed various studies, highlighting the challenges in data pooling due to a lack of uniformity in outcome measures. The review included eight relevant papers that utilized questionnaires and accelerometers to assess fatigue and its correlation with daily activities and sleep patterns.

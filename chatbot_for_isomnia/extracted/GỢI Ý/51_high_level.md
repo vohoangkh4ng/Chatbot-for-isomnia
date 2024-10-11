@@ -1,0 +1,3 @@
+# Title: How Well do School-aged Children Comply with Imposed Sleep Schedules at Home?
+
+## Summary: This study investigates the compliance of school-aged children with imposed sleep schedules at home, focusing on the differences between optimized and restricted sleep conditions. The research involved 78 healthy children aged 6 to 12 years, who were asked to follow specific sleep schedules over two weeks. Results indicated that while most children were able to significantly alter their sleep patterns, a few exhibited noncompliance. The findings suggest that home-based protocols can effectively assess sleep behavior and provide a methodological framework for future studies on sleep manipulation in children.

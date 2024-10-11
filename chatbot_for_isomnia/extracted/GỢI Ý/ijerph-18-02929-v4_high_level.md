@@ -1,0 +1,3 @@
+# Title: A Review of Digital Cognitive Behavioral Therapy for Insomnia (CBT-I Apps): Are They Designed for Engagement?
+
+## Summary: This article reviews the existing evidence-based digital Cognitive Behavioral Therapy for Insomnia (dCBT-I) applications, focusing on their design elements and user engagement. It highlights the limitations of traditional in-person CBT-I and explores the effectiveness of six commercially available dCBT-I apps that have been validated through scientific methods. The study categorizes common interactive elements and features of these apps, emphasizing their role in promoting user engagement and assisting with insomnia treatment. The findings aim to guide future developers in creating more effective dCBT-I tools.

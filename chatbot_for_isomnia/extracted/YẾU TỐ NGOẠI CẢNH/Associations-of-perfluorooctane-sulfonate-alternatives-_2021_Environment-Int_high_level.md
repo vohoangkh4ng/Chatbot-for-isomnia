@@ -1,0 +1,3 @@
+# Title: Associations of perfluorooctane sulfonate alternatives and serum lipids in Chinese adults
+
+## Summary: This article investigates the relationship between chlorinated polyfluorinated ether sulfonic acids (Cl-PFESAs), which are alternatives to perfluorooctane sulfonate (PFOS), and serum lipid levels in adults. The study analyzed data from 1238 participants, revealing that exposure to 6:2 Cl-PFESA is positively associated with total cholesterol and low-density lipoprotein cholesterol (LDL-C), while exposure to 8:2 Cl-PFESA is negatively correlated with high-density lipoprotein cholesterol (HDL-C). The findings suggest that Cl-PFESAs may adversely affect serum lipid levels, highlighting the need for further research on their health impacts.

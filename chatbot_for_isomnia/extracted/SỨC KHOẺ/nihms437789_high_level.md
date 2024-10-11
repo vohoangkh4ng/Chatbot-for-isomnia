@@ -1,0 +1,3 @@
+# Title: Insomnia is frequent in schizophrenia and associated with night eating and obesity
+
+## Summary: This study investigates the prevalence of insomnia among outpatients with schizophrenia and its relationship with cognitive function, quality of life, and clinical variables. The findings reveal that 44% of participants met the criteria for clinical insomnia, which was linked to depression, lower quality of life, and higher rates of night eating and obesity. The study emphasizes the need for routine assessment of sleep difficulties in clinical care for this population.

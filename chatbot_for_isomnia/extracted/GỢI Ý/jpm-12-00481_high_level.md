@@ -1,0 +1,3 @@
+# Title: Effectiveness of Digital Cognitive Behavioral Therapy for Insomnia in Young People: Preliminary Findings from Systematic Review and Meta-Analysis
+
+## Summary: This article systematically reviews the effectiveness of digitally delivered cognitive behavioral therapy for insomnia (dCBT-i) among young individuals. The study evaluates data from four randomized controlled trials, revealing a significant improvement in self-reported sleep quality with a medium-to-large effect size. However, the impact on objective sleep quality was limited. The findings suggest that dCBT-i is a moderately effective treatment for managing insomnia in younger populations, highlighting its potential as a viable approach for promoting sleep health through digital platforms.

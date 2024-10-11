@@ -1,0 +1,3 @@
+# Title: Adverse childhood experience and persistent insomnia during emerging adulthood: do positive childhood experiences matter?
+
+## Summary: This study investigates the relationship between adverse childhood experiences (ACE) and positive childhood experiences (PCE) in relation to persistent insomnia among emerging adults. It highlights that while ACE negatively impacts sleep, PCE can serve as a protective factor, mitigating the adverse effects of ACE. The research, based on a sample of 2,841 individuals, reveals that 29.22% of participants experienced persistent insomnia, and the interplay between ACE and PCE is complex, suggesting that fostering positive experiences in childhood is crucial for promoting better sleep health in adulthood.

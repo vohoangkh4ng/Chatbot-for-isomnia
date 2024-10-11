@@ -1,0 +1,3 @@
+# Title: Seven-year survey of sleep timing in Russian children and adolescents: chronic 1-h forward transition of social clock is associated with increased social jetlag and winter pattern...
+
+## Summary: This article presents a seven-year survey examining sleep timing among Russian children and adolescents. It highlights the effects of a chronic one-hour forward transition of the social clock, which is linked to increased social jetlag and a distinct winter sleep pattern. The findings contribute to understanding the impact of social and environmental factors on sleep behavior in this demographic.

@@ -1,0 +1,3 @@
+# Title: Self-Monitoring vs. Implementation Intentions: A Comparison of Behaviour Change Techniques to Improve Sleep Hygiene and Sleep Outcomes in Students
+
+## Summary: This article compares two behavior change techniques—self-monitoring and implementation intentions—aimed at improving sleep hygiene and sleep outcomes among students. The study explores the effectiveness of these techniques in promoting better sleep practices and overall sleep quality.

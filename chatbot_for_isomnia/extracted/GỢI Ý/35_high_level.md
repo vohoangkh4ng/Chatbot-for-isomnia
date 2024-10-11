@@ -1,0 +1,3 @@
+# Title: Effects of cognitive behavioural therapy and bright light therapy for insomnia in youths with eveningness: study protocol for a randomised controlled trial
+
+## Summary: This article presents a study protocol for a randomized controlled trial aimed at evaluating the effectiveness of cognitive behavioural therapy for insomnia (CBT-I) and its combination with bright light therapy (BLT) in youths aged 12-24 who experience insomnia and eveningness. The trial will assess the impact of these interventions on insomnia severity, mood symptoms, daytime functioning, and various sleep and circadian measures compared to a waitlist control group. The study will involve 150 participants and will include both subjective and objective assessments of sleep and circadian rhythms.

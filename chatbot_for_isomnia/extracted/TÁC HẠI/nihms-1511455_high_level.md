@@ -1,0 +1,3 @@
+# Title: Shortened Sleep Duration Causes Sleepiness, Inattention, and Oppositionality in Adolescents With ADHD: Findings From a Crossover Sleep Restriction/Extension Study
+
+## Summary: This article investigates the effects of shortened sleep duration on adolescents with ADHD, highlighting how reduced sleep leads to increased sleepiness, inattention, and oppositional behavior. The findings are based on a crossover study that involved sleep restriction and extension, providing insights into the cognitive and behavioral impacts of sleep patterns in this population.

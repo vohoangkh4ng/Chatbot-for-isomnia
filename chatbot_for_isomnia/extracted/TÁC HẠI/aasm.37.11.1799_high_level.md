@@ -1,0 +1,3 @@
+# Title: Effect of Sleep Deprivation on Adolescent Neurobehavioral Performance
+
+## Summary: This article investigates the impact of one night of sleep deprivation on neurobehavioral functioning in adolescents. The study involved twelve healthy adolescents who completed a series of neurobehavioral tests to measure attention, reaction speed, cognitive processing speed, sleepiness, and fatigue. Results indicated significant declines in performance across these measures following sleep deprivation compared to well-rested conditions. The findings highlight the detrimental effects of sleep loss on adolescents' cognitive abilities and subjective sleepiness, suggesting increased risks for academic and social challenges, as well as accidents and injuries.

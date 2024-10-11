@@ -1,0 +1,3 @@
+# Title: Academic Stress Reduction Curriculum: A review of the supporting literature and description of the curriculum developed
+
+## Summary: This article presents a review of the literature supporting an academic stress reduction curriculum and describes the curriculum developed as part of a Master's thesis at The University of North Carolina Chapel Hill. The work aims to address the impact of academic stress on students and outlines strategies for alleviating such stress through structured interventions.

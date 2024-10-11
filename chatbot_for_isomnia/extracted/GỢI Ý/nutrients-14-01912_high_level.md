@@ -1,0 +1,3 @@
+# Title: Sleep Quality: A Narrative Review on Nutrition, Stimulants, and Physical Activity as Important Factors
+
+## Summary: This article reviews the various factors influencing sleep quality, particularly focusing on nutrition, the impact of stimulants, and physical activity. It highlights the increasing prevalence of sleep disorders and insomnia across all age groups, which are linked to several health risks, including depression and cardiovascular diseases. The review aims to provide insights into how lifestyle choices, including diet and exercise, can significantly enhance sleep quality and overall well-being.

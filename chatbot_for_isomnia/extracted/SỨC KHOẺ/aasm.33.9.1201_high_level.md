@@ -1,0 +1,3 @@
+# Title: The Association of Sleep Duration with Adolescents’ Fat and Carbohydrate Consumption
+
+## Summary: This study investigates the relationship between sleep duration and energy consumption among adolescents. It finds that shorter sleep duration during weekdays is linked to a higher proportion of caloric intake from fats and a lower proportion from carbohydrates. Specifically, adolescents sleeping less than 8 hours consume more calories from fats and fewer from carbohydrates compared to those who sleep 8 or more hours. The findings suggest that insufficient sleep may contribute to obesity risk by altering eating patterns and energy balance.

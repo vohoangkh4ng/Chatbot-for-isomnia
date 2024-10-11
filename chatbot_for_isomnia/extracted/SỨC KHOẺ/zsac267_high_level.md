@@ -1,0 +1,3 @@
+# Title: A longitudinal investigation of sleep hygiene as a mediator linking parental warmth with adolescent sleep
+
+## Summary: This study explores the relationship between parental warmth and adolescent sleep outcomes over four years, utilizing a cross-lagged panel design. It finds that higher levels of parental warmth are associated with better sleep hygiene and improved sleep quality in adolescents. The research indicates that sleep hygiene serves as a key mechanism in this relationship, suggesting that both parental warmth and adolescent sleep can influence each other over time.

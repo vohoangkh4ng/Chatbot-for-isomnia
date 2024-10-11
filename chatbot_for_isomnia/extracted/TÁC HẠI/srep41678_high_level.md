@@ -1,0 +1,3 @@
+# Title: Sleep habits, academic performance, and the adolescent brain structure
+
+## Summary: This article presents robust evidence linking sleep habits with regional brain grey matter volumes and academic performance in adolescents. It highlights that shorter sleep duration during weekdays and later weekend bedtimes are associated with reduced grey matter volumes in critical brain regions, including the frontal and anterior cingulate cortex. The findings suggest a concerning relationship between sleep patterns and both brain structure and school performance, emphasizing the need for interventions to address sleep issues among adolescents.

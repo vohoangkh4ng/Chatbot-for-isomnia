@@ -1,0 +1,3 @@
+# Title: Genetic Basis of Chronotype in Humans: Insights From Three Landmark GWAS
+
+## Summary: This review article discusses the genetic underpinnings of chronotype, or diurnal preference, which reflects an individual's preferred timing of sleep and wakefulness. It highlights findings from three significant genome-wide association studies (GWAS) that identified common genetic variants associated with chronotype, revealing both known and novel genes influencing circadian rhythms. The article emphasizes the importance of GWAS in uncovering genetic factors that contribute to sleep regulation and suggests future research directions to further explore these genetic influences.

@@ -1,0 +1,3 @@
+# Title: Identifying windows of susceptibility to essential elements for semen quality among 1428 healthy men screened as potential sperm donors
+
+## Summary: This article investigates the associations between urinary concentrations of essential elements (iron, cobalt, copper, zinc, selenium, rubidium, strontium, and molybdenum) and semen quality in healthy men. The study, involving 1428 participants, found positive relationships between higher urinary zinc and molybdenum levels and improved sperm concentration and total count, particularly when measured shortly before semen examination. The findings suggest critical windows of susceptibility for these elements in relation to male fertility.

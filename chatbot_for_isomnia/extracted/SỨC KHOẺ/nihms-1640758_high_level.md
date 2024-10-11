@@ -1,0 +1,3 @@
+# Title: Racial/Ethnic Disparity in Habitual Sleep is Modified by Caloric Intake in Adolescents
+
+## Summary: This study investigates how caloric intake influences the relationship between race/ethnicity and habitual sleep patterns in adolescents. Analyzing data from 324 participants, the research finds that racial/ethnic minorities experience shorter habitual sleep duration and greater sleep variability compared to non-Hispanic whites. The study highlights the significance of caloric intake in moderating these disparities, suggesting that dietary factors may play a crucial role in sleep health among different racial/ethnic groups.

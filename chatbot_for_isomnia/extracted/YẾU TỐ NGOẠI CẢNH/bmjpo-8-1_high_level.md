@@ -1,0 +1,3 @@
+# Title: Insomnia and other sleep disorders in adolescence
+
+## Summary: This article discusses the significance of sleep for adolescents, highlighting that many young people struggle to achieve adequate sleep due to various biopsychosocial factors. It emphasizes the need for a holistic, multidisciplinary approach to assess and treat sleep disorders in this population, as much of the existing research is based on adult studies. The authors call for further research to establish a robust evidence base for effective interventions tailored to adolescents experiencing sleep difficulties.

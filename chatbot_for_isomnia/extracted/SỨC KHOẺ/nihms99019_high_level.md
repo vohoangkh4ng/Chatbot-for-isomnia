@@ -1,0 +1,3 @@
+# Title: Sociodemographic and behavioral predictors of bed time and wake time among U.S. adolescents aged 15–17 years
+
+## Summary: This article examines bed times and wake times in U.S. adolescents aged 15–17 years, utilizing time diaries from two national probability samples. The study finds that adolescents average about 8 hours in bed on school days, which is insufficient compared to the recommended 9 hours. It highlights that bed times and wake times have not significantly changed from 1981 to 2003–2006, with school start times being the strongest predictor of wake times. Additionally, increased computer use and social activities are identified as factors influencing bed times, suggesting a potential link to insufficient sleep among adolescents.

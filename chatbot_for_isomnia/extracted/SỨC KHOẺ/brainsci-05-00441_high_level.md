@@ -1,0 +1,3 @@
+# Title: Caffeine Consuming Children and Adolescents Show Altered Sleep Behavior and Deep Sleep
+
+## Summary: This article investigates the impact of regular caffeine consumption on sleep behavior and electroencephalogram (EEG) patterns in children and adolescents aged 10 to 16 years. The study finds that caffeine consumers tend to have later bedtimes and spend less time in bed compared to non-consumers, although their morning tiredness remains unchanged. Notably, caffeine consumers exhibit reduced slow-wave activity (SWA) and alpha activity in their sleep EEG at the beginning of the night, indicating altered sleep quality, although these effects diminish by morning.

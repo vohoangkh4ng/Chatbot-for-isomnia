@@ -1,0 +1,3 @@
+# Title: Longitudinal sleep problem trajectories are associated with multiple impairments in child well-being
+
+## Summary: This study investigates the relationship between distinct sleep problem trajectories from infancy to middle childhood and various aspects of child well-being at ages 10-11 years. Utilizing data from the Longitudinal Study of Australian Children, the research analyzes caregiver-reported sleep issues and correlates them with emotional, behavioral, cognitive, and academic outcomes in children.

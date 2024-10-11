@@ -1,0 +1,3 @@
+# Title: A Cross-Sectional Comparative Study of Sleep Disturbances in Children with ADHD and Matched Controls
+
+## Summary: This study investigates sleep disturbances in children diagnosed with Attention Deficit Hyperactivity Disorder (ADHD) compared to typically developing peers, controlling for various moderating factors. The research finds that 65% of children with ADHD experience sleep disorders, significantly higher than the 17% in the control group. Both subjective and objective assessments indicate that sleep disturbances in children with ADHD are prevalent and exist independently of other variables, supporting existing literature on the connection between ADHD and sleep issues.

@@ -1,0 +1,3 @@
+# Title: Attentional bias to social media stimuli is moderated by fear of missing out among problematic social media users
+
+## Summary: This study investigates the relationship between problematic social media use (PSMU) and attentional bias towards social media icons, specifically examining how fear of missing out (FoMO) influences this bias. Through experimental methods, including eye-tracking and a dot-probe paradigm, the research reveals that individuals with PSMU exhibit a significant attentional bias towards social media icons, which is moderated by their levels of FoMO. The findings suggest that attentional bias is a common mechanism in PSMU, with FoMO playing a critical role in its development.

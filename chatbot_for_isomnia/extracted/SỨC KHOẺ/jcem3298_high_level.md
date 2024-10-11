@@ -1,0 +1,3 @@
+# Title: Influence of Light at Night on Melatonin Suppression in Children
+
+## Summary: This study investigates the effects of light exposure on melatonin suppression in children compared to adults. The research involved two experiments measuring salivary melatonin concentrations in healthy primary school children and adults under different light conditions. Results indicated that melatonin suppression due to light exposure was significantly greater in children (88.2%) than in adults (46.3%), suggesting that children are more sensitive to light-induced melatonin suppression at night.

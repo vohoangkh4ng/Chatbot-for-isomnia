@@ -1,0 +1,3 @@
+# Title: Sleep Disorders in Early Childhood and the Development of Mental Health Problems in Adolescents: A Systematic Review of Longitudinal and Prospective Studies
+
+## Summary: This article presents a systematic review examining the relationship between sleep disorders in early childhood and the development of mental health issues, such as anxiety, depression, and ADHD, in adolescence. The review analyzes 26 studies, of which seven met the selection criteria, indicating a significant and potentially causal link between early childhood sleep disorders and later mental health problems. The findings underscore the importance of understanding these relationships for developing early intervention strategies to mitigate mental health issues in adolescents.

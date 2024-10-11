@@ -1,0 +1,3 @@
+# Title: Bright Light Therapy: Seasonal Affective Disorder and Beyond
+
+## Summary: This article reviews the effectiveness of Bright Light Therapy (BLT) as a treatment for Seasonal Affective Disorder (SAD), which was first described in the 1980s. It discusses the pathophysiology of SAD, the mechanisms by which BLT operates, and its application beyond SAD to other psychiatric disorders, including non-seasonal unipolar and bipolar depression, eating disorders, and ADHD. The review highlights the historical context of SAD and the evolving understanding of its treatment through light therapy.

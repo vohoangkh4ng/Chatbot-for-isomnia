@@ -1,0 +1,3 @@
+# Title: Chronic Insomnia and Its Negative Consequences for Health and Functioning of Adolescents: A 12-Month Prospective Study
+
+## Summary: This study investigates the prevalence and chronicity of insomnia among adolescents, as well as its impact on their health and functioning. Data were collected from over 4,000 youths aged 11-17, revealing that more than 25% reported insomnia symptoms, with 5% meeting diagnostic criteria. The findings indicate that chronic insomnia is common and can lead to significant health issues, including somatic, psychological, and interpersonal problems. The study highlights the need for early screening and intervention in primary care settings to address adolescent insomnia effectively.

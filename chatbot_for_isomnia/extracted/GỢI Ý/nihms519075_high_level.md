@@ -1,0 +1,3 @@
+# Title: Years of Life Gained Due to Leisure-Time Physical Activity in the United States
+
+## Summary: This study investigates the impact of leisure-time physical activity on life expectancy among adults in the United States. Utilizing data from various health surveys, the research estimates potential years of life gained for individuals categorized as inactive, somewhat active, and active. Findings indicate that both somewhat active and active individuals enjoy a significant increase in life expectancy compared to their inactive counterparts, with notable differences observed across various demographics, particularly among non-Hispanic white and black women.

@@ -1,0 +1,3 @@
+# Title: Sleep disturbance predicts depression symptoms in early adolescence: Initial Findings from the Adolescent Brain Cognitive Development Study
+
+## Summary: This article investigates the associations between sleep disturbances and mental health in adolescents, utilizing data from a national sample of 11,670 US participants aged 9-10 years. The study finds that greater sleep disturbances and shorter total sleep time are linked to higher scores of internalizing, externalizing, and depression symptoms. Furthermore, baseline sleep disturbances significantly predict depression and related mental health issues at a one-year follow-up, with notable differences observed based on sex.

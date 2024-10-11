@@ -1,0 +1,3 @@
+# Title: The effects of eye masks and earplugs on sleep quality, anxiety, fear, and vital signs in patients in an intensive care unit: A randomised controlled study
+
+## Summary: This study investigates the impact of using earplugs and eye masks on sleep quality, anxiety, fear, and vital signs in patients within an intensive care unit (ICU). Conducted with 70 patients, the research found that those using earplugs and eye masks experienced significant improvements in sleep quality and reductions in anxiety, fear, and vital sign fluctuations compared to a control group receiving only routine care. The findings suggest that these simple interventions can enhance patient comfort and well-being in the ICU setting.

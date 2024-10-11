@@ -1,0 +1,3 @@
+# Title: How staying in a gymnasium affects sleep and bed climate in children
+
+## Summary: This study investigates the impact of ambient and bed climate on sleep in school-aged children during a one-night stay in a simulated shelter within a gymnasium. Measurements were taken before, during, and after the stay to assess sleep quality, temperature, and humidity. Results indicated that the gymnasium environment led to significant disturbances in sleep patterns, including reduced sleep efficiency and shorter sleep duration, attributed to delayed increases in bed climate temperature and discomfort from heat. The findings highlight the challenges faced by children in shelter settings, particularly in relation to sleep quality.

@@ -1,0 +1,3 @@
+# Title: Herbal medicine for depression, anxiety and insomnia: A review of psychopharmacology and clinical evidence
+
+## Summary: This article reviews the psychopharmacological effects and clinical evidence of herbal medicine in the treatment of depression, anxiety, and insomnia. It discusses various herbal remedies, their efficacy, and the implications for mental health treatment, highlighting the growing interest in alternative therapies in the field of neuropsychopharmacology.

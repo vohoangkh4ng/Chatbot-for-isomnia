@@ -1,0 +1,3 @@
+# Title: Intense and problematic social media use and sleep difficulties of adolescents in 40 countries
+
+## Summary: This study investigates the relationship between intense and problematic social media use (SMU) and sleep-onset difficulties among adolescents aged 11-15 years across 40 countries. Analyzing data from over 212,000 participants, the research finds that sleep-onset difficulties are more prevalent in girls than boys and are significantly associated with both intense and problematic SMU. The findings suggest that problematic SMU has a stronger correlation with sleep issues compared to intense SMU, highlighting the need for further research to explore the causal mechanisms behind these associations.

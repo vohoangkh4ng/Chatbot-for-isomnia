@@ -1,0 +1,3 @@
+# Title: Food Insecurity and Sleep-Related Problems in Adolescents: Findings from the EHDLA Study
+
+## Summary: This study investigates the relationship between food insecurity and sleep-related issues among adolescents aged 12 to 17 in the Valle de Ricote region of Spain. Analyzing data from 836 adolescents, the research found that those experiencing food insecurity had significantly higher rates of bedtime problems, excessive daytime sleepiness, and awakenings during the night compared to their food-secure peers. The findings suggest that addressing food insecurity could improve sleep health among adolescents, emphasizing the need for integrated public health strategies.

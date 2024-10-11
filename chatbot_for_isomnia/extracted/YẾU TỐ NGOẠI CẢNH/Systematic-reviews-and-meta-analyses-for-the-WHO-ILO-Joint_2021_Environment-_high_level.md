@@ -1,0 +1,3 @@
+# Title: Systematic reviews and meta-analyses for the WHO/ILO Joint Estimates of the Work-related Burden of Disease and Injury
+
+## Summary: This article discusses the collaborative efforts of the World Health Organization (WHO) and the International Labour Organization (ILO) in producing the first Joint Estimates of the Work-related Burden of Disease and Injury. It highlights the importance of accurate global health estimates for occupational health and safety, detailing the systematic reviews and meta-analyses conducted to assess exposure to occupational risk factors and their health outcomes. The article also outlines the innovative methodologies developed for these reviews and their implications for future health policy and practice.

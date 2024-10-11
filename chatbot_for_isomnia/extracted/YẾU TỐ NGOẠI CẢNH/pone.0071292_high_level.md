@@ -1,0 +1,3 @@
+# Title: Variability of Sleep Duration Is Related to Subjective Sleep Quality and Subjective Well-Being: An Actigraphy Study
+
+## Summary: This study investigates the relationship between sleep duration variability, subjective sleep quality, and subjective well-being using actigraphy data from a diverse sample of middle-aged and older adults. The findings indicate that high day-to-day variability in sleep duration is associated with lower subjective well-being, and this relationship is partially mediated by subjective sleep quality. The research highlights the importance of both objective and subjective assessments of sleep in understanding their impact on well-being.

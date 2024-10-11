@@ -1,0 +1,3 @@
+# Title: A brief behavioral treatment for unresolved insomnia in adolescents: a single-case multiple baseline pilot study, evaluating self-reported outcomes of efficacy, safety, and acceptability
+
+## Summary: This pilot study investigates a novel, brief (3-week) behavioral intervention for adolescents with unresolved chronic insomnia, assessing its efficacy, safety, and acceptability. Utilizing a multiple baseline design, the study found improvements in self-reported sleep quality, including sleep onset latency and efficiency, with no adverse effects on mood or parent-child interactions. The findings suggest that this intervention could be a safe and effective treatment for adolescent insomnia, warranting further large-scale clinical evaluation.

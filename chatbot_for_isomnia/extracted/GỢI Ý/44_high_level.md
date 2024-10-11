@@ -1,0 +1,3 @@
+# Title: Auriculotherapy for sleep quality in people with primary insomnia
+
+## Summary: This article presents a protocol for a systematic review and meta-analysis aimed at evaluating the efficacy and safety of auriculotherapy as a treatment for primary insomnia. The review will analyze randomized controlled trials involving auricular acupuncture and acupressure, assessing outcomes primarily through the Pittsburgh Sleep Quality Index. The study seeks to synthesize high-quality evidence regarding the effectiveness of auriculotherapy in improving sleep quality for individuals suffering from primary insomnia.

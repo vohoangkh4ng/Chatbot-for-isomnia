@@ -1,0 +1,3 @@
+# Title: The Benzodiazepine Receptor
+
+## Summary: This review article discusses the mechanisms of action of benzodiazepines, which are widely used drugs known for their anxiolytic, hypnotic, anticonvulsant, and muscle relaxant effects. It highlights the significant advancements in understanding the chemistry and function of the central nervous system (CNS) over the past 20 years, particularly regarding the interaction of benzodiazepines with specific receptors in the CNS. The article presents two hypotheses regarding benzodiazepine receptor interactions: one suggesting multiple receptor subtypes and the other proposing a single receptor with dynamic conformations. Experimental evidence supporting both hypotheses is critically evaluated.

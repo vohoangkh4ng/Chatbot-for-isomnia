@@ -1,0 +1,3 @@
+# Title: Bedtime Autonomy and Cellphone Use Influence Sleep Duration in Adolescents
+
+## Summary: This article explores the relationship between adolescents' bedtime autonomy and their cellphone usage, examining how these factors impact sleep duration. The study highlights the significance of these influences on adolescent health and well-being, providing insights into potential interventions to improve sleep patterns in this age group.

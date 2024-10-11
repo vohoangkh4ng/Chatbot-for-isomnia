@@ -1,0 +1,3 @@
+# Title: A tryptophan-rich breakfast and exposure to light with low color temperature at night improve sleep and salivary melatonin level in Japanese students
+
+## Summary: This study investigates the effects of a tryptophan-rich breakfast combined with exposure to low color temperature light at night on melatonin secretion and sleep quality among Japanese university students. The research suggests that this combination enhances melatonin levels, facilitating earlier sleep onset and improving sleep quality. The findings indicate that dietary and environmental factors can significantly influence sleep patterns and melatonin synthesis.

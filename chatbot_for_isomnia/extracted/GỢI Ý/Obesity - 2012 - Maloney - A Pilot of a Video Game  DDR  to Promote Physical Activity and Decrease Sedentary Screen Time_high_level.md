@@ -1,0 +1,3 @@
+# Title: A Pilot of a Video Game (DDR) to Promote Physical Activity and Decrease Sedentary Screen Time
+
+## Summary: This pilot study investigates the feasibility of using the Dance Dance Revolution (DDR) video game to enhance physical activity and reduce sedentary screen time among children. Sixty participants were randomized to either the DDR group or a wait-list control group. Results indicated that the DDR group experienced a significant decrease in sedentary screen time and a slight increase in vigorous physical activity, while the control group showed no significant changes. The findings suggest that DDR may be an effective tool for promoting a healthier lifestyle in children, warranting further research to explore its broader applicability.

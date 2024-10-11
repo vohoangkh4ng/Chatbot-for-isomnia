@@ -1,0 +1,3 @@
+# Title: Are We Ready to Implement Circadian Hygiene Interventions and Programs?
+
+## Summary: This article discusses the emerging concept of circadian hygiene, which differs from traditional sleep hygiene, emphasizing the importance of light-dark cycles and other synchronizers of the human circadian timing system. It explores how these factors influence daily behaviors such as sleeping, eating, and physical activity, and highlights the need for public health policies and individual practices that align with circadian hygiene. The authors argue for a collaborative approach to promote health based on circadian rhythms, raising questions about societal readiness to adopt these changes.

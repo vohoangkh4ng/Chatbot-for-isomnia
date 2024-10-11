@@ -1,0 +1,3 @@
+# Title: Prenatal environmental tobacco smoke exposure alters children’s cognitive control circuitry: A preliminary study
+
+## Summary: This study investigates the impact of prenatal exposure to environmental tobacco smoke (ETS) on children's cognitive control circuitry and behavior. It finds that children exposed to ETS during pregnancy exhibit smaller volumes in key brain areas associated with cognitive control and increased activation during tasks requiring attention. The results suggest that maternal ETS exposure negatively affects brain structure and function, leading to attention problems in school-age children, highlighting the neurotoxic effects of nicotine regardless of exposure pathway.

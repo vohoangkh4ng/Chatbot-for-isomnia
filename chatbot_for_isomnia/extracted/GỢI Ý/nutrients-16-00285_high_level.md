@@ -1,0 +1,3 @@
+# Title: Association between Beverage Consumption and Sleep Quality in Adolescents
+
+## Summary: This study investigates the relationship between various beverage consumption, including water, 100% pure fruit juice, and sugar-sweetened beverages (SSBs), and sleep quality among adolescents aged 14 to 17 in Québec, Canada. The research involved 218 participants and utilized validated questionnaires to assess beverage intake and sleep quality. Findings indicate that the consumption of energy drinks and sugar-sweetened coffee negatively impacts sleep quality, with notable differences between genders. The study suggests targeted public health interventions to reduce energy drink consumption in boys and sugar-sweetened coffee intake in girls to enhance sleep quality.

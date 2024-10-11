@@ -1,0 +1,3 @@
+# Title: Relationship between Physical Activity, Screen Time, and Sleep Quantity and Quality in US Adolescents Aged 16–19
+
+## Summary: This study investigates the relationships between physical activity (PA), screen time, and sleep quantity and quality among US adolescents aged 16–19. Utilizing data from the 2005–2006 National Health and Nutrition Examination Survey, the research reveals that adolescents meeting PA and screen time recommendations have significantly lower odds of experiencing insufficient sleep and poor sleep quality. Notably, the findings indicate that these associations vary by sex, highlighting the importance of promoting healthy lifestyle habits to improve sleep outcomes in this age group.

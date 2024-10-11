@@ -1,0 +1,3 @@
+# Title: The early-life exposome and epigenetic age acceleration in children
+
+## Summary: This article investigates the relationship between over 100 environmental exposures during pregnancy and childhood—such as air pollutants, built environments, and lifestyle factors—and their impact on epigenetic age acceleration in children. The study focuses on a cohort of 1,173 seven-year-old children from the Human Early-Life Exposome project, suggesting that early-life environmental factors may influence biological aging and future health outcomes.

@@ -1,0 +1,3 @@
+# Title: Early pregnancy essential and non-essential metal mixtures and gestational glucose concentrations in the 2nd trimester: Results from project viva
+
+## Summary: This study investigates the associations between essential and non-essential metal exposures during early pregnancy and gestational glucose concentrations in a cohort of 1,311 women. Using Bayesian Kernel Machine Regression, the research identifies an inverse U-shaped relationship for barium and a linear inverse relationship for mercury with glucose levels. While joint associations of all metals were found to be null, interactions between barium and lead were noted, highlighting the complex role of metal mixtures in glucose metabolism during pregnancy.

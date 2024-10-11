@@ -1,0 +1,3 @@
+# Title: Concurrent Use of Hypnotic Drugs and Chinese Herbal Medicine Therapies among Taiwanese Adults with Insomnia Symptoms: A Population-Based Study
+
+## Summary: This study investigates the concurrent use of Chinese herbal products (CHPs) among Taiwanese adults suffering from insomnia who are also taking hypnotic drugs. Analyzing data from a large sample of insomnia patients, the research reveals that over one-third of hypnotic users also utilize CHPs, with specific herbal formulations being most common. The study highlights potential interactions between CHPs and hypnotic medications and suggests that integrating both traditional and modern healthcare approaches could enhance the health and quality of life for individuals with insomnia.

@@ -1,0 +1,3 @@
+# Title: Teens’ perspectives on yoga as a treatment for stress and depression
+
+## Summary: This article explores adolescents' experiences and attitudes towards yoga, particularly its acceptability and feasibility as an intervention for depression and stress. Through qualitative analysis of focus groups and interviews with 22 teens, the study reveals mixed feelings about yoga, highlighting potential benefits for depressed or stressed adolescents while also addressing concerns such as self-consciousness in class settings. The findings suggest that to effectively engage teens, yoga classes should be varied, relevant, and designed to counter stereotypes about yoga practitioners. Limitations include a lack of male participants in the study.

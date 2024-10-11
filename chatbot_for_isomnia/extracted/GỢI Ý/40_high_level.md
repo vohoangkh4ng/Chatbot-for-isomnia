@@ -1,0 +1,3 @@
+# Title: Efficacy of melatonin with behavioural sleep-wake scheduling for delayed sleep-wake phase disorder: A double-blind, randomised clinical trial
+
+## Summary: This article investigates the effectiveness of 0.5 mg melatonin combined with behavioral sleep-wake scheduling in treating Delayed Sleep-Wake Phase Disorder (DSWPD). The study addresses the lack of randomized controlled trials on melatonin for DSWPD, focusing on patients with a delayed melatonin rhythm. Conducted in Australia, the trial involved a placebo-controlled, double-blind design over four weeks, aiming to improve sleep initiation in affected individuals.

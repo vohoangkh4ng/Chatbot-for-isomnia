@@ -1,0 +1,3 @@
+# Title: Self-Reported Sleep Duration and Weight-Control Strategies Among US High School Students
+
+## Summary: This study investigates the relationship between self-reported sleep duration and weight-control behaviors among US high school students. Utilizing data from the 2007 National Youth Risk Behavior Survey, the research finds that a significant portion of students report short sleep durations, which are associated with unhealthy weight-control practices such as dieting, fasting, and purging. The findings suggest that short sleep duration may contribute to disordered weight-control behaviors, highlighting the need for further intervention studies to explore educational strategies aimed at addressing these issues in adolescents.

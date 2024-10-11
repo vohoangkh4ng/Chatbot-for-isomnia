@@ -1,0 +1,3 @@
+# Title: The Role of Sleep Duration in the Regulation of Energy Balance: Effects on Energy Intakes and Expenditure
+
+## Summary: This article reviews the relationship between sleep duration and energy balance, particularly focusing on how short sleep may influence energy intake and expenditure. It discusses findings from various studies that suggest a correlation between reduced sleep and increased food intake, while the effects on energy expenditure remain inconsistent. The review highlights the need for further research to clarify these relationships, particularly regarding hormonal changes and the potential impact of increasing sleep duration on energy balance.

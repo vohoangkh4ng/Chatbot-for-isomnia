@@ -1,0 +1,3 @@
+# Title: Comparison of indoor and outdoor oxidative potential of PM2.5: pollution levels, temporal patterns, and key constituents
+
+## Summary: This article investigates the oxidative potential (OP) of PM2.5 as a health indicator, focusing on its ability to induce oxidative stress and related health effects. The study, conducted over a year in Nanjing, China, compares pollution levels and key constituents of PM2.5 in indoor and outdoor environments. Findings reveal that while outdoor PM2.5 mass concentration decreases during indoor transport, its oxidative potential can vary significantly. The research highlights the importance of considering indoor PM2.5's OP in mitigation strategies, as it differs from outdoor levels and exhibits seasonal patterns.

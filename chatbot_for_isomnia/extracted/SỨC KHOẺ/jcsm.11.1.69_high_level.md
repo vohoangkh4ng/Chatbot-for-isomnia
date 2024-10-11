@@ -1,0 +1,3 @@
+# Title: Sleep Disturbances among Medical Students: A Global Perspective
+
+## Summary: This article reviews the prevalence and impact of sleep disturbances among medical students, highlighting that they experience poorer sleep quality compared to non-medical students and the general population. The review identifies various factors contributing to these sleep issues, including academic demands and lifestyle choices. It emphasizes the need for increased awareness and education regarding sleep health among medical students, as well as the importance of understanding the etiology of their sleep problems to improve their overall quality of life and academic performance.

@@ -1,0 +1,3 @@
+# Title: The effect of physical activity on sleep quality, well-being, and affect in academic stress periods
+
+## Summary: This study investigates the impact of physical activity on sleep quality, well-being, and affect during periods of academic stress among students. It explores the stress-buffering hypothesis, suggesting that regular exercise may mitigate the negative health effects associated with academic stress. The research involved 64 participants who completed surveys over a semester, revealing significant relationships between physical activity and improved well-being, positive affect, and sleep quality. The findings indicate that maintaining physical activity during high-stress periods can help prevent adverse effects on health-related outcomes.

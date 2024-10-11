@@ -1,0 +1,3 @@
+# Title: Insomnia partially mediated the association between problematic Internet use and depression among secondary school students in China
+
+## Summary: This study investigates the mediating role of insomnia in the relationship between problematic Internet use (including Internet addiction and online social networking addiction) and depression among adolescents in China. A survey of 1,015 secondary school students revealed significant associations between Internet addiction, online social networking addiction, insomnia, and depression. The findings indicate that insomnia partially mediates the effects of both Internet addiction and online social networking addiction on depression, suggesting the need for interventions that address these interconnected issues.

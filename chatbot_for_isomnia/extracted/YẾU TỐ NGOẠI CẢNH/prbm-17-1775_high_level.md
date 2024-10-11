@@ -1,0 +1,3 @@
+# Title: The Impact of Problematic Smartphone Use on Sleep Quality Among Chinese Young Adults: Investigating Anxiety and Depression as Mediators in a Three-Wave Longitudinal Study
+
+## Summary: This study explores the relationship between problematic smartphone use (PSU) and sleep quality among Tibetan college students, focusing on anxiety and depression as mediating factors. Through a longitudinal analysis involving 2993 participants, the research identifies both direct and indirect effects of PSU on sleep disturbances, highlighting the significant roles of anxiety and depressive symptoms. The findings suggest that interventions aimed at improving sleep should also address mental health issues.

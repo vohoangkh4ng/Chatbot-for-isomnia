@@ -1,0 +1,3 @@
+# Title: Sleep and health-related physical fitness in children and adolescents: a systematic review
+
+## Summary: This systematic review aims to summarize the evidence regarding the associations between sleep duration and sleep quality with cardiorespiratory and muscular fitness in children and adolescents aged 6-19 years. Following the PRISMA guidelines, the review included six articles with a total of 5797 participants from 11 different countries. The findings suggest that longer sleep duration and better sleep quality are linked to higher levels of physical fitness.

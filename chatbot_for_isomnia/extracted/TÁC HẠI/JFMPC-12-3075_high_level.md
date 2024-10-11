@@ -1,0 +1,3 @@
+# Title: Sleep hygiene a neglected paediatric identity – A cross-sectional study
+
+## Summary: This article investigates the prevalence of poor sleep quality among children aged 7 to 12 years and its association with obesity and academic performance. Conducted with 322 participants, the study found that approximately 53% of the children exhibited poor sleep quality, which was significantly linked to higher body mass index (BMI) and unfavorable academic outcomes. The authors emphasize the importance of educating parents about sleep hygiene and suggest that regular assessments could help address issues related to obesity and academic performance through manageable lifestyle changes.

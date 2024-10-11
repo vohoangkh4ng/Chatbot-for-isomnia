@@ -1,0 +1,3 @@
+# Title: Associations between sleep quality and its domains and insufficient physical activity in a large sample of Croatian young adults: a cross-sectional study
+
+## Summary: This study investigates the relationship between sleep quality and insufficient physical activity among 2100 Croatian university students aged 18-24. It finds that poor sleep quality is significantly associated with insufficient physical activity levels. The research highlights the need for strategies to improve sleep quality to enhance physical activity among young adults, noting that various sleep quality domains, such as sleep latency and efficiency, are linked to physical inactivity.

@@ -1,0 +1,3 @@
+# Title: The Case for Investigating a Bidirectional Association between Insomnia Symptoms and Eating Disorder Pathology
+
+## Summary: This article explores the relationship between insomnia symptoms and eating disorder (ED) pathology, highlighting that many individuals with EDs experience insomnia. The authors discuss the potential mechanisms behind this bidirectional association, noting that insomnia can exacerbate anxiety, mood disorders, and ED symptoms, while also hindering recovery and increasing relapse rates. They propose future research directions to better understand these connections and suggest integrating existing insomnia treatments, such as Cognitive-Behavioral Therapy for Insomnia, into ED care to improve treatment outcomes.

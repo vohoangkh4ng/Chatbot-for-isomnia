@@ -1,0 +1,3 @@
+# Title: Association of Road Traffic Noise at Night with Sleep Disturbances in Adolescents
+
+## Summary: This article investigates the relationship between nighttime road traffic noise and sleep disturbances among adolescents in Switzerland. A cohort of 887 adolescents was assessed for sleep disturbances using standardized questions, and their exposure to road traffic noise was measured. The study found that higher levels of nighttime noise exposure were associated with increased self-reported sleep disturbances. However, longitudinal analysis indicated no change in sleep disturbances over one year, suggesting a potential steady state in sleep quality despite noise exposure. The findings highlight the significant impact of environmental noise on adolescent sleep health.

@@ -1,0 +1,3 @@
+# Title: Experiences of Using Weighted Blankets among Children with ADHD and Sleeping Difficulties
+
+## Summary: This research article explores the experiences of 26 children aged 6-15 with ADHD and sleeping difficulties who participated in a sleep intervention using weighted blankets. The study identifies four key themes from qualitative interviews: the need for commitment in adjusting the use of blankets, improvements in emotional regulation, changes in sleeping patterns leading to better sleep quality, and enhanced participation in daily activities. The findings suggest that weighted blankets can significantly aid children in managing their daily lives, highlighting the importance of tailored interventions by occupational therapists to meet individual needs.

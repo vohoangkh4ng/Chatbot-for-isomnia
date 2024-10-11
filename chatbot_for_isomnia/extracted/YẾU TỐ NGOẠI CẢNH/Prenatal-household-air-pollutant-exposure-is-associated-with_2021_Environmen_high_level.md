@@ -1,0 +1,3 @@
+# Title: Prenatal household air pollutant exposure is associated with reduced size and gestational age at birth among a cohort of Ghanaian infants
+
+## Summary: This article investigates the impact of maternal exposure to carbon monoxide (CO) during pregnancy on various birth outcomes, including birth weight, length, and gestational age, among 1,288 live-born infants in Ghana. The study finds that increased CO exposure correlates with reduced birth weight and gestational age, particularly in pregnancies without placental malaria, highlighting the need for interventions to reduce household air pollution (HAP) to improve public health outcomes.

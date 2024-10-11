@@ -1,0 +1,3 @@
+# Title: Association between physical activity and sleep quality among healthcare students
+
+## Summary: This study investigates the relationship between physical activity (PA) and sleep quality (SQ) among healthcare students at Mohammed Bin Rashid University in Dubai. Utilizing online surveys, the research assesses demographics, physical activity levels, and sleep quality indicators. Results indicate that a significant portion of students experience poor sleep quality, with notable correlations between physical activity levels and sleep efficiency. The findings suggest that while exercise can improve sleep quality, excessive physical activity may negatively impact it, highlighting the need for public health considerations in academic settings.

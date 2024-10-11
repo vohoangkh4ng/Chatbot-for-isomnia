@@ -1,0 +1,3 @@
+# Title: Changes in Sleep as a Function of Adolescent Development
+
+## Summary: The article discusses the significant changes in sleep patterns that occur during adolescence, highlighting that older adolescents tend to go to bed later, prefer evening activities, and experience reduced sleep duration compared to younger adolescents. These behavioral shifts are influenced by external pressures such as academic and social demands, as well as biological circadian factors. The article also notes substantial alterations in sleep architecture, including declines in slow wave sleep and changes in brain structure, which may impact adolescents' academic performance, mood, and overall health.

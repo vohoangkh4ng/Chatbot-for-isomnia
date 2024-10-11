@@ -1,0 +1,3 @@
+# Title: Examining relationships between sleep posture, waking spinal symptoms and quality of sleep: A cross sectional study
+
+## Summary: This research article investigates the connections between sleep posture, waking spinal symptoms, and sleep quality. It highlights the limited existing research on how sleep posture may influence waking spinal symptoms and overall sleep quality. The study involved 53 participants divided into three groups based on their symptoms, who completed surveys and were videoed to assess their sleep postures. Results indicated that participants with spinal symptoms reported lower sleep quality and exhibited more frequent posture changes compared to the control group, suggesting a significant relationship between sleep posture and spinal health.

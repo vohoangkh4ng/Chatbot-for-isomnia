@@ -1,0 +1,3 @@
+# Title: Association between Excessive Use of Mobile Phone and Insomnia and Depression among Japanese Adolescents
+
+## Summary: This study investigates the relationship between mobile phone use and insomnia and depression in Japanese adolescents. Conducted with 295 high school students aged 15–19, the research found that excessive mobile phone use (over 5 hours per day) is linked to shorter sleep duration and increased insomnia risk, while mobile phone use for social networking and online chats is associated with a higher risk of depression. The findings suggest that mobile phone overuse can negatively impact sleep habits and mental health among adolescents.

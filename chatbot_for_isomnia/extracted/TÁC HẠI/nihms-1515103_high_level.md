@@ -1,0 +1,3 @@
+# Title: Longitudinal Association of Sleep Problems and Distress Tolerance during Adolescence
+
+## Summary: This article investigates the relationship between sleep problems and the development of distress tolerance in adolescents. It hypothesizes that sleep issues negatively impact the ability to manage distress, which is crucial for emotional health. The study, involving high school students, found that sleep problems predicted poorer distress tolerance across various facets, suggesting that interventions promoting healthy sleep could enhance emotional resilience and overall health outcomes in adolescents.

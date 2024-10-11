@@ -1,0 +1,3 @@
+# Title: Excessive daytime sleepiness mediates the relationship between insomnia symptoms and suicidal behavior in adolescents
+
+## Summary: This study investigates the relationship between insomnia symptoms, excessive daytime sleepiness (EDS), and suicidal behavior among adolescents. It highlights that both insomnia and EDS are prevalent in this demographic and are associated with an increased risk of suicidal behavior. The research, based on a large sample of 7072 Chinese adolescents, reveals that EDS significantly mediates the link between insomnia symptoms and various forms of suicidal behavior. The findings underscore the importance of assessing and treating insomnia and daytime sleepiness as part of suicide prevention strategies for adolescents.

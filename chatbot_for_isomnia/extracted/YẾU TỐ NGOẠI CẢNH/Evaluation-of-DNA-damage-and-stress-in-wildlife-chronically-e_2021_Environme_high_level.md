@@ -1,0 +1,3 @@
+# Title: Evaluation of DNA damage and stress in wildlife chronically exposed to low-dose, low-dose rate radiation from the Fukushima Dai-ichi Nuclear Power Plant accident
+
+## Summary: This article investigates the health effects of chronic low-dose, low-dose rate (LD-LDR) radiation exposure on wildlife, specifically wild boar and rat snakes in Fukushima, Japan. The study evaluates biomarkers of DNA damage and stress, including dicentric chromosomes, telomere length, and cortisol hormone levels, in relation to radiation dose rates. The findings indicate no significant correlation between DNA damage indicators and radiation exposure, while cortisol levels showed an inverse relationship with dose rates, suggesting that other unmeasured factors may influence these results.

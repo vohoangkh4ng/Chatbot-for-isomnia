@@ -1,0 +1,3 @@
+# Title: Sleep Disorders in Adolescents
+
+## Summary: This article discusses chronic sleep deprivation as a prevalent and treatable issue among adolescents, highlighting its significant effects on health, behavior, mood, and academic performance during a critical developmental period. It reviews the epidemiology and health impacts of sleep deprivation, common disorders that lead to sleep loss, and treatment evidence. The focus is on disorders affecting sleep quantity, including poor sleep hygiene, circadian rhythm disorders, and insomnia, while also acknowledging other important sleep disorders like obstructive sleep apnea and restless leg syndrome.

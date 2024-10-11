@@ -1,0 +1,3 @@
+# Title: Perspectives on interpersonal touch are related to subjective sleep quality
+
+## Summary: This article investigates the relationship between various forms of interpersonal touch and self-reported sleep quality. Utilizing data from a cross-sectional survey of 15,049 healthy adults, the study examines how different touch experiences, such as hugs and massages, influence sleep indicators like quality, duration, and wakefulness. Findings suggest that affective touch before sleep can positively impact sleep quality, while excessive touch may lead to poorer sleep outcomes. The research highlights the significance of touch in enhancing subjective sleep quality.

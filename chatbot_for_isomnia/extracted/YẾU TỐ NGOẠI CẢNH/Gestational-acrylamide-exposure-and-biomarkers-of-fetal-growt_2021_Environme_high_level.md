@@ -1,0 +1,3 @@
+# Title: Gestational acrylamide exposure and biomarkers of fetal growth: Probing the mechanism underlying the association between acrylamide and reduced fetal growth
+
+## Summary: This article investigates the negative association between prenatal acrylamide exposure and fetal growth, analyzing biomarkers in newborns from the ENVIRONAGE birth cohort. The study examines the relationship between acrylamide levels in cord blood and various biomarkers, including thyroid hormones, insulin-related factors, and neurotrophins. Findings suggest that decreased cord plasma insulin levels may mediate the association between gestational acrylamide exposure and reduced fetal growth, highlighting the need for further research into the health implications of these associations.

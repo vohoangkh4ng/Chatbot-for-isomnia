@@ -1,0 +1,3 @@
+# Title: Are Sleepy Students Learning?
+
+## Summary: This article discusses the importance of sleep for learning, particularly in teenagers who often do not get enough rest. It highlights the biological reasons behind sleep deprivation in adolescents and suggests that with proper planning, students can improve their sleep habits. The piece emphasizes the cognitive costs associated with lack of sleep and the universal necessity of sleep across species, while also addressing the implications for educational practices.

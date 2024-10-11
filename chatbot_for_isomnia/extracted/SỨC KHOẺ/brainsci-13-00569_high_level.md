@@ -1,0 +1,3 @@
+# Title: Sleep Deprivation and Insomnia in Adolescence: Implications for Mental Health
+
+## Summary: This article reviews the significant changes in sleep patterns during adolescence and their implications for mental health. It highlights that adolescents are particularly vulnerable to sleep loss due to physiological and psychosocial changes, which can lead to mood disorders and self-injury. The review discusses the bidirectional relationship between insufficient sleep and mental health issues, exacerbated by the COVID-19 pandemic. It aims to summarize current knowledge in the field and explore prevention strategies for improving adolescents' mental and physical health.

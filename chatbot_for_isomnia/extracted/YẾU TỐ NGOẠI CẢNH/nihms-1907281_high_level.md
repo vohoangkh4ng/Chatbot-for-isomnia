@@ -1,0 +1,3 @@
+# Title: The bidirectional relationship between sleep and externalizing behavior: A systematic review
+
+## Summary: This article presents a systematic review that explores the reciprocal relationship between sleep and externalizing behavior. It analyzes 20 eligible studies from a pool of 3,762, focusing on various methodological approaches, including longitudinal and cross-sectional designs, and different sleep measures. The review concludes that a bidirectional relationship exists between sleep problems and externalizing behavior, emphasizing the need for early interventions targeting both issues. However, it notes that causality cannot be established without further experimental trials.

@@ -1,0 +1,3 @@
+# Title: Clinical Pharmacology in Sleep Medicine
+
+## Summary: This review article discusses the pharmacological treatment options available for sleep disorders, focusing on the goals of improving waking function through enhanced sleep or increased energy. It categorizes medications into stimulants and sleep aids, highlighting the importance of understanding their adverse effects, interactions, and metabolism. The article emphasizes the prevalence of sleep complaints and the need for careful consideration of underlying causes, particularly in cases of insomnia, which can arise from various medical and psychiatric conditions. The authors also address the challenges in diagnosing and treating insomnia, noting the reliance on clinical history rather than objective testing.

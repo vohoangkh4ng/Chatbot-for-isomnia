@@ -1,0 +1,3 @@
+# Title: Help Prevent Exposure to Secondhand Smoke
+
+## Summary: This article discusses the significant health risks associated with secondhand smoke exposure, emphasizing that there is no safe level of exposure. It highlights the progress made in reducing smoking rates and protecting nonsmokers, particularly vulnerable populations such as children and pregnant women. The article encourages food and nutrition professionals to advocate for smoke-free environments and to educate others about the dangers of secondhand smoke, while also providing resources for further information and action.

@@ -1,0 +1,3 @@
+# Title: Impact of earplugs and eye mask on sleep in critically ill patients: a prospective randomized study
+
+## Summary: This study investigates the effects of earplugs and eye masks on sleep quality in critically ill patients within an intensive care unit (ICU). Conducted as a randomized controlled trial with 64 participants, the research aimed to assess changes in sleep architecture, particularly the proportion of N3 sleep. Results indicated that while the intervention did not significantly affect overall clinical outcomes, it did reduce prolonged awakenings and increased the duration of N3 sleep among patients who consistently used earplugs. The findings highlight the potential benefits of simple interventions to improve sleep in ICU settings.

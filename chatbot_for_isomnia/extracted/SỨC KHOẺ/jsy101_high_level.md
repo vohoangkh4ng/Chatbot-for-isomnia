@@ -1,0 +1,3 @@
+# Title: Technology Use and Sleep in Adolescents With and Without Attention-Deficit/Hyperactivity Disorder
+
+## Summary: This study investigates the differences in technology usage among adolescents with and without ADHD, focusing on its impact on sleep and daytime sleepiness. It finds that adolescents with ADHD use technology significantly more than their peers, which correlates with increased sleep problems and reduced sleep duration. The research highlights that while technology use is prevalent among both groups, its negative effects on sleep are particularly pronounced in adolescents with ADHD, suggesting that clinicians should consider technology habits when addressing sleep issues.

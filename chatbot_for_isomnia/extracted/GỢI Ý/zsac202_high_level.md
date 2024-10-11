@@ -1,0 +1,3 @@
+# Title: Extending weeknight sleep of delayed adolescents using weekend morning bright light and evening time management
+
+## Summary: This study investigates a multi-faceted intervention aimed at shifting sleep onset earlier and extending school-night sleep duration for adolescents experiencing chronic sleep restriction. The intervention involved gradually advancing bedtimes and providing morning bright light exposure. Results indicated that the intervention group experienced significant advancements in sleep onset and increased sleep duration compared to a control group. The findings suggest that combining time management strategies with bright light exposure can effectively address sleep issues in adolescents, particularly those with delayed sleep phases.

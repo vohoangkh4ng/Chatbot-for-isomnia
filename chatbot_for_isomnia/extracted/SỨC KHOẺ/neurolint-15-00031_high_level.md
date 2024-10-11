@@ -1,0 +1,3 @@
+# Title: Chronic Administration of Melatonin: Physiological and Clinical Considerations
+
+## Summary: This article reviews the use of exogenous melatonin for treating insomnia and various medical conditions, including Alzheimer's disease and autism spectrum disorder. It highlights the increasing prevalence of melatonin use, particularly in the U.S., where it is available over the counter as a dietary supplement. The review discusses the variability in melatonin concentrations in marketed products, the modest effectiveness of melatonin in inducing sleep, and the safety of low to moderate dosages. While short-term negative effects are minimal, the long-term effects of melatonin use remain insufficiently studied, warranting further investigation.

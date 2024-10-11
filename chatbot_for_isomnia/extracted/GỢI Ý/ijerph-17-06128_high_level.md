@@ -1,0 +1,3 @@
+# Title: Combating Fear of Missing Out (FoMO) on Social Media: The FoMO-R Method
+
+## Summary: This article addresses the fear of missing out (FoMO) on social media, which can lead to anxiety, disrupted sleep, and dependence on social media for gratification. The authors propose a FoMO Reduction (FoMO-R) method that incorporates technical solutions and personal skills to help users manage their FoMO. Through focus groups and a diary study with participants who frequently experience FoMO, the study finds that the method is effective in helping individuals cope with their fears. The article emphasizes the need for additional functionalities in social media design to better support users in managing FoMO.

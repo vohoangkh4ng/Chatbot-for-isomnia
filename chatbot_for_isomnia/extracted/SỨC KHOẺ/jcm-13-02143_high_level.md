@@ -1,0 +1,3 @@
+# Title: Associations between Sleep Disturbances, Personality Traits and Self-Regulation in a Sample of Healthy Adults
+
+## Summary: This article explores the relationships between sleep disturbances, personality traits, and self-regulation in a sample of 846 healthy adults. The study finds that higher levels of sleep disturbances correlate with increased externalization and internalization traits, as well as lower self-regulation. The results suggest that both state (self-regulation) and trait (personality) factors contribute to sleep disturbances, indicating a complex interplay between these variables. The findings aim to reconcile the state-and-trait approach in understanding poor sleep.

@@ -1,0 +1,55 @@
+# Commentary
+
+# Social Jetlag Is Associated With Adiposity in Children
+
+# Introduction
+
+Poor sleep behavior, along with physical inactivity and poor diet, has been associated with childhood obesity. There are several aspects of sleep that are important contributors to a child’s health and well-being such as sleep duration, sleep disorders (eg, sleep apnea), and sleep patterns (bed/wake times). A recent meta-analysis of prospective studies, which included 35 540 children aged 0 to 18 years, reported that children who fell short of national sleep recommendations were 71% more likely (odds ratio [OR]: 1.71, 95% confidence interval [CI]: 1.36 to 2.14) to be obese. Similarly, several studies have reported associations between sleep disorders and obesity in children, and sleep patterns (eg, late bed/late wake) with unfavorable weight profiles. More recently, “social jetlag” (SJL), the discrepancy between an individual’s circadian clock and social rhythm, has been identified by sleep researchers and public health practitioners as an important aspect of sleep that may be contributing to unhealthy weight gain. The occurrence of SJL has been associated with being overweight (OR: 3.30, 95% CI: 2.51 to 4.33) in a group of more than 65 000 European adults, and one small study of 77 adolescents aged 14 to 17 years reported positive associations between SJL with body mass index (BMI) and waist to hip ratio (WHR). However, until recently no studies had examined whether SJL is associated with obesity in children, nor had any study in children simultaneously examined the importance of sleep duration, sleep disorders, and SJL to obesity. This commentary will present and interpret a recent study that attempted to address this gap in knowledge, regard to the “Structured Days Hypothesis” (SDH) and will contextualize the findings with.
+
+# What Is “Social Jetlag” and the “Structured Days Hypothesis”?
+
+Although SJL is understudied in preadolescent children, obesogenic behaviors such as sleep through other mechanisms that align closely with SJL. One of these mechanisms is SDH. The SDH posits that a structured day, defined as a preplanned, segmented, and adult-supervised compulsory environment (eg, school weekday), plays an overall protective role for children against obesogenic behaviors and, ultimately, prevents the occurrence of negative health outcomes. In the instance of sleep, a structured day, such as a school weekday, is more likely to impose a consistent bed and wake time for a child, whereas during a less-structured day, such as a weekend day, bed and wake times may shift later, thus, creating SJL.
+
+Social jetlag can be measured as the difference in hours between the midpoint of sleep at work/school and free days. For example, a person may go to bed at 10:00 pm and wakes at 6:00 am during weekdays and goes to bed at 12:00 am and wakes at 8:00 am during weekends. The midpoints of the individual’s sleep periods are 2:00 am (weekday) and 4:00 am (weekend), respectively. The individual’s SJL in this example would be the absolute difference between these 2 midpoints, which is 2 hours. Although simple to measure, there is currently a lack of evidence examining whether obesity is associated with SJL in children; therefore, we recently conducted a study to investigate whether sleep duration, sleep disorders, and SJL are associated with body composition in preadolescent children.
+
+Sleep-wake and metabolism cycles, which are tightly interconnected at the molecular level, are regulated by the circadian clock. In modern society, the researchers have attempted to understand children’s. ## Global Pediatric Health
+
+the rhythmicity of the circadian clock is often disrupted by measures of adiposity. Although these findings have been replicated in adolescents, this is the first known study to show the negative impact that SJL has on body composition in elementary school–aged children. These preliminary findings suggest that SJL may be an important and measurable public health target in children.
+
+Results from this study show that the amount of sleep children obtained during the week, on average, was the same as that during the weekend. However, children shifted both bed and wake times between weekdays and weekends, contributing to SJL. Conceivably, it is likely this shift is occurring due to the less-structured nature of weekend days/nights, where parents are affording children more freedoms to go to bed and wake later as the demands of the school/weekday for both parent and child are typically not present during the weekend. Placing this in the context of the SDH, more structured days (ie, school/weekdays) regulate children’s sleep-wake patterns due to externally imposed demands placed on the child/parent such as school start times. The presence of this “external structure” can affect rules and routines in the household such as regularly-enforced bedtimes and evening pre-bedtime practices (eg, homework, regulated screen time, and set dinner time) during the week. On weekend days/nights these rules and routines are considerably reduced and/or nonexistent; therefore, a discrepancy in sleep schedules and patterns occur between weekdays and weekends, and SJL occurs on a weekly basis.
+
+Following adjustment for possible confounders (age, sex, ethnicity, and school decile rating [social economic status]), sleep duration was only associated with WHR (β = −0.008, 95% CI: −0.015 to 0.000), and sleep disorders was only associated with FMI (β = −0.034, 95% CI: −0.002 to −0.067 kg/m²). SJL, however, was associated with all 4 body composition variables. A 1-hour increase in SJL was associated with a 2.98% (95% CI: 0.41% to 5.55%) increase in body fat, 0.51 kg/m² (95% CI: 0.11 to 0.91 kg/m²) increase in FMI, a 0.90 kg/m² (95% CI: 0.21 to 1.58 kg/m²) increase in BMI, and a 0.013 (95% CI: 0.003 to 0.023) increase in WHR. The importance of the association between SJL and adiposity is strengthened when considering that 121 (35%) children had an SJL ⩾1 hour. Furthermore, 92% of the children did achieve, on average, the minimum 9 hours of sleep recommended by the national guidelines in New Zealand, and the findings were not confounded by different sleep durations on weekdays and free days (weekend).
+
+One potential solution to reduce SJL is modifying the sleep-wake patterns of children. Early school start times conflict with the normal developmental shift in circadian biology that favors “phase delay” (late morning-late day activities and later bedtimes) during puberty development, as indicated by daily endocrine rhythms. Adolescents are faced with increasing demands and distractions that can influence sleep-wake patterns, such as homework, electronic media, and greater autonomy of when to go to bed. An adolescent-based systematic review found that interventions aimed at reducing SJL by delaying school start times by up to an hour have shown improvements in sleep duration and reduced SJL. Though the same review reported that few interventions exist that have assessed the impact on health-related outcomes such as adiposity or BMI.
+
+In summary, the SDH can help identify potential targets for intervention to help mitigate SJL. Research efforts focused on reducing SJL may have a far-reaching impact on childhood obesity. Further research is needed to (1) confirm the impact of SJL on preadolescent children’s health-related outcomes and to (2) examine the efficacy of interventions aimed at reducing SJL on children’s health-related outcomes. Stoner et al
+
+Author Contributions
+Each author: (1) made substantial contributions to conception and design; (2) assisted in drafting the article and provided important intellectual content and (3) gave final approval of the version to be published.
+
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Funding
+The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+ORCID iDs
+Lee Stoner https://orcid.org/0000-0002-0682-2270
+Justin B. Moore https://orcid.org/0000-0003-4059-0538
+
+References
+1. Fatima Y, Doi SAR, Mamun AA. Longitudinal impact of sleep on overweight and obesity in children and adolescents: a systematic review and bias-adjusted meta-analysis. Obes Rev. 2015;16:137-149. doi:10.1111/obr.12245
+2. Firouzi S, Poh BK, Ismail MN, Sadeghilar A. Sleep habits, food intake, and physical activity levels in normal and overweight and obese Malaysian children. Obes Res Clin Pract. 2014;8:e70-e78. doi:10.1016/j.orcp.2012.12.001
+3. Stoner L, Matheson A, Hamlin M, Skidmore P. Environmental determinants of childhood obesity: a specific focus on Maori and Pasifika in New Zealand. Perspect Public Health. 2016;136:18-20. doi:10.1177/1757913915616734
+4. Wu Y, Gong Q, Zou Z, Li H, Zhang X. Short sleep duration and obesity among children: a systematic review and meta-analysis of prospective studies. Obes Res Clin Pract. 2017;11:140-150. doi:10.1016/j.orcp.2016.05.005
+5. Olds TS, Maher CA, Matricciani L. Sleep duration or bedtime? Exploring the relationship between sleep habits and weight status and activity patterns. Sleep. 2011;34:1299-1307. doi:10.5665/SLEEP.1266
+6. Malone SK, Zemel B, Compher C, et al. Social jet lag, chronotype and body mass index in 14-17-year-old adolescents. Chronobiol Int. 2016;33:1255-1266. doi:10.1080/07420528.2016.1196697
+7. Roenneberg T, Allebrandt KV, Merrow M, Vetter C. Social jetlag and obesity. Curr Biol. 2012;22:939-943. doi:10.1016/j.cub.2012.03.038
+8. Stoner L, Castro N, Signal L, et al. Sleep and adiposity in preadolescent children: the importance of social Jetlag. Child Obes. 2018;14:158-164. doi:10.1089/chi.2017.0272
+9. Brazendale K, Beets MW, Weaver RG, et al. Understanding differences between summer vs school obesogenic behaviors of children: the structured days hypothesis. Int J Behav Nutr Phys Act. 2017;14:100. doi:10.1186/s12966-017-0555-2
+10. Challet E. Circadian clocks, food intake, and metabolism. Prog Mol Biol Transl Sci. 2013;119:105-135. doi:10.1016/B978-0-12-396971-2.00005-1
+11. Froy O. Circadian rhythms and obesity in mammals. ISRN Obes. 2012;2012: 437198. doi:10.5402/2012/437198
+12. Kuehn BM. Resetting the circadian clock might boost metabolic health. JAMA. 2017;317:1303-1305. doi:10.1001/jama.2017.0653
+13. Carskadon MA, Wolfson AR, Acebo C, Tzischinsky O, Seifer R. Adolescent sleep patterns, circadian timing, and sleepiness at a transition to early school days. Sleep. 1998;21:871-881.
+14. Yan H, Zhang R, Oniffrey TM, et al. Associations among screen time and unhealthy behaviors, academic performance, and well-being in Chinese adolescents. Int J Environ Res Public Health. 2017;14:E596. doi:10.3390/ijerph14060596
+15. Minges KE, Redeker NS. Delayed school start times and adolescent sleep: a systematic review of the experimental evidence. Sleep Med Rev. 2016;28:86-95. doi:10.1016/j.smrv.2015.06.002 

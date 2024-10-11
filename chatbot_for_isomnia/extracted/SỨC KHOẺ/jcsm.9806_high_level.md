@@ -1,0 +1,3 @@
+# Title: Relationship of overweight and obesity to insomnia severity, sleep quality, and insomnia improvement in a clinically referred pediatric sample
+
+## Summary: This study investigates the relationship between overweight/obesity and insomnia severity, sleep quality, and treatment outcomes in a pediatric population. It finds that while children with higher body mass index (BMI) report more insomnia symptoms and poorer sleep hygiene, their weight does not significantly affect treatment completion or improvement in insomnia symptoms. The results suggest that insomnia treatment is effective regardless of weight status, indicating that clinicians need not alter treatment approaches based solely on a child's weight.

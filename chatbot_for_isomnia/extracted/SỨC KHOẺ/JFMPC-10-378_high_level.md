@@ -1,0 +1,3 @@
+# Title: A study on smartphone addiction and its effects on sleep quality among nursing students in a municipality town of West Bengal
+
+## Summary: This article investigates the impact of smartphone addiction on sleep quality among nursing students in West Bengal. The study, which involved a cross-sectional, observational design using questionnaires, found that a significant number of students were addicted to smartphones, with a notable correlation between smartphone usage and poor sleep quality. The results indicated that 82.42% of the participants were poor sleepers, highlighting the urgent need for broader studies to address the implications of smartphone addiction, particularly among younger demographics.

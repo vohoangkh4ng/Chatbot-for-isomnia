@@ -1,0 +1,3 @@
+# Title: Sleep Quality in Medical Students; the Impact of Over-Use of Mobile Cell-Phone and Social Networks
+
+## Summary: This study investigates the relationship between sleep quality and the overuse of mobile phones and social networks among medical students. Conducted on 380 undergraduate students in Qom, Iran, the research found that 61.7% of participants experienced poor sleep quality, which was significantly associated with higher levels of cell-phone addiction. The study highlights the need for interventions, particularly for male students, to address the negative impact of mobile phone and internet use on sleep quality.

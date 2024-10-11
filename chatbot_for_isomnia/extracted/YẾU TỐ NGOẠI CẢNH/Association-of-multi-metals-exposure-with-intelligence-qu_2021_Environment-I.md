@@ -1,0 +1,248 @@
+# Association of multi-metals exposure with intelligence quotient score of children: A prospective cohort study
+
+## A R T I C L E I N F O
+
+**Keywords:**
+Heavy metals
+Bayesian kernel machine regression
+Intelligence quotient
+Children
+
+## Background
+Associations between most single metals and children’s intelligence quotient (IQ) scores have been evaluated in previous studies. However, associations between multi-metal exposures and children’s IQ scores have not been analyzed.
+
+## Objectives
+To assess the joint effects of lead (Pb), manganese (Mn), antimony (Sb), tin (Sn) and titanium (Ti) co-exposure on children’s IQ scores.
+
+## Methods
+A prospective cohort study was conducted in Shimen and Huayuan, Hunan Province, China. Urine metals levels were measured by inductively coupled plasma mass spectrometry (ICP-MS) at baseline. Children’s IQ scores were repeatedly measured at baseline and follow-up following the method of Raven’s Standard Progressive Matrices (SPM) and standardized as z scores. We fitted linear regression models and Bayesian kernel machine regression (BKMR) models to investigate the associations of metal levels with children’s IQ scores after adjusting for covariates.
+
+## Results
+A total of 633 participants aged 7–10 years completed the survey. Urinary Pb (β = -0.028, P = 0.022) and urinary Ti (β = -0.0003, P = 0.001) were inversely associated with children’s IQ scores. The BKMR analyses revealed significant negative overall effects of the five metals on children’s IQ scores when all the metals were above their median levels, while significant positive associations were shown when all the metal concentrations were below their median levels. The model also showed negative trends of Sn and Ti on children’s IQ. Furthermore, Ti and Sn had a synergistic relationship, with a decline in IQ score when Sn exposure was relatively high. The urinary Sn concentration was significantly higher but the urinary Ti concentration was significantly lower in participants from the Shimen area than in those from the Huayuan area. Decreasing trends of the overall effects were observed in both the Shimen and Huayuan areas.
+
+## Conclusion
+Our findings revealed that multi-metal exposures caused a decline in children’s IQ scores according to traditional linear regression models and the BKMR model. Our results provide some evidence of the association between multi-metal exposure and children’s IQ. Meanwhile, interactions between multi-metal exposures on children’s IQ should be given more attention. # Introduction
+
+There is a growing concern that environmental heavy metals play a role in the development of the intelligence quotient (IQ) in children. Exposure to environmental heavy metals, including lead (Pb), manganese (Mn), antimony (Sb), tin (Sn) and titanium (Ti), may be partly responsible for this trend. Hunan Province, located in southern China, is famous for its many mining areas, such as the Shimen and Huayuan mining areas. The Shimen mining area is located in Changde city, which is rich in realgar ore deposits. Huayuan County is located at the junction of Hunan, Chongqing and Guizhou provinces in China. There are many mines in Huayuan, and the second largest Mn mine and the third largest Pb-zinc mine in China are located here. Sn, Sb and Ti often exist in realgar ore deposits, it is important to explore the association between these metals and children’s IQ. Therefore, mining is the main source of these 5 heavy metals. Previous studies indicated that the water, rice, and vegetables in the mining areas of Hunan Province have been seriously polluted by heavy metals.
+
+Children are most likely to be exposed to Pb due to frequent oral exploration and chewing on objects containing Pb, such as paint fragments, furniture coatings and toys. Some studies have revealed that exposure to Pb negatively affects IQ and increases impulsivity in school-age children. A study found very low median blood Pb (1.15 μg/dl) and 98.3% of children’s blood Pb levels were below 5.0 μg/dl. Even so, negative association was observed between blood Pb and children’s intelligence. It has been suggested that there may be no threshold for the negative health effects of Pb, especially concerning the IQ of children. Mn is an essential nutrient, but it has also been associated with neurotoxicity at high exposure levels. Some previous studies observed negative associations between Mn levels in the hair of children aged 6–13 years and full-scale and verbal IQ scores. Similar studies reported the same finding when they studied Mn levels in blood in children. Moreover, previous studies studied the relationship between low IQ scores in children and exposure to Mn in public drinking water. The effect of Sb on human health has not yet been fully elucidated. One study did not find an association between hair Sb levels and intellectual disability in children. Similarly, one study reported no significant association between prenatal exposure to Sb and cognitive function at the age of four years. However, a recent case-control study indicated a positive association between Sb and neurodevelopment. In addition to these findings, previous studies indicated that high exposure levels of Sn had adverse effects on human health. Ti is the ninth most abundant element in nature. Due to the common use of Ti in many products, such as cosmetics, food products and medicines, it is important to know its toxicity and potentially adverse effects on health. Ti can reach and accumulate in the brain though the bloodstream, causing injury. An experimental study suggested that exposure to Ti during pregnancy negatively affected hippocampal cell proliferation and learning and memory in offspring in rats. However, there is no epidemiological study on the association between Ti exposure and children’s IQ scores.
+
+Most previous studies have focused on the effects of a single metal on children’s intelligence; however, simultaneous, chronic, low-level exposure to these metals is more environmentally relevant. A few studies have reported relationships between exposure to multiple metals and IQ scores in children using single-exposure or simple interactive models without estimation of the overall effect of multi-metal exposure, which is closer to the real exposure situation. In addition, two or more metals may have potential multicollinearity, which we cannot address by using traditional models.
+
+The aims of this study were to investigate associations between urine levels of Pb, Mn, Sb, Sn and Ti and the intellectual function in children as well as to explore the joint effects of multiple exposures to these heavy metals on intellectual function. The association was analyzed using Bayesian kernel machine regression (BKMR) models, which can not only flexibly evaluate the overall association of co-exposure to multiple metals but also estimate the potential interaction effect. This is the first prospective cohort study to investigate the association of exposure to multiple heavy metal levels with IQ scores in children.
+
+# Materials and methods
+
+## Study population
+
+We conducted a longitudinal cohort study to investigate the association between exposure to multiple metals and IQ scores in children in Shimen and Huayuan counties. These two counties are located in Hunan Province, in which nonferrous metals are common. We recruited 943 children at baseline in 2016, and the children’s IQs were measured at baseline in 2016 and at follow-up in 2018, respectively. We excluded participants who failed to complete the IQ measurement or provide urine samples. We also excluded those with missing urine creatinine data, below 7 or above 10 years of age or missing age data at baseline, as well as outliers with abnormal metal levels (defined as 5 times the 99th percentile for each metal). Finally, 633 children were included in the analysis. The children’s parents signed informed consent forms and completed questionnaires inquiring about demographic and lifestyle habit information. The study was approved by the Ethical Committee of Xiangya Hospital, Central South University. The parents of all participants signed informed consent forms.
+
+## Measurements of metals in urine
+
+Spot urine samples were collected from children in polypropylene containers. All urine samples were refrigerated at 4 °C until transportation to the laboratory and stored at -20 °C until analysis. The frozen urine samples were thawed at room temperature, mixed with nitric acid, acidified in a refrigerator at 5 °C overnight, and then dissolved in 1.2% nitric acid (1:5, V/V) before analysis. The urine metals were only measured at the baseline. Specifically, urine concentrations of Pb, Mn, Sb, Sn, Ti, Zn, Cd and Cu were measured using quadrupole inductively coupled plasma-mass spectrometry (ICP-MS; Agilent 7700x ICP-MS; Agilent Technologies, USA). The specific ICP-MS analysis method are presented in the Supplementary Material.
+
+Quality control of urine metal determinations was achieved by three replicate measurements and spiked recovery pooled urine samples (collected from 100 random samples) to ensure the precision and accuracy of the method. Quality control was performed by urine sample quality control material containing low and high concentration levels. Since the quality control reagent did not provide the quality control results of Ti, the recovery test was carried out in this experiment. The accuracy of ICP-MS was also checked by analyzing standard reference material once every 20 samples. The detection limits of Pb, Mn, Sb, Sn, Ti, Zn, Cd and Cu were 0.0510 μg/L, 0.0073 μg/L, 0.0009 μg/L, 0.0128 μg/L, 0.0273 μg/L, 0.0003 μg/L, 0.0006 μg/L and 0.0667 μg/L, respectively. Metal concentrations below their lower limits of detection (LODs) in the samples were considered to be equal to half of the detection limit. The results are presented as the average of three separate measurements for every sample. The intra-assay and inter-assay coefficients of variation for urine metal levels were all below 10%, and the recovery rates of the five metals ranged from 82.4% to 115.6%. ## 2.3. Measurement of children’s IQ scores
+
+Children’s intelligence was tested following the method of Raven’s Standard Progressive Matrices (SPM), which has been widely used. In the order of gradually increasing difficulty, Raven’s standard progressive matrices were divided into 5 sections, with a total of 60 questions. Children’s IQs in various dimensions can be assessed by Raven’s 5 groups. These 5 groups assess perceptual discrimination, similarity comparison, comparative reasoning, serial relation and abstract reasoning. Moreover, within each group, the level of difficulty increases from the first item. The maximum score that can be obtained is 60. During the baseline and follow-up assessments, the tests were distributed to each child and were required to be completed within 40 min. Raven’s assessments were administered by trained investigators with the assistance of teachers. Before the distribution of the test, the investigators explained the requirements of the test. For the convenience of analysis, age-adjusted z scores were used to estimate the children’s intelligence. The formula used to calculate the z score was as follows: z score = (IQ -‾IQ)/SIQ, where‾IQ is the average intelligence of children of a certain age, and SIQ is the standard deviation of children of a certain age.
+
+## 2.4. Assessment of covariates
+
+We assessed sociodemographic characteristics, home environment and lifestyle habits during a structured interview with a parent; interviews included questions about family structure, maternal and paternal education, smoking, alcohol and drug use during pregnancy and whether the child has the habit of washing their hands and biting their fingers before meals. Family structure was divided into five categories: nuclear family, single-parent family, left-behind family, remarried family and extended family. The habit of washing hands before meals was classified as never washed their hands, washed their hands occasionally but not habitually and washed their hands frequently. The education levels of parents was divided into primary or below, junior high school, high school and college or above. General health examinations, including head circumference, chest circumference, height and weight, were performed by qualified physicians during the same visit. Body mass index (BMI) was calculated as weight in kilograms divided by height in metres squared (kg/m2).
+
+## 2.5. Statistical analysis
+
+The demographic characteristics of the study participants were descriptively analyzed. Means ± standard deviations (SDs) or medians (interquartile ranges, IQRs) were used to represent the concentrated and discrete trends of continuous variables. Numbers or percentages were used to describe categorical variables. Student’s t-tests or Wilcoxon rank sum tests were used for continuous variables according to the skewness of the data, and chi-squared tests were used for categorical variables. Spearman correlation coefficients were calculated among the levels of five heavy metals.
+
+To evaluate the five metals as separate predictors, we assessed associations between the levels of single metals and children’s intelligence using linear regression models. In addition, multiple metals linear regression models were carried out to estimate the relationship between the co-exposure to the five metals as mixture and children’s intelligence. All models for analysis of the children’s intelligence at baseline were adjusted for covariates, including gender, family structure, maternal and paternal education levels, smoking status during the pregnancy, frequency of hand washing, finger biting habit, BMI, urine zinc, urine cadmium, urine copper. We treated the creatinine-adjusted concentration of each heavy metal as a continuous variable. In the analysis of children’s intelligence at follow-up, we additionally adjusted the association for baseline intelligence z score.
+
+Data were estimated by BKMR, which evaluated the overall association of multi-metal exposure with children’s intelligence and investigate possible interactions and exposure-responses for these five correlated metals. The levels of heavy metals were log-transformed. The function of the BKMR was as follows:
+Yi = h (Pb, Mn, Sb, Sn, Ti) + βXi + εi
+
+where Yi represents the response for child i (i = 1,…,n), h is the exposure–response function among the five heavy metals, and Xi and β represent covariates and their coefficients, respectively. In the present analysis, BKMR combined Bayesian and statistical learning methods to iteratively regress an exposure–response function by a Gaussian kernel function. Our final model parameters were estimated with a Markov chain Monte Carlo (MCMC) sampler with 5000 iterations. We estimated the posterior inclusion probability (PIP) for each of the heavy metals, which can be thought of as a measure of variable importance, with higher values (closer to 1) indicating greater importance and lower values (closer to 0) indicating lesser importance. In addition, we computed the cumulative effect of the mixture, by comparing the expected change in children’s intelligence when all of heavy metals were at a particular quantile as compare to when all of them were at their median value. The univariate exposure–response curves and potential interactions among the metals, which was calculated by estimating the predicted children’s IQ for each level of the metal of interest, were also evaluated when holding all other metal exposures at the median, 25th percentile, or 75th percentile. All adjusted covariates were similar to multiple metals linear regression analysis. Furthermore, the interaction effects between metals were tested using interplot package which works with ordinary linear regression models.
+
+Sensitivity analyses were conducted. First, we applied the method of covariate-adjusted standardization of creatinine that allows for systematic differences in long-term average creatinine levels across sub-populations. A model for creatinine as a function of the covariates, including age, gender and BMI, was fitted. Then, we standardized the metal concentrations by calculating Cratio = Emetal/(Cr/̂ Cr), where Cr and Cr represent the observed and predicted creatinine levels, respectively, and Emetal is the urine metal concentrations. We used Cratio instead of Emetal/Cr to fit the models. The approach specifically controls for the covariate-independent, short-term multiplicative effect of hydration on urinary diluteness. In addition, we performed a sensitivity analysis with no adjustment for baseline IQ in the baseline metal model with IQ at follow-up. Furthermore, we divided the baseline intelligence into 3 groups and performed a stratified analysis. Besides, the prior distributions of BKMR model can be specified as part of the control.params argument. We have implemented a sensitivity analysis with different rm parameters of prior distributions because the BKMR model fit can be particularly sensitive to the choice of the prior distribution on the rm parameters.
+
+Main associations according to linear regression, multiple metals linear regression, and BKMR were considered statistically significant at P < 0.05, while interaction effects were considered statistically significant at P < 0.1 in this study. All data were analyzed using R 3.6.1. The BKMR analyses were conducted using the “bkmr” package in R.
+
+## 3. Results
+
+### 3.1. Characteristic of the participants
+
+We recruited 943 children with no neurological disorders from Shimen and Huayuan. A total of 633 children were included in the final analysis. The characteristics of the study | Characteristics          | Total (n = 633) | Huayuan (n = 278) | Shimen (n = 355) | P          |
+|--------------------------|------------------|--------------------|------------------|------------|
+| Age (year), mean ± SD    | 8.38 ± 0.89      | 8.64 ± 0.87        | 8.18 ± 0.85      | <0.001     |
+| Body Mass Index(kg/m2), mean ± SD | 16.24 ± 2.38 | 15.94 ± 2.40      | 16.47 ± 2.33     | 0.005      |
+| Gender , %               |                  |                    |                  | 0.910      |
+| Boy                      | 51.2             | 51.4               | 51.0             |            |
+| Girl                     | 48.8             | 48.6               | 49.0             |            |
+| Urine creatinine (mmol/L), mean ± SD | 6.42 ± 5.17 | 6.59 ± 6.10      | 6.28 ± 4.31      | 0.472      |
+| Ethnicity, %             |                  |                    |                  | <0.001     |
+| Han                      | 47.2             | 42.8               | 50.7             |            |
+| Miao                     | 15.2             | 33.1               | 1.1              |            |
+| Tujia                    | 36.8             | 23.7               | 47.0             |            |
+| Other                    | <1               | 0.4                | 1.2              |            |
+| Paternal education level, % |              |                    |                  | 0.794      |
+| Primary or below         | 25.2             | 25.8               | 24.7             |            |
+| Junior high school       | 60.7             | 61.2               | 60.3             |            |
+| High school              | 12.5             | 11.9               | 13.0             |            |
+| College or above         | 1.6              | 1.1                | 2.0              |            |
+| Maternal education level, % |              |                    |                  | 0.001      |
+| Primary or below         | 28.1             | 29.1               | 27.4             |            |
+| Junior high school       | 58.1             | 63.3               | 54.2             |            |
+| High school              | 12.0             | 6.8                | 16.1             |            |
+| College or above         | 1.8              | 0.8                | 2.3              |            |
+| Smoking during the pregnancy, % |          |                    |                  | 0.089      |
+| No                       | 89.7             | 87.4               | 91.5             |            |
+| Yes                      | 10.3             | 12.6               | 8.5              |            |
+| Family structure, %      |                  |                    |                  | <0.001     |
+| Nuclear family           | 27.7             | 29.1               | 26.8             |            |
+| Single-parent family     | 10.3             | 13.3               | 7.9              |            |
+| Left-behind children     | 36.2             | 22.3               | 47.0             |            |
+| Remarried family         | 18.2             | 23.0               | 14.4             |            |
+| Extend family            | 7.6              | 12.3               | 3.9              |            |
+| Hand-washing habit, %    |                  |                    |                  | 0.127      |
+| Never                    | 6.2              | 5.4                | 6.8              |            |
+| Occasional               | 54.8             | 59.4               | 51.2             |            |
+| Frequent                 | 39.0             | 35.2               | 42.0             |            |
+| Finger-biting habit, %   |                  |                    |                  | 0.877      |
+| No                       | 79.9             | 80.2               | 79.7             |            |
+| Yes                      | 20.1             | 19.8               | 20.3             |            | Age at baseline
+![Distribution of IQ by age in baseline (A) and follow-up (B)](Fig. 2)
+
+Table 2
+Distribution of metal levels in urine.
+
+| Exposure | Detection rate (%) | Geometric mean | Arithmetic mean | Percentile |  |  |  |  |  |
+|----------|--------------------|----------------|------------------|------------|---|---|---|---|---|
+|          |                    |                |                  | 5th        | 25th | 50th | 75th | 95th |
+| Pb (μg/L) | 100                | 1.39           | 1.72             | 0.38       | 0.95 | 1.55 | 2.24 | 3.73 |
+| Mn(μg/L)  | 100                | 0.55           | 1.77             | 0.09       | 0.22 | 0.43 | 0.95 | 8.04 |
+| Sb (μg/L) | 100                | 0.10           | 0.12             | 0.03       | 0.07 | 0.10 | 0.15 | 0.27 |
+| Sn (μg/L) | 99.8               | 0.52           | 0.90             | 0.10       | 0.28 | 0.52 | 0.98 | 2.60 |
+| Ti (μg/L) | 100                | 91.54          | 142.37           | 15.0       | 49.27 | 95.32 | 185.23 | 416.09 |
+
+Table 3
+Association between urinary metals and intelligence quotient.
+
+| Baseline a | β | 95% CI | P value | Follow-up b | β | 95% CI | P value |
+|------------|---|--------|---------|-------------|---|--------|---------|
+| Single metal linear regression models | | | | | | | |
+| Pb (μg/g) | 0.031 | (-0.058, 0.004) | 0.024 | 0.028 | (0.051, 0.004) | 0.022 |
+| Mn (μg/g) | 0.002 | (0.005, 0.001) | 0.266 | 0.001 | (0.003, 0.001) | 0.561 |
+| Sb (μg/g) | 0.070 | (0.159, 0.020) | 0.120 | 0.020 | (0.098, 0.058) | 0.613 |
+| Sn (μg/g) | 0.028 | (0.055, 0.001) | 0.039 | 0.022 | (0.046, 0.001) | 0.060 |
+| Ti (μg/g) | 1.99e-04 | (4.32e-04, 3.38e-05) | 0.094 | 3.31e-04 | (5.30e-04, 1.30e-04) | 0.001 |
+| Multiple metals linear regression models (model 1) | | | | | | | |
+| Pb (μg/g) | 0.019 | (0.052, 0.014) | 0.267 | 0.006 | (0.035, 0.022) | 0.066 |
+| Mn (μg/g) | 2.30e-04 | (0.004, 0.003) | 0.897 | 0.001 | (0.002, 0.004) | 0.545 |
+| Sb (μg/g) | 0.040 | (0.142, 0.062) | 0.439 | 0.007 | (0.080, 0.094) | 0.870 |
+| Sn (μg/g) | 0.020 | (0.049, 0.008) | 0.157 | 0.015 | (0.039, 0.009) | 0.228 |
+| Ti (μg/g) | 4.614e-05 | (3.35e-04, 2.43e-04) | 0.754 | 3.09e-04 | (5.57e-04, 6.10e-04) | 0.015 |
+| Multiple metals linear regression models (model 2) | | | | | | | |
+| Pb (μg/g) | 0.005 | (0.048, 0.038) | 0.811 | 0.067 | (0.103, 0.031) | < 0.001 |
+| Mn (μg/g) | 0.000 | (0.004, 0.003) | 0.864 | 0.001 | (0.002, 0.004) | 0.697 |
+| Sb (μg/g) | 0.029 | (0.134, 0.076) | 0.588 | 0.005 | (0.084, 0.093) | 0.912 |
+| Sn (μg/g) | 0.019 | (0.048, 0.009) | 0.184 | 0.021 | (0.045, 0.003) | 0.089 |
+| Ti (μg/g) | 2.47e-05 | (2.91e-04, 3.40e-04) | 0.878 | 4.20e-04 | (6.85e-04, 1.54e-04) | 0.002 |
+
+β: partial regression coefficient; CI: confidence interval.
+Model 1: a Adjusted for gender, family structure, maternal and paternal education, smoking status during the pregnancy, frequency of hand washing, finger biting habit and BMI.
+b Adjusted for gender, family structure, maternal and paternal education, smoking status during the pregnancy, frequency of hand washing, finger biting habit, BMI and baseline intelligence.
+Model 2: a Adjusted for gender, family structure, maternal and paternal education, smoking status during the pregnancy, frequency of hand washing, finger biting habit, BMI, urine zinc, urine cadmium and urine copper.
+b Adjusted for gender, family structure, maternal and paternal education, smoking status during the pregnancy, frequency of hand washing, finger biting habit, smoking status during the pregnancy, BMI, urine zinc, urine cadmium, urine copper and baseline intelligence.
+
+were above their 50th percentiles and significantly positive when all the metal concentrations were at their 50th percentiles. The univariate exposure–response functions were displayed when the levels of all the other metals were at their median concentrations. We found that Sb, Sn and Ti showed negative relationships with baseline intelligence. However, Sb showed a positive relationship with follow-up intelligence. Furthermore, interactions between metals were investigated. The bivariate exposure–response functions showed potential interaction Fig. 3. Overall effect of the mixture estimates and 95% credible interval at baseline (A) and follow-up (B). Data were estimated by BKMR model when all the chemicals at particular percentiles were compared to all the chemicals at their 50th percentile. (A) The results were adjusted for gender, family structure, maternal and paternal education, smoking status during the pregnancy, frequency of hand washing, finger biting habit and BMI. (B) The results were adjusted for gender, family structure, maternal and paternal education, smoking status during the pregnancy, frequency of hand washing, finger biting habit, BMI and baseline intelligence.
+
+| Quantile | Quantile |
+|----------|----------|
+| Mn       |          |
+| 1        |          |
+| 2        | 6        |
+| 2        | 4        |
+| 6        | 0        |
+| 2        |          |
+| 4        | 6        |
+| 6        | 2        |
+
+Fig. 4. Univariate exposure–response function and 95% credible intervals at baseline (A) and follow-up (B). The univariate exposure–response function was estimated by BKMR between each metal and intelligence while the concentrations of other metals fixing at median values. (A) The results were adjusted for gender, family structure, maternal and paternal education, smoking status during the pregnancy, frequency of hand washing, finger biting habit and BMI. (B) The results were adjusted for gender, family structure, maternal and paternal education, smoking status during the pregnancy, frequency of hand washing, finger biting habit, BMI and baseline intelligence.
+
+effects of Ti and Sn as well as Sn and Mn (Fig. S5). The results of the interaction effects are presented in Fig. S11 and Tables S7-S8. The models showed significant interaction effects of Ti and Sn on children’s IQ when Sn exposure was relatively high (Fig. S11A). Ti and Sn had a synergistic relationship and were associated with a decline in IQ when Sn concentrations were in the second (β = -0.323, P = 0.012) and third (β = -0.368, P = 0.099) quantiles (Table S7). However, the model showed no significant interaction effect of Sn and Mn on IQ (Sn*Mn: P = 0.48).
+
+3.5. Subgroup analyses by study site
+
+The concentrations of urinary Sn were significantly higher and urinary Ti was significantly lower in those from the Shimen area than in the Huayuan area (Table S3). In single metal linear regression models, urinary Sb (βSb = -0.542, 95% CI: 0.972, 0.111, P = 0.014) and urinary Sn (βSn = -0.054, 95% CI: 0.099, 0.009, P = 0.018) in participants from the Shimen area were significantly associated with baseline z scores after adjusting for other covariates (Table S4). The overall associations between metal exposure and children’s IQ scores according to the BKMR analysis are shown in Fig. S3 and Fig. S4. Although no statistically significant difference was observed, there was a decreasing trend in Shimen from baseline (Fig. S3A). Fig. S3B shows a significantly negative association with baseline z scores when all metals were above their 50th percentiles, while a significantly positive association was observed when metals concentrations were below their 50th percentiles. In the Huayuan area, the overall association was statistically significant when all metals were below their 70th percentiles compared to when all metals were at their median values (Fig. S4A). The follow-up results were similar to those in the Shimen area (Fig. S4B).
+
+### 3.6. Sensitivity analyses
+
+We conducted a sensitivity analysis that alternatively used covariate-adjusted creatinine to correct metal concentrations. The results are presented in Table S6 and Fig. S6-S8. Similar associations were observed. We also conducted a sensitivity analysis with no adjustment for baseline IQ and observed consistent results (Fig. S9-S10). Besides, a sensitivity analysis was implemented with different rm parameters of prior distributions and observed similar trends (Fig. S13). Furthermore, we divided the baseline intelligence into 3 groups and performed a stratified analysis, and still observed consistent results (Fig. S12). This indicates that baseline IQ was neither a significant confounding factor nor a mediator of the association of metal exposure with IQ at follow-up.
+
+### 4. Discussion
+
+In this prospective cohort study, we found independent and joint associations between co-exposure to five metals (Pb, Mn, Sb, Sn and Ti) and IQ scores in children. Specifically, urinary Pb and urinary Ti were negatively associated with IQ at follow-up in the single-metal linear regression models. Multiple metals linear regression models indicated that only urinary Ti was significantly inversely associated with children’s IQ scores after adjustment for some covariates. To our knowledge, this is the first study to find a negative correlation between urinary Ti and children’s IQ scores. The BKMR models revealed the overall effects of the mixture. With an increase in the multi-metal exposure level, the positive correlation significantly decreased, while the negative correlation increased. The univariate exposure–response function revealed negative relationships between Sb, Sn, and Ti and the IQ score at baseline, while urinary Sb was positively associated with the IQ score at follow-up. Furthermore, the bivariate exposure–response functions showed potential interaction effects of Ti and Sn as well as Sn and Mn. Ti and Sn had a synergistic relationship, with a decline in IQ score when Sn exposure was relatively high.
+
+In the present study, we found a significantly negative association between urinary Pb and children’s IQ in the single-metal linear regression analysis, which is consistent with the results of a previous study in Taiwan. However, no significant association between urinary Pb and children’s IQ was found in an industrialized area of southern China; another prospective cohort study also reported similar results. Although urinary Pb levels have been used to assess Pb exposure, measurement of blood Pb is considered to be the most common and reliable method. Many studies have confirmed that high blood Pb concentrations can affect children’s intelligence. The urinary Pb levels in the Hunan area (urinary Pb median: 1.55 μg/L) in the present study were higher than those in Spain (urinary Pb median: 1.04 μg/L) and Italy (urinary Pb median: 1.17 μg/L) and were comparable to those in the general population in China, while the urinary Pb levels in the Hunan area were lower than those in Mexico (urinary Pb median: 2.10 μg/L). The negative correlation between urinary Pb and children’s intelligence was not significant in multiple metals linear regression models after adjusting for relevant confounding factors.
+
+Mn is an essential trace element in the human body that plays a key role in growth and development. When the level of Mn in the body is high, Mn can accumulate in the nervous system of children due to immaturity of the blood–brain barrier, potentially affecting intelligence development. Some previous studies have revealed an inverted U-shaped dose–response relationship between Mn exposure and children’s intelligence. We did not find a significant association between urinary Mn and IQ score; this may be because the concentration of urinary Mn in our study was too low to cause harmful effects. The urinary Mn levels in the Hunan area (urinary Mn median: 0.43 μg/L) in our study were consistent with those in Spain (urinary Mn median: 0.37 μg/L) and Italy (urinary Mn median: 0.64 μg/L) but were lower than those reported in several studies in Mexico (urinary Mn median: 1.26 μg/L) and China (urinary Mn median: 4.01 μg/L).
+
+Another interesting finding in our study is that urinary Ti levels were significantly negatively associated with children’s intelligence in the follow-up investigation. Some recent studies have shown that Ti can accumulate in many organs, such as the liver, kidneys and heart, but epidemiological studies on Ti and children’s intelligence have not been performed. One epidemiological study found that blood Ti was associated with adverse pregnancy outcomes. The levels of urinary Ti (urinary Ti median: 95.32 μg/L) in our study were much higher than those in several other studies. Ti exists mainly in the form of oxides in nature. Ti is widely used in various industries, including chemical and nuclear, automobile manufacturing, food colorant and medical industries. It is also widely used in cosmetics and sunscreen. Therefore, humans can be exposed to Ti through inhalation, ingestion and skin absorption. The urinary Sb levels in the Hunan area (urinary Sb median: 0.10 μg/L) in our study was similar to those in USA (urinary Sb median: 0.13 μg/L) of the National Health and Nutrition Examination Survey (NHANES). Previous studies did not find correlations between urinary Sb and children’s intelligence scores in whole samples. However, the univariate exposure–response function revealed that Sb was negatively associated with the baseline IQ score. Other experimental studies have shown that exposure to Sb may cause genotoxicity and cerebellar ataxia, which may be related to the development of Attention-Deficit/Hyperactivity Disorder (ADHD). A paradoxical finding in our study is that Sb was negatively associated with the IQ score at baseline but positively associated with the IQ score at follow-up 2 years later. Urinary Sb better reflects Sb exposure, as urinary excretion is one of the main excretion pathways of Sb. In addition, the toxicity of trivalent Sb is different from that of pentavalent Sb, but only total Sb in urine was measured. Biotransformation of trivalent Sb and pentavalent Sb in vivo may affect the association between urinary Sb and follow-up IQ score. For Sn, the urinary Sn levels in our study (urinary Sn median: 0.52 μg/L, urinary Sn geometric mean: 0.52 μg/L) were lower than those in Italy (urinary Sn median: 1.33 μg/L, urinary Sn geometric mean: 1.25 μg/L). But, little is known about the biological effects of Sn on children’s intelligence. In our study, we found that urinary Sn was negatively correlated with IQ score in the single-metal linear regression model and exposure–response function. More epidemiological and experimental evidences are needed to validate the relationships between Ti, Sb and Sn and children’s IQ scores. Sb induces autophagic cell death through reactive oxygen species-mediated inhibition of the Akt/mTOR pathway. Studies have shown that Ti exposure results in microglial activation, reactive oxygen species production, and activation of signalling pathways involved in inflammation and cell death. joint mechanisms of the five metals are still unclear. The effects of these combined heavy metals may be due to reactive oxygen species production, the tendency to interact with similar signalling pathways or competition with one other.
+
+Our study has several strengths. The current prospective cohort study design allowed the detection of evidence of relationship between multi-metal exposure and children’s intelligence. Our study also used BKMR models to assess joint associations between multi-metal exposure and children’s intelligence, which better represents the real exposure situation. There are some limitations in our study. First, follow-up metal exposure was not measured, and the longitudinal generalized estimating equation (GEE) model could not be used in our study. Second, because children’s blood samples are difficult to obtain, noninvasive biological samples (urine) provide important information for biological detection in children; however, metal concentrations in urine might be influenced by variations in renal function and urine dilution. In addition, some urine metabolites contain metals, meaning the results often fail to reflect real exposure levels. Furthermore, the urinary metals, such as Pb, used in this study have short half-lives; thus, their urinary concentrations mainly reflect recent exposure. Third, although some important confounding factors related to children’s IQ were adjusted for in our models, other potential confounding factors, such as parents’ IQ and quality of the home environment, were not taken into consideration. The part of basal characteristics may change during the follow-up such as financial situation, However, we did not measure other basal characteristics in the follow up examination. Besides, the relationship between Zn and Pb need to be further confirmed in the future cohort study. Last, all children included in the study were Chinese, and the results cannot be generalized to other ethnicities.
+
+5.   Conclusions
+
+In conclusion, we found that the overall effect of the five metals was negatively associated with IQ score. Negative trends of Sn and Ti on children’s IQ scores were also observed. Ti and Sn had a synergistic relationship, with a decline in IQ score when Sn exposure was relatively high. This is the first study to observe a relationship between urinary Ti and IQ score in children, which is of great public health significance. Additional epidemiological and experimental studies with repeated urinary metal concentration measurements are needed to further confirm the observed relationship and to investigate the interaction effects of multi-metal exposures.
+
+Author statement
+
+MS, FY, and XC conceptualized the study. XC, DL, MH, and ZH designed the study. All authors participated in the field investigation. CZ and MS analyzed the data and drafted the manuscript. MH was responsible for the detection of urine metal concentrations. All authors reviewed and critically revised the manuscript. XC obtained the funding.
+
+Declaration of Competing Interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+Acknowledgments
+
+This work was supported by the National Key Research & Development Project of China (2016YFC0900802), the Basic Work of Science & Technology Project of China (2015FY111100) and the Hunan Province Excellent Youth Fund (2020JJ3053).
+
+Appendix A.           Supplementary data
+
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.envint.2021.106692. M. Shen et al.
+Environment International 155 (2021) 106692
+
+| Author(s) | Title | Journal | Volume | Pages | Year |
+|-----------|-------|---------|--------|-------|------|
+| Lewis, R.C., Meeker, J.D., Basu, N., Gauthier, A.M., Cantoral, A., Mercado-Garcia, A., Peterson, K.E., Tellez-Rojo, M.M., Watkins, D.J. | Urinary metal concentrations among mothers and children in a Mexico City birth cohort study | Int J Hyg Environ Health | 221 | 609–615 | 2018 |
+| Li, Z., Hu, R., Yang, J., Peng, J., Li, X., Bi, X. | He, Pb and S isotopic constraints on the relationship between the A-type Qitianling granite and the Furong tin deposit, Hunan Province, China | Lithos | 97 | 161–173 | 2007 |
+| Li, Z., Xu, Y., Huang, Z., Wei, Y., Hou, J., Long, T., Wang, F., Hu, H., Duan, Y., Guo, H., Zhang, X., Chen, X., Yuan, H., Wu, T., Shen, M., He, M. | Association between exposure to arsenic, nickel, cadmium, selenium, and zinc and fasting blood glucose levels | Environ. Pollut. | 255 | 113325 | 2019 |
+| Liu, H.T., Ma, L.L., Zhao, J.F., Liu, J., Yan, J.Y., Ruan, J., Hong, F.S. | Biochemical Toxicity of Nano-anatase TiO2 Particles in Mice | Biol. Trace Elem. Res. | 129 | 170–180 | 2009 |
+| Man, C., Zheng, Y. | Analysis of trace elements in scalp hair of mentally retarded children | J. Radioanal. Nucl. Chem. | 253 | 375–377 | 2002 |
+| Menezes-Filho, J.A., Carvalho, C.F., Rodrigues, J.L., Araújo, C.F., Dos Santos, N.R., Lima, C.S., Mergler, D. | Environmental co-exposure to lead and manganese and intellectual deficit in school-aged children | Int. J. Environ. Res. Public Health | 15 | 2418 | 2018 |
+| Mert, D.G., Kelleci, M., Yildiz, E., Mizrak, A., Kugu, N. | Childhood trauma and general cognitive ability: Roles of minimization/denial and gender | Psychiatry Res | 243 | 147–151 | 2016 |
+| Miekeley, N., Mortari, S.R., Schubach, A.O. | Monitoring of total antimony and its species by ICP-MS and on-line ion chromatography in biological samples from patients treated for leishmaniasis | Anal. Bioanal. Chem. | 372 | 495–502 | 2002 |
+| Mohammadipour, A., Fazel, A., Haghir, H., Motejaded, F., Rafatpanah, H., Zabihi, H., Hosseini, M., Bideskan, A.E. | Maternal exposure to titanium dioxide nanoparticles during pregnancy; impaired memory and decreased hippocampal cell proliferation in rat offspring | Environ. Toxicol. Pharmacol. | 37 | 617–625 | 2014 |
+| Nascimento, S., Baierle, M., Goethel, G., Barth, A., Brucker, N., Charao, M., Sauer, E., Gauer, B., Arbo, M.D., Altknecht, L., Jager, M., Garcia Dias, A.C., de Salles, J.F., Saint Pierre, T., Gioda, A., Moresco, R., Garcia, S.C. | Associations among environmental exposure to manganese, neuropsychological performance, oxidative damage and kidney biomarkers in children | Environ. Res. | 147 | 32–43 | 2016 |
+| O’Brien, K.M., Upson, K., Cook, N.R., Weinberg, C.R. | Environmental Chemicals in Urine and Blood: Improving Methods for Creatinine and Lipid Adjustment | Environ. Health Perspect. | 124 | 220–227 | 2016 |
+| Pan, S., Lin, L., Zeng, F., Zhang, J., Dong, G., Yang, B., Jing, Y., Chen, S., Zhang, G., Yu, Z., Sheng, G., Ma, H. | Effects of lead, cadmium, arsenic, and mercury co-exposure on children’s intelligence quotient in an industrialized area of southern China | Environ Pollut | 235 | 47–54 | 2018 |
+| Perez, R., Domenech, E., Conchado, A., Sanchez, A., Coscolla, C., Yusa, V. | Influence of diet in urinary levels of metals in a biomonitoring study of a child population of the Valencian region (Spain) | Sci Total Environ | 618 | 1647–1657 | 2018 |
+| Protano, C., Astolfi, M.L., Canepari, S., Vitali, M. | Urinary levels of trace elements among primary school-aged children from Italy: The contribution of smoking habits of family members | Sci Total Environ | 557–558 | 378–385 | 2016 |
+| Shao, W., Liu, Q., He, X., Liu, H., Gu, A., Jiang, Z. | Association between level of urinary trace heavy metals and obesity among children aged 6–19 years: NHANES 1999–2011 | Environ. Sci. Pollut. Res. | 24 | 11573–11581 | 2017 |
+| Shi, H., Magaye, R., Castranova, V., Zhao, J. | Titanium dioxide nanoparticles: a review of current toxicological data | Part. Fibre Toxicol. | 10 | 15 | 2013 |
+| Simk´o, M., Mattsson, M.O. | Risks from accidental exposures to engineered nanoparticles and neurological health effects: a critical review | Part. Fibre Toxicol. | 7 | 1–15 | 2010 |
+| Valeri, L., Mazumdar, M.M., Bobb, J.F., Claus Henn, B., Rodrigues, E., Sharif, O., Kile, M.L., Quamruzzaman, Q., Afroz, S., Golam, M., Amarasiriwardena, C., Bellinger, D.C., Christiani, D.C., Coull, B.A., Wright, R.O. | The Joint Effect of Prenatal Exposure to Metal Mixtures on Neurodevelopmental Outcomes at 20–40 Months of Age: Evidence from Rural Bangladesh | Environ. Health Perspect. | 125 | 067015 | 2017 |
+| Wang, J., Zhou, G., Chen, C., Yu, H., Wang, T., Ma, Y., Chai, Z. | Acute toxicity and biodistribution of different sized titanium dioxide particles in mice after oral administration | Toxicol. Lett. | 168 | 176–185 | 2007 |
+| Wang, J., Chen, C., Liu, Y., Jiao, F., Li, W., Lao, F., Li, Y., Li, B., Ge, C., Zhou, G., Gao, Y., Zhao, Y., Chai, Z. | Potential neurological lesion after nasal instillation of TiO2 nanoparticles in the anatase and rutile crystal phases | Toxicol. Lett. | 183 | 72–80 | 2008 |
+| Wang, X., Zhu, P., Xu, S., Liu, Y., Jin, Y., Yu, S., Wei, H., Li, J., Zhang, Q., Hasegawa, T., Yao, C., Yoshimura, H., Wu, Q., Zhao, X. | Antimony, a novel nerve poison, triggers neuronal autophagic death via reactive oxygen species-mediated inhibition of the protein kinase B/mammalian target of rapamycin pathway | Int J Biochem Cell Biol | 114 | 105561 | 2019 |
+| Wasserman, G.A., Liu, X., Parvez, F., Ahsan, H., Levy, D., Factor-Litvak, P., Kline, J., van Geen, A., Slavkovich, V., LoIacono, N.J. | Water manganese exposure and children’s intellectual function in Araihazar, Bangladesh | Environ. Health Perspect. | 114 | 124–129 | 2006 |
+| Wasserman, G.A., Liu, X., Parvez, F., Factor-Litvak, P., Ahsan, H., Levy, D., Kline, J., van Geen, A., Mey, J., Slavkovich, V. | Arsenic and manganese exposure and children’s intellectual function | Neurotoxicology | 32 | 450–457 | 2011 |
+| Wright, R.O., Amarasiriwardena, C., Woolf, A.D., Jim, R., Bellinger, D.C. | Neuropsychological correlates of hair arsenic, manganese, and cadmium levels in school-age children residing near a hazardous waste site | Neurotoxicology | 27 | 210–216 | 2006 |
+| Wu, J., Liu, W., Xue, C., Zhou, S., Lan, F., Bi, L., Zeng, F.D. | Toxicity and penetration of TiO2 nanoparticles in hairless mice and porcine skin after subchronic dermal exposure | Toxicol. Lett. | 191 | 1–8 | 2009 |
+| Wu, S., Deng, F., Wang, X., Wei, H., Shima, M., Huang, J., Lv, H., Hao, Y., Zheng, C., Qin, Y., Lu, X., Guo, X. | Association of lung function in a panel of young healthy adults with various chemical components of ambient fine particulate air pollution in Beijing, China | Atmos. Environ. | 77 | 873–884 | 2013 |
+| Wu, S.W., Deng, F.R., Hao, Y., Shima, M., Wang, X., Zheng, C.J., Wei, H.Y., Lv, H.B., Lu, X.L., Huang, J., Qin, Y., Guo, X.B. | Chemical constituents of fine particulate air pollution and pulmonary function in healthy adults: The Healthy Volunteer Natural Relocation study | J. Hazard. Mater. | 260 | 183–191 | 2013 |
+| Wu, S., Deng, F., Wei, H., Huang, J., Wang, X., Hao, Y., Zheng, C., Qin, Y., Lv, H., Shima, M., Guo, X. | Association of cardiopulmonary health effects with source-appointed ambient fine particulate in Beijing, China: a combined analysis from the Healthy Volunteer Natural Relocation (HVNR) study | Environ Sci Technol | 48 | 3438–3448 | 2014 |
+| Yang, F., Yi, X., Guo, J., Xu, S., Xiao, Y., Huang, X., Duan, Y., Luo, D., Xiao, S., Huang, Z., Yuan, H., He, M., Shen, M., Chen, X. | Association of plasma and urine metals levels with kidney function: A population-based cross-sectional study in China | Chemosphere | 226 | 321–328 | 2019 |
+| Zeng, F., Wei, W., Li, M., Huang, R., Yang, F., Duan, Y. | Heavy metal contamination in rice-producing soils of Hunan province, China and potential health risks | Int. J. Environ. Res. Public Health | 12 | 15584–15593 | 2015 |
+| Zhang, X., Cui, X., Lin, C., Ma, J., Liu, X., Zhu, Y. | Reference levels and relationships of nine elements in first-spot morning urine and 24-h urine from 210 Chinese children | Int. J. Hyg. Environ. Health | 220 | 227–234 | 2017 |
+| Zhang, Y., Dong, T., Hu, W., Wang, X., Xu, B., Lin, Z., Hofer, T., Stefanoff, P., Chen, Y., Wang, X., Xia, Y. | Association between exposure to a mixture of phenols, pesticides, and phthalates and obesity: Comparison of three statistical models | Environ Int | 123 | 325–336 | 2019 |
+| Zheng, G., Zhong, H., Guo, Z., Wu, Z., Zhang, H., Wang, C., Zhou, Y., Zuo, Z. | Levels of Heavy Metals and Trace Elements in Umbilical Cord Blood and the Risk of Adverse Pregnancy Outcomes: a Population-Based Study | Biol. Trace Elem. Res. | 160 | 437–444 | 2014 |
+| Zhong, T., Xue, D., Zhao, L., Zhang, X. | Concentration of heavy metals in vegetables and potential health risk assessment in China | Environ. Geochem. Health | 40 | 313–322 | 2018 |
+| Zhou, T., Guo, J., Zhang, J., Xiao, H., Qi, X., Wu, C., Chang, X., Zhang, Y., Liu, Q., Zhou, Z. | Sex-Specific Differences in Cognitive Abilities Associated with Childhood Cadmium and Manganese Exposures in School-Age Children: a Prospective Cohort Study | Biol Trace Elem Res | 193 | 89–99 | 2020 | 

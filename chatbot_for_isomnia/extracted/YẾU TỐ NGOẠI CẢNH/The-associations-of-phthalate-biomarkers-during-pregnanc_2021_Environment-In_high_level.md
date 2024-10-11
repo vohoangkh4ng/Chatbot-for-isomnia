@@ -1,0 +1,3 @@
+# Title: The associations of phthalate biomarkers during pregnancy with later glycemia and lipid profiles
+
+## Summary: This article investigates the impact of phthalate exposure during pregnancy on metabolic health outcomes post-delivery. It analyzes urinary phthalate biomarker concentrations in a cohort of 618 pregnant women from Mexico City and assesses their associations with various metabolic health indicators, including glycemia and lipid profiles, measured several years after childbirth. The findings suggest that higher levels of phthalate biomarkers are linked to adverse metabolic outcomes, such as increased plasma glucose and insulin levels, as well as changes in lipid profiles, indicating potential long-term health implications for mothers.

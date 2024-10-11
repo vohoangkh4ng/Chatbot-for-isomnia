@@ -1,0 +1,3 @@
+# Title: Cognitive Performance, Sleepiness, and Mood in Partially Sleep Deprived Adolescents: The Need for Sleep Study
+
+## Summary: This study investigates the impact of partial sleep deprivation on cognitive performance, subjective sleepiness, and mood in adolescents. Fifty-six healthy adolescents were subjected to a sleep restriction protocol, resulting in significant declines in sustained attention, working memory, and executive function, alongside increased sleepiness and decreased positive mood. Notably, some cognitive deficits persisted even after two nights of recovery sleep, highlighting the detrimental effects of sleep restriction on high-performing students and suggesting a need for reevaluation of sleep's role in academic achievement.

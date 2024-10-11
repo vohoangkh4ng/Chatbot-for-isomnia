@@ -1,0 +1,3 @@
+# Title: Missed sleep and asthma morbidity in urban children
+
+## Summary: This article investigates the relationship between missed sleep and asthma morbidity in urban children, particularly focusing on those from Latino, African American, and non-Latino white backgrounds. It highlights that children in urban environments face various risk factors for disrupted sleep, which can exacerbate asthma symptoms. The study finds that higher reports of missed sleep correlate with increased school absences, activity limitations, and lower quality of life, with stronger associations observed in Latino children. Additionally, anxiety is identified as a significant factor that may intensify the impact of missed sleep on asthma morbidity.

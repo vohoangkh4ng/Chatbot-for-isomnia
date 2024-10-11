@@ -1,0 +1,6 @@
+Help Prevent Exposure to Secondhand Smoke
+============================================
+
+Editor’s note: Dr Richard Carmona completed his 4-year term as Surgeon General in July 2006. We thank him for his service and his excellent support of the Journal of the American Dietetic Association; our best wishes to him and his family in their future endeavors. We also welcome Acting Surgeon General RADM Kenneth Moritsugu and look forward to him addressing important public health messages in the Surgeon General’s column.
+
+In recent years, our nation has made remarkable progress in preventing young people from starting to smoke and helping smoking adults to stop. In addition, there has been unprecedented progress at the individual, community, and state level in reducing exposure to secondhand smoke. Earlier this year, the Office of the Surgeon General issued a comprehensive scientific report, The Health Consequences of Involuntary Exposure to Tobacco Smoke: A Report of the Surgeon General, which concluded that there is no risk-free level of exposure to secondhand smoke. The debate is over. The 

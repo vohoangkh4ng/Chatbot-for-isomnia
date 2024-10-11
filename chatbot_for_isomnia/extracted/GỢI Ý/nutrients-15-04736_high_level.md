@@ -1,0 +1,3 @@
+# Title: Food Intake and Sleep Disorders in Children and Adolescents with Obesity
+
+## Summary: This article explores the complex relationship between dietary habits and sleep disturbances in children and adolescents suffering from obesity. It highlights the significant correlation between specific dietary patterns—such as high fiber, fruit, and vegetable intake—and improved sleep quality, while also noting that sleep disturbances can exacerbate obesity. The study emphasizes the need for effective food strategies to address these intertwined issues, which are critical for public health, especially in light of rising obesity rates among youth.

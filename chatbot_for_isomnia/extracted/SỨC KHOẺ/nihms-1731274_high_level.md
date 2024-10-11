@@ -1,0 +1,3 @@
+# Title: Weekend night versus school night sleep patterns, weight status, and weight-related behaviors among adolescents
+
+## Summary: This study investigates the relationships between weekend and school night sleep patterns, weight status, and weight-related behaviors in adolescents. Conducted in five Minnesota high schools, the cross-sectional study involved ninth-grade students who wore sleep actigraphs and completed surveys. The findings revealed that students slept significantly longer and later on weekend nights compared to school nights, with notable differences between genders. However, these variations in sleep duration and timing were not linked to overweight, obesity, or eating behaviors.

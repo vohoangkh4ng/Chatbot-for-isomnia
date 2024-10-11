@@ -1,0 +1,3 @@
+# Title: Health impacts of changes in travel patterns in Greater Accra Metropolitan Area, Ghana
+
+## Summary: This article presents a health impact assessment of alternative travel patterns in the Greater Accra Metropolitan Area, Ghana, highlighting the urgent need for such evaluations in African cities. The study quantifies the health consequences of changes in transportation, estimating that a shift from public transport and walking to car travel could result in over 400 additional deaths and 20,500 years of life lost annually. It emphasizes that mitigating rising motorization, particularly through improved public transport, is crucial for enhancing public health and reducing road traffic fatalities, which are the primary contributors to health burdens in the region.

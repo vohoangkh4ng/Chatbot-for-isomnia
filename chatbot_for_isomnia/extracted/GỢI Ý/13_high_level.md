@@ -1,0 +1,3 @@
+# Title: Leveraging Neuroscience to Inform Adolescent Health: The Need for an Innovative Transdisciplinary Developmental Science of Adolescence
+
+## Summary: This article explores how advancements in developmental neuroscience can enhance adolescent health by addressing critical issues such as sleep problems and affective disorders. It emphasizes the importance of an integrative, developmental science approach to identify modifiable factors and improve early intervention strategies. The authors argue that adolescence, while a period of increased health risks, also presents unique opportunities for effective intervention and prevention, highlighting the need for a deeper understanding of this dynamic developmental stage.

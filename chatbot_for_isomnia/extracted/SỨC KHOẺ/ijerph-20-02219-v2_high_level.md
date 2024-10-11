@@ -1,0 +1,3 @@
+# Title: Academic Stress and Sleep Quality among Chinese Adolescents: Chain Mediating Effects of Anxiety and School Burnout
+
+## Summary: This study investigates the relationships between academic stress, anxiety, school burnout, and sleep quality among Chinese adolescents. Utilizing data from 1232 adolescents in Jiangsu province, the research employs structural equation modeling to reveal that academic stress significantly impacts sleep quality both directly and indirectly through anxiety and school burnout. The findings highlight the mechanisms by which academic stress affects sleep quality and suggest implications for social policy and interventions aimed at improving adolescents' sleep health.

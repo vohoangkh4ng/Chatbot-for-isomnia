@@ -1,0 +1,3 @@
+# Title: Positive affect increases the breadth of attentional selection
+
+## Summary: This study investigates the hypothesis that positive affect broadens attentional selection, enhancing cognitive flexibility and creativity. It examines the effects of positive mood on two cognitive domains: semantic search and visual selective attention. Findings suggest that positive affect increases access to remote associates in semantic tasks and impairs visual selective attention by processing adjacent distractors more effectively. The results indicate that positive mood states lead to a fundamental change in attentional allocation, allowing for a broader scope of attention in both conceptual and visuospatial domains.

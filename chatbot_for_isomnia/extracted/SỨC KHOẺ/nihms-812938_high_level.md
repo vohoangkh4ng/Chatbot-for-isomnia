@@ -1,0 +1,3 @@
+# Title: Sleep in adolescence: physiology, cognition and mental health
+
+## Summary: This article reviews the changes in sleep behaviors and physiology during adolescence, emphasizing the relationship between sleep and brain development. It discusses how sleep supports cognitive functioning in adolescents and highlights the significant comorbidity of sleep disruption with various psychiatric and developmental disorders. The review aims to provide insights into the determinants and consequences of sleep in the context of adolescent brain maturation.

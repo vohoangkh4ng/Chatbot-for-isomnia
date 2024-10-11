@@ -1,0 +1,3 @@
+# Title: Nomophobia: An Individual’s Growing Fear of Being without a Smartphone—A Systematic Literature Review
+
+## Summary: This systematic literature review investigates the phenomenon of nomophobia, defined as the fear of being without a smartphone. The review analyzes 42 articles from the Scopus and Web of Science databases, highlighting that current research is primarily exploratory, focusing on descriptive, nonexperimental, and cross-sectional studies, particularly among adolescents and university students. The findings indicate that nomophobia negatively impacts various aspects of mental and physical health, including personality, self-esteem, anxiety, and academic performance, suggesting it is a significant public health concern.

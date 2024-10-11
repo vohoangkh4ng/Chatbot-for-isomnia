@@ -1,0 +1,3 @@
+# Title: Potential health risks due to in-car aerosol exposure across ten global cities
+
+## Summary: This article investigates the health risks associated with in-car exposure to fine particulate matter (PM2.5) in ten cities worldwide. It examines the relationship between air pollution levels and socioeconomic factors, such as fuel prices and GDP. The study reveals that car microenvironments significantly contribute to daily pollution exposure, with hotspots identified in various cities showing disproportionately high PM2.5 concentrations. The findings indicate a correlation between lower GDP and higher health burdens from air pollution, emphasizing the need for effective solutions to mitigate these risks in urban environments.

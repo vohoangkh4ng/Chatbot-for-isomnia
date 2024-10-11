@@ -1,0 +1,3 @@
+# Title: Sleeping Habits among School Children and their Effects on Sleep Pattern
+
+## Summary: This article investigates the sleep habits and patterns of school children, highlighting the impact of pre-sleep activities and media usage on sleep duration and quality. The study, which involved 1050 children across various age groups, found that total sleep time was significantly lower during weekdays compared to weekends, with children experiencing sleep debt due to late-night media consumption. The findings suggest that co-sleeping practices may enhance sleep quality, and overall sleep durations reported were below the recommended levels for children.

@@ -1,0 +1,3 @@
+# Title: Sleep Schedules and Daytime Functioning in Adolescents
+
+## Summary: This study investigates the relationship between sleep/wake habits and daytime functioning in adolescents, focusing on mood, school performance, and behavior. It highlights that adolescents experience significant changes in sleep patterns, with a notable decrease in total sleep time as they age. The research indicates that students with poorer academic performance tend to have later bedtimes and greater weekend sleep delays, which negatively impacts their daytime functioning, including increased sleepiness and depressive moods. Overall, the findings suggest that many adolescents do not get sufficient sleep, which interferes with their daily activities and well-being.

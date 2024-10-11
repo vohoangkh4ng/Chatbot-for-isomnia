@@ -1,0 +1,3 @@
+# Title: Sleep disturbances in children with attention-deficit/hyperactivity disorder
+
+## Summary: This article emphasizes the importance of understanding and addressing sleep disturbances in children with attention-deficit/hyperactivity disorder (ADHD). It discusses the complex relationship between sleep issues and ADHD symptoms, advocating for thorough assessments of sleep patterns and behaviors. The authors highlight the need for detailed sleep hygiene logs and further research to explore the sleep-related comorbidities associated with ADHD.

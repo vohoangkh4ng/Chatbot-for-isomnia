@@ -1,0 +1,3 @@
+# Title: Exercise intervention to reduce mobile phone addiction in adolescents: a systematic review and meta-analysis of randomized controlled trials
+
+## Summary: This article presents a systematic review and meta-analysis examining the effectiveness of exercise interventions in reducing mobile phone addiction among adolescents. The study analyzes data from 12 randomized controlled trials involving 861 subjects, revealing that exercise significantly decreases mobile phone addiction. The review identifies various moderating factors, such as the type and frequency of exercise, and recommends that adolescents engage in mixed-skill exercises for 30–60 minutes, three or more times a week, for at least eight consecutive weeks to effectively combat mobile phone addiction.

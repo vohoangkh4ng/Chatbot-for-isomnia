@@ -1,0 +1,3 @@
+# Title: Calcium absorption from soymilk products has been directly studied
+
+## Summary: This article discusses the findings of a study on the calcium bioavailability of various milk alternatives, particularly focusing on calcium-fortified soymilk compared to cow's milk. The study indicates that calcium carbonate-fortified soymilk has a similar calcium absorption rate to cow's milk. It also highlights the acceptability of soymilk among students, especially those who are lactose intolerant, and suggests that fortified foods like soymilk can provide essential calcium without the drawbacks of dairy. The article emphasizes the importance of moderate calcium intake and a balanced diet for optimal bone health.

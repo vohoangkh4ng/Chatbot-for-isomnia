@@ -1,0 +1,3 @@
+# Title: Insomnia disorder in adolescence: diagnosis, impact, and treatment
+
+## Summary: Insomnia disorder is prevalent among adolescents, particularly in older adolescents and girls, with rates comparable to major psychiatric disorders. It is often under-recognized and under-treated, with unknown reasons for its increased prevalence post-puberty. The disorder is linked to various biological alterations and is associated with depression, suicidality, and substance use. Effective cognitive behavioral treatments exist, and online methods may provide cost-effective solutions. The article emphasizes the need to address adolescent insomnia as a significant public health issue.

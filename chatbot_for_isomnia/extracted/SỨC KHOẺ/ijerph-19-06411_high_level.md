@@ -1,0 +1,3 @@
+# Title: Sleep Disturbances in Children with Attentional Deficit Hyperactivity Disorder and Specific Learning Disorders
+
+## Summary: This article investigates the prevalence and impact of sleep disturbances in children diagnosed with Attention Deficit Hyperactivity Disorder (ADHD) and Specific Learning Disorders (SLD). The study involved 74 children with ADHD, 78 with SLD, and 76 with both conditions, utilizing the Sleep Disturbances Scale for Children. Findings indicate that children with comorbid ADHD and SLD experience more significant sleep difficulties compared to those with only one of the disorders. The research highlights the importance of assessing sleep disturbances in this population to inform better management and intervention strategies.

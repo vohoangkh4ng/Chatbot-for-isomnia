@@ -1,0 +1,3 @@
+# Title: Exploring Sleep Quality of Young Children with Autism Spectrum Disorder and Disruptive Behaviors
+
+## Summary: This article investigates the prevalence of sleep disturbances in young children with Autism Spectrum Disorder (ASD) and their impact on daytime functioning and parental stress. It analyzes data from 177 children with ASD, focusing on the relationship between age, IQ, and sleep quality, as well as the behavioral problems associated with poor sleep. The study aims to highlight the differences between "poor sleepers" and "good sleepers" in terms of disruptive behaviors and parental stress levels.

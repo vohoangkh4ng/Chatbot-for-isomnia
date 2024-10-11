@@ -1,0 +1,3 @@
+# Title: Associations of the residential built environment with adolescent sleep outcomes
+
+## Summary: This study investigates the impact of the residential built environment on sleep outcomes among adolescents, highlighting that over 75% of US high school students experience insufficient sleep. Using actigraphy to assess sleep patterns in 110 adolescents, the research found that higher neighborhood sound levels were linked to later sleep onset and reduced likelihood of achieving at least 8 hours of sleep. Conversely, greater tree canopy cover was associated with earlier sleep onset and offset. The findings suggest that neighborhood noise and green space are critical factors that could inform interventions aimed at improving adolescent sleep health.

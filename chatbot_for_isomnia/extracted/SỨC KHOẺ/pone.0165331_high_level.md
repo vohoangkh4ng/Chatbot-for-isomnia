@@ -1,0 +1,3 @@
+# Title: Direct Measurements of Smartphone Screen-Time: Relationships with Demographics and Sleep
+
+## Summary: This study investigates the relationship between smartphone screen-time and various demographic factors, as well as its impact on sleep quality. By directly measuring screen-time in a cohort of 653 participants, the research aims to characterize smartphone usage patterns and assess the hypothesis that increased screen-time correlates with poorer sleep outcomes. The findings reveal significant associations between screen-time, age, and self-reported race/ethnicity, highlighting the need for further exploration of how smartphone use affects sleep health.

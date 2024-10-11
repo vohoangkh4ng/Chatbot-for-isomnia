@@ -1,0 +1,3 @@
+# Title: Setting the right tone
+
+## Summary: This article discusses the efforts made by Tanita Casci and Elizabeth Adams to improve the research culture at the University of Glasgow. They emphasize the importance of creating a fair and rewarding environment for researchers and share practical advice for initiating cultural changes within research institutions. The authors highlight the need for consistency and progress, focusing on priorities that align with the values of the organization and the well-being of researchers. They also reference external drivers such as the UK Research Excellence Framework and the Athena Swan awards as frameworks for fostering a positive research culture.

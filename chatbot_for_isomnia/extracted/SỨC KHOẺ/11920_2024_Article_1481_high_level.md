@@ -1,0 +1,3 @@
+# Title: The Impact of Social Media Use on Sleep and Mental Health in Youth: a Scoping Review
+
+## Summary: This scoping review examines the relationship between social media use (SMU) and its effects on sleep and mental health among youth. It summarizes recent studies indicating that SMU is generally associated with negative outcomes in these areas, although some evidence suggests potential benefits during periods of social restriction, such as during the COVID-19 pandemic. The review highlights the need for further longitudinal research to clarify the directionality and causality of these associations, and it discusses future directions for interventions aimed at promoting healthier SMU practices to improve sleep and mental health outcomes in young people.

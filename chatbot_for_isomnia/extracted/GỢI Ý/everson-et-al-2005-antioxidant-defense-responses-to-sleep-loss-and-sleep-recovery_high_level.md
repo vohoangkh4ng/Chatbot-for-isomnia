@@ -1,0 +1,3 @@
+# Title: Antioxidant defense responses to sleep loss and sleep recovery
+
+## Summary: This article investigates the biochemical and physical effects of sleep deprivation and recovery on antioxidant defense mechanisms. It highlights that sleep deprivation can lead to oxidative stress, impairing health by decreasing glutathione levels and enzymatic antioxidant activities in the liver and heart. The study demonstrates that recovery sleep can restore antioxidant balance, suggesting a link between oxidative stress and health consequences of sleep loss.

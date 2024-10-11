@@ -1,0 +1,3 @@
+# Title: Impact of Sleep Extension on Sluggish Cognitive Tempo Symptoms and Driving Behavior among Adolescents with Chronic Short Sleep
+
+## Summary: This article investigates the effects of sleep extension on sluggish cognitive tempo (SCT) symptoms and driving behavior in adolescents who experience chronic short sleep. The study highlights the correlation between inadequate sleep, SCT, and driving issues, noting that few adolescents achieve sufficient sleep. Through a 5-week experimental protocol involving sleep monitoring and self-reported assessments, the research found that extending sleep improved SCT symptoms and reduced driving problems. The findings suggest that increasing sleep duration may benefit adolescents suffering from sleep deprivation.

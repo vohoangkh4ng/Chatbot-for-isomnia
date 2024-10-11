@@ -1,0 +1,3 @@
+# Title: The Great Sleep Recession: Changes in Sleep Duration Among US Adolescents, 1991–2012
+
+## Summary: This article examines the decline in average nightly sleep duration among US adolescents from 1991 to 2012, utilizing data from a nationally representative survey. The findings indicate a significant decrease in sleep, particularly between the mid-1990s and early 2000s, with variations observed across demographic subgroups. The study highlights concerning trends, including a widening gender gap in sleep adequacy and discrepancies in sleep perceptions among racial/ethnic minorities and adolescents from low socioeconomic backgrounds. The authors suggest that these trends warrant attention to health education and literacy initiatives.

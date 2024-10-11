@@ -1,0 +1,3 @@
+# Title: Treatment of Circadian Rhythm Sleep–Wake Disorders
+
+## Summary: This article reviews circadian rhythm sleep-wake disorders (CRSWDs), which are sleep disorders arising from disruptions in the circadian time-keeping system. The authors discuss the clinical manifestations, including insomnia and excessive daytime sleepiness, and the potential for misdiagnosis as typical insomnia. CRSWDs are categorized into intrinsic and extrinsic types, with various diagnostic methods and treatments highlighted, such as sleep health education, light therapy, and melatonin. The review aims to enhance understanding and treatment of CRSWDs, focusing on their epidemiology, etiology, and diagnostic evaluation.

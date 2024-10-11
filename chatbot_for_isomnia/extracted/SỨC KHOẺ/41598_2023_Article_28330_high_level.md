@@ -1,0 +1,3 @@
+# Title: Sleep deprivation among adolescents in urban and indigenous‑rural Mexican communities
+
+## Summary: This article investigates adolescent sleep patterns in urban and rural settings in Mexico, testing the Social Jetlag Hypothesis, which posits that modern lifestyles contribute to sleep insufficiency. The study analyzes sleep duration among adolescents aged 11-16 using actigraphy, sleep diaries, and questionnaires, revealing that sleep deprivation is prevalent in both rural and urban environments. The findings challenge existing assumptions about natural sleep and highlight the role of social activities in shaping sleep behaviors, suggesting that the impact of socio-cultural factors on sleep is significant across different contexts.

@@ -1,0 +1,3 @@
+# Title: Prevalence, Patterns, and Predictors of Sleep Problems and Daytime Sleepiness in Young Adolescents with Attention-Deficit/Hyperactivity Disorder
+
+## Summary: This article investigates the prevalence, patterns, and predictors of sleep problems and daytime sleepiness among young adolescents diagnosed with Attention-Deficit/Hyperactivity Disorder (ADHD). The research aims to provide insights into how these sleep issues affect this specific population, contributing to a better understanding of their overall well-being and functioning.

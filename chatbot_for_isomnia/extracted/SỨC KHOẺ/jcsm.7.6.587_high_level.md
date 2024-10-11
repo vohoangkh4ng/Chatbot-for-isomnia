@@ -1,0 +1,3 @@
+# Title: Psychiatric Comorbidity in Children and Adolescents with Restless Legs Syndrome: A Retrospective Study
+
+## Summary: This study investigates the prevalence of psychiatric disorders in children and adolescents diagnosed with restless legs syndrome (RLS). It finds that nearly two-thirds of these patients also meet the criteria for one or more psychiatric conditions, emphasizing the importance of multidisciplinary management. The research highlights a significant association between RLS and various psychiatric disorders, including attention deficit hyperactivity disorder and mood disturbances, and suggests the need for clinicians to assess for both conditions in affected individuals.

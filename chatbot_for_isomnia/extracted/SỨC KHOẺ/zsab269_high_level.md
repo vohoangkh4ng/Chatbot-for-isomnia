@@ -1,0 +1,3 @@
+# Title: Losing sleep by staying up late leads adolescents to consume more carbohydrates and a higher glycemic load
+
+## Summary: This study investigates the impact of short sleep on dietary consumption in adolescents, revealing that insufficient sleep leads to increased intake of carbohydrates, added sugars, and foods with a high glycemic load, particularly in the late evening. The research highlights a significant link between sleep deprivation and unhealthy dietary patterns, which may elevate the risk of obesity and cardiometabolic issues in adolescents. The findings suggest that promoting optimal sleep could be an essential component of health interventions aimed at improving dietary habits in this age group.

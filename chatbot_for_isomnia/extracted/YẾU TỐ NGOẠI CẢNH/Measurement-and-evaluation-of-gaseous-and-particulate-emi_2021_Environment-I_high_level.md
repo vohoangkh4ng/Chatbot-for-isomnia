@@ -1,0 +1,3 @@
+# Title: Measurement and evaluation of gaseous and particulate emissions from burning scented and unscented candles
+
+## Summary: This study investigates the emissions produced by burning scented and unscented candles, focusing on the chemical composition and combustion by-products. Conducted in a controlled environment, the research involved 24 experiments with various waxes and fragrances. The emissions of typical combustion gases and particulate matter were monitored, revealing that most indoor concentrations were below established safety guidelines, although some exceptions for specific pollutants were noted. The findings contribute to understanding indoor air quality related to candle use.

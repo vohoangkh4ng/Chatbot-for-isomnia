@@ -1,0 +1,3 @@
+# Title: The Prospective Association between Sleep Deprivation and Depression among Adolescents
+
+## Summary: This article examines the reciprocal relationship between sleep deprivation and depression in adolescents through a community-based cohort study involving 4,175 youths. The study finds that sleep deprivation, defined as getting 6 hours or less of sleep per night, predicts increased depression symptoms over time. Conversely, major depression at baseline is shown to predict future sleep deprivation. The findings highlight the bidirectional nature of these issues, suggesting that insufficient sleep can elevate the risk of major depression, which in turn can lead to further sleep deprivation.

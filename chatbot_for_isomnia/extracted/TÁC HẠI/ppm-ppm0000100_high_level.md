@@ -1,0 +1,3 @@
+# Title: The Role of Compulsive Texting in Adolescents’ Academic Functioning
+
+## Summary: This study investigates the impact of compulsive texting on adolescents' academic performance and attitudes towards school. It highlights a significant positive correlation between the frequency of texting and compulsive texting behaviors, while also revealing a negative relationship between compulsive texting and academic outcomes, particularly among female students. The findings suggest that addressing compulsive texting may help improve academic adjustment in adolescents.

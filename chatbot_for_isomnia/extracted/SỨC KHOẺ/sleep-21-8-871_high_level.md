@@ -1,0 +1,3 @@
+# Title: Adolescent Sleep Patterns, Circadian Timing, and Sleepiness at a Transition to Early School Days
+
+## Summary: This study investigates the impact of an earlier school start time on adolescent sleep patterns, sleepiness, and circadian timing. It involved 40 adolescents who were monitored through actigraphy, sleep diaries, and laboratory evaluations. Findings indicate that while students woke earlier in 10th grade compared to 9th grade, they did not go to bed earlier and experienced reduced sleep duration. The study highlights significant sleep deprivation and increased daytime sleepiness associated with early school start times, suggesting that adolescents may struggle to adjust to such schedules due to psychosocial and biological factors.

@@ -1,0 +1,3 @@
+# Title: Consequences of Insomnia in Adolescents
+
+## Summary: This article investigates the prevalence and health correlates of insomnia symptoms among adolescents in the United States, revealing that nearly one-third of adolescents experience insomnia symptoms. The study highlights significant associations between insomnia and various mental disorders, including mood, anxiety, and substance use disorders, as well as increased risks for poor health outcomes and suicidality. The findings underscore the need for early detection and intervention strategies to address insomnia and its comorbidities in this population.

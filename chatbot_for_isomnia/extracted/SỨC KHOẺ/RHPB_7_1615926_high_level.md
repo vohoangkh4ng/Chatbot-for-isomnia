@@ -1,0 +1,3 @@
+# Title: Gender differences in factors associated with symptoms of depression among high school students: an examination of the direct and indirect effects of insomnia symptoms and physical activity
+
+## Summary: This study investigates the gender-specific associations between insomnia symptoms, physical activity, and depressive symptoms among high school students. It highlights that insomnia is prevalent and has a strong correlation with depression, particularly among girls. The research indicates that while physical activity has a weaker effect on depression, it is mediated by insomnia for both genders. The findings emphasize the need for gender-specific mental health interventions targeting insomnia to prevent mental illness in adolescents.

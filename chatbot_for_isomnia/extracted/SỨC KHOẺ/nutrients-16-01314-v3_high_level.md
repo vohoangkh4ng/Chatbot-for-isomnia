@@ -1,0 +1,3 @@
+# Title: Relationships among Sleep Time, Physical Activity Time, Screen Time, and Nutrition Literacy of Adolescents: A Cross-Sectional Study in Chongqing, China
+
+## Summary: This study investigates the connections between sleep time, physical activity (PA) time, screen time (ST), and nutrition literacy (NL) among adolescents aged 10-18 in Chongqing, China. Conducted in September 2020 across 239 schools, the research highlights alarming trends in unhealthy lifestyles among adolescents. The findings indicate that higher levels of NL are associated with adequate sleep and physical activity, particularly in junior high school students. The study emphasizes the importance of promoting healthy lifestyle habits to improve nutrition literacy in this demographic.

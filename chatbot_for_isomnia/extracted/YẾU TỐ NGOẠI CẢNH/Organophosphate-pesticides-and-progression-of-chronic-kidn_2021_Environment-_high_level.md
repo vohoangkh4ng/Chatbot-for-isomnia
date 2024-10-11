@@ -1,0 +1,3 @@
+# Title: Organophosphate pesticides and progression of chronic kidney disease among children: A prospective cohort study
+
+## Summary: This study investigates the relationship between exposure to organophosphate (OP) pesticide metabolites and the progression of chronic kidney disease (CKD) in children. Utilizing data from 618 pediatric CKD patients over an average follow-up of 3 years, the research found that increased levels of certain OP pesticide metabolites were associated with subclinical kidney injury, as indicated by biomarkers of tubular injury and oxidant stress. The findings suggest that OP pesticide exposure may be a modifiable risk factor impacting renal function in children with CKD, highlighting the need for further research in this area.

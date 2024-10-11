@@ -1,0 +1,3 @@
+# Title: Practice guideline: Treatment for insomnia and disrupted sleep behavior in children and adolescents with autism spectrum disorder
+
+## Summary: This article reviews pharmacologic and nonpharmacologic strategies for treating sleep disturbances in children and adolescents with autism spectrum disorder (ASD). It provides recommendations for clinicians, emphasizing the importance of assessing medications and coexisting conditions that may contribute to sleep issues. Behavioral strategies are recommended as a first-line treatment, with melatonin suggested if these strategies are ineffective. The article also discusses the lack of evidence supporting the routine use of weighted blankets and specialized mattress technology for improving sleep.

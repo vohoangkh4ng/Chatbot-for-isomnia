@@ -1,0 +1,3 @@
+# Title: Total sleep deprivation decreases saliva ghrelin levels in adolescents
+
+## Summary: This study investigates the impact of a single night of total sleep deprivation on fasting saliva ghrelin levels in adolescents. It finds that total sleep deprivation significantly blunts the increase in total-ghrelin concentration that typically occurs overnight, particularly in adolescents with overweight or obesity. The research highlights the physiological implications of sleep deprivation on ghrelin levels, suggesting a need for further studies to explore these effects in greater detail.

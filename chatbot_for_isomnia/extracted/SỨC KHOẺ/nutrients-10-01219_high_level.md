@@ -1,0 +1,3 @@
+# Title: Sleep Duration and Excessive Daytime Sleepiness Are Associated with Obesity Independent of Diet and Physical Activity
+
+## Summary: This article investigates the relationship between sleep duration, excessive daytime sleepiness (EDS), and obesity in a Czech population. The study, which included 1482 participants from the Kardiovize cohort, found that short sleep duration and EDS are linked to higher odds of being overweight and obese, as well as central obesity, regardless of diet and physical activity levels. The findings suggest a significant association between sleep disturbances and obesity, highlighting the need for further research to explore causality.

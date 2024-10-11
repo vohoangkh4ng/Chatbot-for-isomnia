@@ -1,0 +1,3 @@
+# Title: Short Sleep Duration Among Middle School and High School Students — United States, 2015
+
+## Summary: This article discusses the prevalence of insufficient sleep among middle and high school students in the United States, highlighting its association with various health risks such as obesity, diabetes, and poor academic performance. An analysis of data from the 2015 Youth Risk Behavior Surveys revealed that 57.8% of middle school students and 72.7% of high school students reported short sleep duration on school nights. The findings suggest a need for initiatives to promote sleep health, including potential changes to school start times.

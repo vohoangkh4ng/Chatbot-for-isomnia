@@ -1,0 +1,3 @@
+# Title: Association of social jetlag and eating patterns with sleep quality and daytime sleepiness in Japanese high school students
+
+## Summary: This research article investigates the relationship between social jetlag, eating patterns, sleep quality, and daytime sleepiness among 756 Japanese high school students. The study utilizes the Pittsburgh Sleep Quality Index and the Pediatric Daytime Sleepiness Scale to assess sleep quality and daytime sleepiness. Findings indicate that social jetlag, particularly when exceeding 2 hours, is linked to poor sleep quality and excessive daytime sleepiness. The results emphasize the importance of minimizing social jetlag to improve sleep outcomes in adolescents.

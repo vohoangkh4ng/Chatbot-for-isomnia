@@ -1,0 +1,3 @@
+# Title: Assessing the contribution of the Index of Nighttime Offline Distress: an investigation of social media's impact on adolescent sleep quality
+
+## Summary: This dissertation explores the relationship between social media usage and sleep quality among adolescents, focusing on the Index of Nighttime Offline Distress as a key factor. It aims to understand how social media influences sleep patterns and overall well-being in this demographic.

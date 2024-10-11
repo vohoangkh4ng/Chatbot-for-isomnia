@@ -1,0 +1,3 @@
+# Title: Depression and Insomnia Among Adolescents: A Prospective Perspective
+
+## Summary: This article investigates the prospective, reciprocal relationship between insomnia and major depression in adolescents, based on a study involving 3,134 youths aged 11–17. The findings indicate that insomnia significantly increases the risk of developing major depression, and vice versa, highlighting a strong association between the two conditions. The study emphasizes the need for further research to explore the trajectories of insomnia and major depression during childhood and adolescence.

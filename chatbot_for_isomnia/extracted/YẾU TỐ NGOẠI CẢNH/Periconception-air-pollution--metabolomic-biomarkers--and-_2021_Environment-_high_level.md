@@ -1,0 +1,3 @@
+# Title: Periconception air pollution, metabolomic biomarkers, and fertility among women undergoing assisted reproduction
+
+## Summary: This article investigates the impact of periconception air pollution on fertility, specifically among women undergoing assisted reproductive technology (ART). It aims to identify serum metabolites associated with air pollution exposure and assess how these metabolites may mediate the relationship between air pollution and live birth rates. The study analyzes data from 200 women, revealing significant associations between air pollution, metabolic features, and lower odds of live birth, highlighting pathways related to inflammation and oxidative stress.

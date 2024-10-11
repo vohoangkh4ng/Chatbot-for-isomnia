@@ -1,0 +1,3 @@
+# Title: Sleep efficiency as a determinant of insulin sensitivity in overweight and obese adolescents
+
+## Summary: This review article examines the relationship between sleep efficiency and insulin sensitivity in overweight and obese adolescents, particularly during puberty. It highlights that insulin resistance (IR) can occur transiently during puberty, but obese adolescents may experience persistent IR. The study reviews existing literature and presents new data indicating that factors such as body mass index (BMI), age, pubertal stage, and sleep characteristics significantly influence insulin sensitivity. The findings suggest that inadequate sleep duration and efficiency may contribute to higher levels of insulin resistance in this population.

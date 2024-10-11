@@ -1,0 +1,3 @@
+# Title: 2007 Food & Nutrition Conference & Expo
+
+## Summary: The article provides information about the upcoming 2007 Food & Nutrition Conference & Expo, scheduled for September 29-October 2, 2007, in Philadelphia, PA. It highlights various educational events, including the Clinical Nutrition Management Symposium and the Weight Management Symposium, which will focus on evidence-based practices, obesity prevention, and treatment strategies. The article also mentions the importance of accreditation for dietetics education programs and encourages feedback from members regarding program quality.

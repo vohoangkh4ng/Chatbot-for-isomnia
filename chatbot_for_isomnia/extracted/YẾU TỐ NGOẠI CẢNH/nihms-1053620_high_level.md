@@ -1,0 +1,3 @@
+# Title: Evening Circadian Preference is Associated with Sleep Problems and Daytime Sleepiness in Adolescents with ADHD
+
+## Summary: This study investigates the relationship between evening circadian preference and sleep issues in adolescents diagnosed with ADHD. It highlights that adolescents with ADHD are at a higher risk for sleep disruptions, and the research finds that a greater preference for evening activities correlates with increased sleep problems and daytime sleepiness. The study involved 80 adolescents aged 13-17 and controlled for various factors, confirming that evening preference is significantly linked to sleep difficulties and daytime drowsiness, independent of sleep duration.

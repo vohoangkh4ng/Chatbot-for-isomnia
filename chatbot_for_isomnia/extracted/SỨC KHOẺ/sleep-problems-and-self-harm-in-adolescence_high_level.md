@@ -1,0 +1,3 @@
+# Title: Sleep problems and self-harm in adolescence
+
+## Summary: This article investigates the relationship between sleep problems and self-harm among adolescents, based on a large population-based study conducted in Norway involving 10,220 participants aged 16-19. The findings indicate that adolescents experiencing sleep issues, such as insomnia and irregular sleep patterns, are significantly more likely to engage in self-harm. The study suggests a dose-response relationship, where the severity of sleep problems correlates with increased self-harm risk, although depressive symptoms also play a role. The authors advocate for incorporating sleep problem interventions in strategies aimed at reducing self-harm in adolescents.

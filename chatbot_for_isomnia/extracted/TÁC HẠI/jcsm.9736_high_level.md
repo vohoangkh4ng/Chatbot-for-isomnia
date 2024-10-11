@@ -1,0 +1,3 @@
+# Title: Impact of daily caffeine intake and timing on electroencephalogram-measured sleep in adolescents
+
+## Summary: This study investigates the effects of daily caffeine consumption on sleep patterns in adolescents, utilizing objective electroencephalogram measurements. It finds that increased caffeine intake, particularly in the afternoon and evening, is associated with longer sleep-onset latency and reduced total sleep time, sleep efficiency, and rapid eye movement sleep. The research highlights the need for policy recommendations regarding caffeine labeling and suggests that behavioral interventions aimed at reducing caffeine intake could improve sleep health among adolescents.

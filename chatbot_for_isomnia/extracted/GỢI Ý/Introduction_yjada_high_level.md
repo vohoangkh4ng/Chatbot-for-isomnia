@@ -1,0 +1,3 @@
+# Title: PIPPAH Supplement
+
+## Summary: This article discusses the PIPPAH initiative, launched in 1995 by the Office of Adolescent Health, aimed at promoting adolescent health through collaboration among various professional organizations. It highlights the importance of addressing psychological, behavioral, and economic factors affecting adolescents and outlines the objectives of PIPPAH, including enhancing awareness and collaboration among participating organizations to improve adolescent health and well-being. The article also introduces a supplement to the Journal of the American Dietetic Association, focusing on the unique nutritional needs of adolescents.

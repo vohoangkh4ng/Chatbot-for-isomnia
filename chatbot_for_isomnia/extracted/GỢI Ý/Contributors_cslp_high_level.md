@@ -1,0 +1,3 @@
+# Title: Cognitive Behavioral Therapies for Insomnia
+
+## Summary: This article discusses the various cognitive behavioral therapies (CBT) available for treating insomnia. It highlights the contributions of multiple experts in the field, emphasizing the importance of evidence-based approaches to improve sleep quality and address the psychological aspects of insomnia. The article aims to provide insights into effective therapeutic strategies and the roles of different professionals in managing insomnia through cognitive behavioral techniques.

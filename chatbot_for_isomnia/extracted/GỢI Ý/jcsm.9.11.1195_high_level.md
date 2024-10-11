@@ -1,0 +1,3 @@
+# Title: Caffeine Effects on Sleep Taken 0, 3, or 6 Hours before Going to Bed
+
+## Summary: This study investigates the impact of caffeine consumption on sleep quality when taken at different intervals before bedtime. It highlights that caffeine, even when consumed 6 hours prior to sleep, can significantly disrupt both subjective and objective measures of sleep. The findings support existing sleep hygiene recommendations to avoid substantial caffeine intake for at least 6 hours before bedtime, emphasizing the need for empirical data to guide caffeine consumption practices.

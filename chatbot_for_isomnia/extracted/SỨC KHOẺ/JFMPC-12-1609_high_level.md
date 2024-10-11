@@ -1,0 +1,3 @@
+# Title: Consumption of energy drinks and their effects on sleep quality among medical students
+
+## Summary: This study investigates the prevalence of energy drink consumption and its impact on sleep quality among medical students at King Abdulaziz University in Jeddah, Saudi Arabia. A cross-sectional analysis involving 260 students revealed that a significant portion experienced poor sleep quality, with 74.6% reporting issues. The research highlights a correlation between energy drink consumption and sleep disturbances, emphasizing the need for educational initiatives regarding the effects of these beverages on sleep. Further research is recommended to explore the issue on a larger scale.

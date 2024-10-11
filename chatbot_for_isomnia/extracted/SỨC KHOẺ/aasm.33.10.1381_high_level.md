@@ -1,0 +1,3 @@
+# Title: Normative Data on the Sleep Habits of Australian Children and Adolescents
+
+## Summary: This article presents a cohort study aimed at providing normative sleep data for Australian children and adolescents aged 9-18 years. The study involved 4,032 participants and analyzed sleep duration, bedtimes, and wake times across different age groups and genders. Findings indicate a decline in sleep duration with age, with girls sleeping slightly longer than boys. The study highlights that a significant percentage of school and non-school days do not meet recommended sleep duration guidelines, emphasizing the need for awareness among health and education professionals regarding sleep-related issues in this demographic.

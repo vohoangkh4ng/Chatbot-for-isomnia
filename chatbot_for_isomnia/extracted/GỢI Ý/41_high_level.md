@@ -1,0 +1,3 @@
+# Title: The optimal dose of Ramelteon for the better treatment adherence of delayed sleep–wake phase disorder: a dropout rate study
+
+## Summary: This study investigates the effectiveness of different doses of ramelteon, a melatonin receptor agonist, in treating delayed sleep–wake phase disorder (DSWPD). Analyzing data from 373 patients, the research finds that a 2 mg dose of ramelteon is associated with a significantly lower dropout rate compared to higher doses. The study suggests that a strategically timed 2 mg regimen may enhance treatment adherence for DSWPD, highlighting the importance of careful dosing, especially in younger patients.

@@ -1,0 +1,3 @@
+# Title: Associations of circadian factors with insomnia symptoms and emotional and behavioral problems among school-age children
+
+## Summary: This study investigates the relationship between circadian characteristics, specifically chronotype and social jetlag, and insomnia symptoms as well as emotional and behavioral issues in school-age children. Involving 620 primary school children, the research found that an evening chronotype is significantly linked to insomnia symptoms such as bedtime resistance and sleep onset delay, and is also associated with increased externalizing behavioral problems. The findings highlight the importance of considering circadian factors in addressing sleep and mental health issues in children.

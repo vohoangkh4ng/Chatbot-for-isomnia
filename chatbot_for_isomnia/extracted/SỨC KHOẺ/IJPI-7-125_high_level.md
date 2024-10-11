@@ -1,0 +1,3 @@
+# Title: Smartphone usage and increased risk of mobile phone addiction: A concurrent study
+
+## Summary: This study investigates mobile phone addiction behavior and awareness of electromagnetic radiation (EMR) among a sample of the Malaysian population. Conducted online between December 2015 and 2016, the research involved 409 respondents with a mean age of 22.88 years. Findings indicate a significant dependency on smartphones among participants, with many being aware of the hazards associated with mobile phone use. Notably, one-fourth of the respondents reported experiencing wrist and hand pain due to smartphone usage, highlighting potential physiological complications linked to mobile phone addiction.

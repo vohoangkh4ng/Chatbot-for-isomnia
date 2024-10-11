@@ -1,0 +1,3 @@
+# Title: The effect of screen use on sleep quality among adolescents in Riyadh, Saudi Arabia
+
+## Summary: This study investigates the impact of screen use on sleep quality among adolescents in Riyadh, Saudi Arabia. It highlights that prolonged screen time, particularly exceeding six hours daily, is prevalent among adolescents and correlates with poor sleep quality, fatigue, and daytime sleepiness. The research utilized a self-administered online questionnaire to gather data from 324 adolescents, revealing that nearly half of the participants reported poor sleep quality. The findings underscore the need for awareness regarding the effects of screen use on sleep and overall health in the adolescent population.

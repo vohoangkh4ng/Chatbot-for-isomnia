@@ -1,0 +1,3 @@
+# Title: Youth screen media habits and sleep: sleep-friendly screen-behavior recommendations for clinicians, educators, and parents
+
+## Summary: This article discusses the impact of youth screen media habits on sleep and provides recommendations for clinicians, educators, and parents to promote sleep-friendly screen behaviors. It highlights the importance of understanding how screen time affects sleep patterns in children and adolescents, aiming to guide stakeholders in fostering healthier media consumption practices.

@@ -1,0 +1,3 @@
+# Title: Improving the Measurement of 25-hydroxyvitamin D
+
+## Summary: This article discusses the significance of measuring 25-hydroxyvitamin D (25OHD) for diagnosing vitamin D deficiency and intoxication. It highlights the increasing demand for 25OHD assays and the challenges faced due to poor performance in laboratories. The article emphasizes the need for reliable testing methods, including skilled operation of commercial systems, validated reference ranges, and quality control measures. Additionally, it covers the metabolism of vitamin D, the differences between vitamin D2 and D3, and the importance of measuring 25OHD as a reliable indicator of vitamin D status in the body.

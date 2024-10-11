@@ -1,0 +1,3 @@
+# Title: Sleep Problems in Childhood and Borderline Personality Disorder Symptoms in Early Adolescence
+
+## Summary: This article investigates the relationship between sleep disorders, particularly nightmares, and the development of Borderline Personality Disorder (BPD) symptoms in early adolescence. Utilizing data from the Avon Longitudinal Study of Parents and Children, the study analyzes responses from 6050 adolescents to determine if persistent nightmares in childhood are associated with later BPD symptoms. The findings suggest that childhood nightmares may increase the risk of developing BPD symptoms through various pathways, highlighting the importance of early intervention and identification of at-risk children.

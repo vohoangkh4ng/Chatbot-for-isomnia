@@ -1,0 +1,3 @@
+# Title: Sleep Quality in Pamukkale University Students and its relationship with smartphone addiction
+
+## Summary: This study evaluates the sleep quality of students at Pamukkale University and its correlation with smartphone addiction. Conducted during the 2017-2018 academic year, the research involved a sample of 1,088 students, revealing that 52.4% experienced poor sleep quality, while 34.6% were identified as smartphone addicts. The findings indicate a significant association between smartphone addiction and poor sleep quality, suggesting that smartphone addiction is a risk factor for sleep disturbances among university students.

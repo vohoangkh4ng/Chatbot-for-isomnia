@@ -1,0 +1,3 @@
+# Title: Computer use, sleep duration and health symptoms: A cross-sectional study of 15-year olds in three countries
+
+## Summary: This article investigates the relationship between computer use, sleep duration, and health symptoms among 15-year-olds across three different countries. It presents findings from a cross-sectional study published in the International Journal of Public Health, highlighting the potential impacts of technology on adolescent health and well-being.

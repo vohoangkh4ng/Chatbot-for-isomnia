@@ -1,0 +1,3 @@
+# Title: Fear of Missing Out and Smartphone Addiction Mediates the Relationship Between Positive and Negative Affect and Sleep Quality Among Chinese University Students
+
+## Summary: This study investigates the impact of fear of missing out (FoMO) and smartphone addiction on sleep quality among Chinese university students, focusing on how these factors mediate the relationship between positive and negative affect. The research, involving 1,164 students, found that negative affect is positively associated with poor sleep quality, with mediation effects from FoMO and smartphone addiction. The findings highlight the importance of emotion management and strategies to prevent smartphone addiction to improve sleep quality.

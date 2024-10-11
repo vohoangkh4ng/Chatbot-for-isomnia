@@ -1,0 +1,3 @@
+# Title: Association between long-term exposure to air pollution and sleep disorder in Chinese children: the Seven Northeastern Cities study
+
+## Summary: This study investigates the relationship between long-term exposure to air pollution and sleep disorders in Chinese children. Conducted with a sample of 59,754 children aged 2–17 from seven northeastern cities, the research found that exposure to various air pollutants, particularly PM1 and PM2.5, is associated with increased odds of sleep disorders. The findings highlight a stronger association in female children and emphasize the need for public health initiatives aimed at reducing air pollution exposure to mitigate sleep-related issues in children.

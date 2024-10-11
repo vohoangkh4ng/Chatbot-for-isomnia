@@ -1,0 +1,3 @@
+# Title: The relationship between sleep quality and breakfast, mid-morning snack, and dinner and physical activity habits among adolescents: a cross-sectional study in Yazd, Iran
+
+## Summary: This article investigates the correlation between sleep quality and dietary habits, including breakfast, mid-morning snacks, and dinner, as well as physical activity among adolescents in Yazd, Iran. The study employs a cross-sectional design to analyze these relationships, aiming to provide insights into how lifestyle factors may influence sleep patterns in this demographic.

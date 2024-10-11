@@ -1,0 +1,3 @@
+# Title: Integration of emotion and cognition in the lateral prefrontal cortex
+
+## Summary: This article investigates how emotional states influence cognitive processes within the lateral prefrontal cortex (PFC) using functional MRI. The study involved participants watching videos designed to evoke different emotional states while performing a working memory task. The findings reveal a specific interaction between emotion and cognition, suggesting that at certain processing points, these two aspects can integrate, affecting thought and behavior control. The results challenge the notion of a purely separable relationship between emotion and cognition, indicating a more complex functional organization in the brain.

@@ -1,0 +1,3 @@
+# Title: Low Physical Activity and High Screen Time Can Increase the Risks of Mental Health Problems and Poor Sleep Quality among Chinese College Students
+
+## Summary: This article investigates the independent and interactive effects of physical activity and screen time on mental health and sleep quality among Chinese college students. The study, which involved 4,747 participants, found that high screen time is significantly associated with increased risks of anxiety, depression, and poor sleep quality, while low physical activity also contributes to these mental health issues. The findings highlight the importance of promoting physical activity and managing screen time to improve mental health and sleep quality in this population.

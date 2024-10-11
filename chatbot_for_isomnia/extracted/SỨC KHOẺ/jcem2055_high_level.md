@@ -1,0 +1,3 @@
+# Title: Insights into Puberty: The Relationship between Sleep Stages and Pulsatile LH Secretion
+
+## Summary: This article investigates the relationship between sleep stages and luteinizing hormone (LH) secretion during puberty. The study aims to determine if the initiation of LH pulses in pubertal children is linked to specific sleep stages. Through polysomnographic studies and blood sampling in nine healthy pubertal children, the findings reveal that LH pulses predominantly occur during slow-wave sleep (SWS). The results suggest that SWS plays a crucial role in the hormonal changes associated with the onset of puberty, highlighting potential concerns regarding the impact of sleep disturbances in adolescents.

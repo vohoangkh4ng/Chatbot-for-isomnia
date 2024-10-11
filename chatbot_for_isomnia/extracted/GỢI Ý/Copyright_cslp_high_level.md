@@ -1,0 +1,3 @@
+# Title: Sleep Medicine Clinics Volume 14, Number 2
+
+## Summary: This issue of Sleep Medicine Clinics, published in June 2019, includes various contributions related to sleep medicine. It is a quarterly publication that provides insights and research findings in the field, aimed at healthcare professionals and researchers interested in sleep disorders and treatments. The content is protected under copyright, and the publication includes guidelines for permissions and usage.

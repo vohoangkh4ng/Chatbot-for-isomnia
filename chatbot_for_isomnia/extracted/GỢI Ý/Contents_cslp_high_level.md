@@ -1,0 +1,3 @@
+# Title: Cognitive Behavioral Therapies for Insomnia
+
+## Summary: This article discusses the application of Cognitive Behavioral Therapy for Insomnia (CBT-I) across various populations, including school-aged children, individuals with medical and psychiatric comorbidities, and those suffering from depression. It highlights the effectiveness of CBT-I as a first-line treatment for insomnia, the need for more research in specific demographics, and the complex relationship between sleep issues and mental health conditions. The article emphasizes the importance of tailored approaches and the integration of family support in treatment, particularly for younger patients.

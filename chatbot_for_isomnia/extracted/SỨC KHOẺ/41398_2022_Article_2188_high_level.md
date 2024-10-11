@@ -1,0 +1,3 @@
+# Title: Investigating the contributions of circadian pathway and insomnia risk genes to autism and sleep disturbances
+
+## Summary: This article explores the relationship between circadian dysfunction, insomnia risk genes, and sleep disturbances in youth with Autism Spectrum Disorder (ASD). It highlights that sleep problems are prevalent in ASD and may be influenced by genetic factors, particularly copy number variants (CNVs) related to circadian and insomnia risk genes. The study analyzed data from thousands of individuals, finding that certain CNVs were associated with increased ASD risk, although they had little impact on sleep disturbances. The findings suggest a complex interplay between genetic factors and sleep issues in children with ASD.

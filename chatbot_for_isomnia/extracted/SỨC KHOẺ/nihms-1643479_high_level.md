@@ -1,0 +1,3 @@
+# Title: Sleep and Mood Disorders Among Youth
+
+## Summary: This article explores the significant relationship between sleep and mood disorders in children and adolescents, emphasizing the impact of insomnia and other sleep disorders on mood symptoms. It highlights the effectiveness of behavioral sleep interventions in improving sleep and mediating treatment outcomes for depression. The review focuses on common sleep disorders associated with mood disorders, including insomnia, delayed sleep phase, and hypersomnia, while noting the need for further research on the role of sleep interventions in managing mood episodes, particularly in youth with bipolar disorders.

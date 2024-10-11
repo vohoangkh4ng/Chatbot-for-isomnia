@@ -1,0 +1,3 @@
+# Title: Prenatal exposure to arsenic and lung function in children from the New Hampshire Birth Cohort Study
+
+## Summary: This article investigates the impact of prenatal arsenic exposure on lung function in children, utilizing data from the New Hampshire Birth Cohort Study. The study measures various urinary arsenic species in pregnant women and assesses lung function in their children at a median age of 7.4 years. Findings indicate that increased levels of arsenic exposure during gestation are associated with decreased lung function, particularly in girls and among mothers with lower secondary methylation indices. The results highlight potential adverse effects of gestational arsenic exposure on childhood respiratory health.

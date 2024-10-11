@@ -1,0 +1,3 @@
+# Title: The effect of exposure to long working hours on depression: A systematic review and meta-analysis from the WHO/ILO Joint Estimates of the Work-related Burden of Disease and Injury
+
+## Summary: This article presents a systematic review and meta-analysis examining the relationship between long working hours and depression. It synthesizes data from the WHO/ILO Joint Estimates to assess the work-related burden of disease and injury, highlighting the mental health implications of extended work hours. The findings aim to inform public health policies and workplace practices to mitigate the risks associated with prolonged working conditions.

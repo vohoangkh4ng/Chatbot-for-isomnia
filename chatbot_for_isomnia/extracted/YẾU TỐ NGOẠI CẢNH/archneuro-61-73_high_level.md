@@ -1,0 +1,3 @@
+# Title: The Effect of Air Pollution and Climate Change on Sleep
+
+## Summary: This review article discusses the impact of air pollution and climate change on sleep duration and quality, highlighting their threats to physical and mental health, particularly through effects on the respiratory, cardiovascular, and nervous systems. It outlines the mechanisms by which particulate matter and extreme weather events contribute to sleep disturbances and emphasizes the need for researchers to engage in environmental health policies.

@@ -1,0 +1,3 @@
+# Title: Sleep Disturbances in Prepubertal Children with Attention Deficit Hyperactivity Disorder: A Home Polysomnography Study
+
+## Summary: This study investigates sleep architecture and reported sleep problems in prepubertal children diagnosed with Attention Deficit Hyperactivity Disorder (ADHD) compared to healthy controls. Using home polysomnography, the research found that children with ADHD exhibited significantly shorter REM sleep duration and overall sleep time, alongside higher scores on sleep anxiety factors. The findings support the hypothesis that sleep disturbances are prevalent in children with ADHD, highlighting the need for further exploration of the relationship between sleep and ADHD symptoms.

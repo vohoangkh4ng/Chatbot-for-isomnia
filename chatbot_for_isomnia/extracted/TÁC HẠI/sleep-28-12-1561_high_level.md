@@ -1,0 +1,3 @@
+# Title: Experimental Restriction of Sleep Opportunity in Children: Effects on Teacher Ratings
+
+## Summary: This study investigates the impact of restricted sleep opportunity on academic performance and behavior in healthy children aged 6 to 12 years. Using a home-based, within-subjects design, the research involved 74 participants who followed three different sleep schedules: Baseline, Optimized, and Restricted. Teachers, unaware of the children's sleep conditions, rated their academic problems and attention issues. The findings indicate that reduced sleep opportunity negatively affected teacher ratings of academic performance and increased attention problems, supporting the notion that sufficient sleep is crucial for children's academic functioning.

@@ -1,0 +1,3 @@
+# Title: A meta-analysis of the effect of media devices on sleep outcomes
+
+## Summary: This article presents a systematic review examining the impact of portable media devices, such as mobile phones and tablets, on children's sleep duration and quality. It highlights the importance of sleep for children's bio-psycho-social development and addresses the public health concerns associated with inadequate sleep. The review analyzes data from various studies to understand how the prevalence of media devices in children's lives may affect their sleep outcomes.

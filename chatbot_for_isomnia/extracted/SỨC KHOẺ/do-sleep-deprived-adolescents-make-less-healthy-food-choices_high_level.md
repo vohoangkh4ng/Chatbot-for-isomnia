@@ -1,0 +1,3 @@
+# Title: Do sleep-deprived adolescents make less-healthy food choices?
+
+## Summary: This article investigates the relationship between sleep duration and dietary choices among adolescents. It highlights that short sleep duration (less than 7 hours per night) is linked to lower consumption of fruits and vegetables and higher consumption of fast food. The study utilizes data from the National Longitudinal Study of Adolescent Health and employs logistic regression models to analyze the impact of sleep duration on food choices, controlling for demographic and social factors. The findings suggest that sleep deprivation may influence dietary habits, potentially contributing to adverse health outcomes in adolescents.

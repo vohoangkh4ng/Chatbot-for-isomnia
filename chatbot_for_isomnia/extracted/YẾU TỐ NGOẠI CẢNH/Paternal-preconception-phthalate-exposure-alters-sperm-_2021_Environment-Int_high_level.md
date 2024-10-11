@@ -1,0 +1,3 @@
+# Title: Paternal preconception phthalate exposure alters sperm methylome and embryonic programming
+
+## Summary: This article investigates the impact of paternal preconception exposure to di(2-ethylhexyl) phthalate (DEHP) on sperm DNA methylation and subsequent embryonic development. The study, conducted on male mice, reveals that DEHP exposure leads to significant changes in the sperm methylome and gene expression profiles in both embryonic and extra-embryonic tissues. The findings suggest that environmental exposures during spermatogenesis can influence offspring health by altering epigenetic marks in sperm, thereby affecting developmental processes in the embryo.

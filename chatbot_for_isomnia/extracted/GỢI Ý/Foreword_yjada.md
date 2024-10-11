@@ -1,0 +1,11 @@
+PIPPAR SUPPLEMENT
+Fopewond
+BONNIE A SPEAR, PhD, RD
+
+Adolescence is a time of dramatic change in the life of every human being. The relatively uniform growth of childhood is suddenly altered by an increase in the velocity of growth: This emotional changes. All of these changes create special nutritional needs. Current national nutrition surveillance data suggest that the diet of adolescents is putting them at risk for cardiovascular disease, cancer, and osteoporosis. In addition, the United States is experiencing an epidemic of obesity that extends to the adolescent population. Through a Partners in Program Planning for Adolescent Health (PIPPAH) grant awarded by the Office of Adolescent Health, Maternal and Child Health Bureau (MCHB), Health Resources and Services Administration, The American Dietetic Association (ADJA) has had the opportunity to develop an adolescent health agenda to address many of these emerging issues. This supplement is one of many publications and activities that ADA is developing in the area of adolescent health.
+
+The first 4 articles of this supplement are designed to educate readers about the nutritional concerns of adolescents, the physical and psychosocial aspects of growth and development, and methods for nutrition assessment of adolescents. The next 3 articles focus on internal and environmental factors that influence adolescents' food choices and how to design nutrition education/intervention programs to address the needs and concerns of the adolescent population. Practitioners working in the field with adolescents submitted the final 13 briefs. We hope these brief reports of ongoing intervention will give others ideas and encouragement to develop nutrition intervention programs for adolescents.
+
+People who were indispensable in making this supplement a reality: I would like to express my sincere appreciation to the following: Mary Story, PhD, RD; Katrina Holt, MS, MPH, RD; Denise Solka, MPH, RD, MCHB project officer; and Tina Anglin, MD, the director of the Office of Adolescent Health, MCHB. A Spear is ADA's PIPPAH project coordinator and an associate professor of pediatrics at University of Alabama, Birmingham.
+
+Supplement to the Journal of THE AMERICAN DIETETIC ASSOCIATION S7 

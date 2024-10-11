@@ -1,0 +1,3 @@
+# Title: Adolescent Health Resources
+
+## Summary: This article provides a compilation of federal agencies and national organizations that offer resources related to adolescent health, specifically focusing on nutrition and physical activity. It highlights various associations, their contact information, and web resources to support health professionals and families in promoting adolescent well-being.

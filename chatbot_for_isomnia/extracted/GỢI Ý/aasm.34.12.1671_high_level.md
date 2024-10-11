@@ -1,0 +1,3 @@
+# Title: A Randomized Controlled Trial of Cognitive-Behavior Therapy Plus Bright Light Therapy for Adolescent Delayed Sleep Phase Disorder
+
+## Summary: This article evaluates the effectiveness of cognitive-behavior therapy combined with bright light therapy (CBT plus BLT) for adolescents diagnosed with delayed sleep phase disorder (DSPD). The study involved a randomized controlled trial with 49 adolescents, assessing improvements in sleep patterns and daytime functioning. Results indicated significant improvements in sleep latency, onset, and overall sleep quality post-treatment, with sustained benefits observed at a 6-month follow-up. The findings suggest that CBT plus BLT is an effective intervention for addressing the challenges associated with DSPD in adolescents.

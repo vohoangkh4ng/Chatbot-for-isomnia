@@ -1,0 +1,3 @@
+# Title: A planetary health model for reducing exposure to faecal contamination in urban informal settlements: Baseline findings from Makassar, Indonesia
+
+## Summary: This article presents a planetary health model aimed at mitigating exposure to faecal contamination in urban informal settlements, specifically focusing on baseline findings from Makassar, Indonesia. The research involves a collaborative effort among various institutions and highlights the importance of addressing environmental health challenges in densely populated areas. The findings are expected to inform public health strategies and interventions to improve sanitation and health outcomes in similar urban contexts.

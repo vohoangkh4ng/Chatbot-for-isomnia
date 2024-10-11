@@ -1,0 +1,3 @@
+# Title: Sleep Duration and Insulin Resistance in Healthy Black and White Adolescents
+
+## Summary: This study investigates the relationship between sleep duration and insulin resistance in healthy adolescents, addressing a gap in research during this critical developmental period. Conducted with 245 high school students, the findings indicate that shorter sleep duration is associated with higher insulin resistance, as measured by the homeostatic model assessment (HOMA-IR). The study highlights the importance of adequate sleep for reducing diabetes risk in youth, suggesting that interventions to increase sleep duration may be beneficial.

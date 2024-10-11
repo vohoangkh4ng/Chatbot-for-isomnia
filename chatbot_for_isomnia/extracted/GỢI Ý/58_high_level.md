@@ -1,0 +1,3 @@
+# Title: Changes of evening exposure to electronic devices during the COVID-19 lockdown affect the time course of sleep disturbances
+
+## Summary: This article investigates the impact of increased evening exposure to electronic devices during the COVID-19 lockdown on sleep disturbances. A study involving 2,123 Italians revealed that those who increased their screen time experienced poorer sleep quality, exacerbated insomnia symptoms, and altered sleep patterns. Conversely, participants who reduced their screen exposure reported improved sleep health. The findings highlight the significant relationship between evening screen time and sleep disturbances, suggesting that managing screen exposure may be crucial for maintaining sleep health during periods of confinement.

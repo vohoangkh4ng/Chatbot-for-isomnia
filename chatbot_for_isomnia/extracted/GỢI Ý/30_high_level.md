@@ -1,0 +1,3 @@
+# Title: Further Evidence for the JuSt Program as Treatment for Insomnia in Adolescents: Results from a 1-Year Follow-Up Study
+
+## Summary: This study investigates the effectiveness of the JuSt program, a 6-session multimodal group therapy designed for adolescents suffering from insomnia. The program incorporates cognitive-behavioral elements and clinical hypnosis. Results indicate significant improvements in sleep onset latency, wake time after sleep onset, and sleep efficiency, with these benefits sustained over a 12-month follow-up. The findings suggest that the JuSt program is a viable and effective intervention for reducing insomnia symptoms in adolescents, warranting further evaluation through randomized controlled trials.

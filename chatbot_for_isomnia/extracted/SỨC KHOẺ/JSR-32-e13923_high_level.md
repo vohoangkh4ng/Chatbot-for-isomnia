@@ -1,0 +1,3 @@
+# Title: Cognitive factors and processes in models of insomnia: A systematic review
+
+## Summary: This systematic review explores the cognitive factors and processes involved in various theoretical models of insomnia. It identifies and analyzes 12 models published between 1982 and 2023, highlighting 20 cognitive factors that contribute to the development, maintenance, and remission of insomnia. The review emphasizes the overlap in cognitive constructs across different models, despite variations in terminology and measurement methods, and discusses the implications for future research and treatment approaches, particularly in the context of Cognitive Behaviour Therapy for Insomnia (CBT-I).

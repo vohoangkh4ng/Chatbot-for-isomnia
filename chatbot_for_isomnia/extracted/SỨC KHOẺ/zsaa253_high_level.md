@@ -1,0 +1,3 @@
+# Title: Sleep duration and mood in adolescents: an experimental study
+
+## Summary: This study investigates the impact of sleep duration on mood in adolescents by manipulating sleep opportunities over a 10-day period. Thirty-four adolescents participated in the study, experiencing sleep durations of 5, 7.5, or 10 hours per night. Results indicated that those with only 5 hours of sleep reported increased feelings of depression, anger, and confusion, while happiness and energy levels decreased. Recovery sleep did not fully restore negative mood states for the 5-hour group, emphasizing the critical role of sufficient sleep in maintaining emotional well-being during adolescence.

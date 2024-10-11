@@ -1,0 +1,3 @@
+# Title: Short Sleep Duration as a Risk Factor for Hypercholesterolemia: Analyses of the National Longitudinal Study of Adolescent Health
+
+## Summary: This article investigates the relationship between sleep duration during adolescence and the risk of hypercholesterolemia in young adulthood. The study utilizes data from the National Longitudinal Study of Adolescent Health, focusing on a sample of 14,257 adolescents. Findings indicate that shorter sleep duration is significantly associated with higher odds of being diagnosed with high cholesterol, particularly in females. The authors suggest that interventions aimed at increasing sleep duration could serve as effective preventive measures against hypercholesterolemia.

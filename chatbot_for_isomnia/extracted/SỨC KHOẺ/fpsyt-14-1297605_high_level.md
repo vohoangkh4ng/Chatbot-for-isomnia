@@ -1,0 +1,3 @@
+# Title: Stress and sleep quality in medical students: a cross-sectional study from Vietnam
+
+## Summary: This research investigates the sleep quality and stress levels among medical students in Vietnam, particularly in the context of the COVID-19 pandemic. A survey conducted with 1,502 participants revealed that over half experienced poor sleep quality, with many going to bed after midnight and spending excessive time on smartphones. The study found that 21.84% of students reported low stress levels, while 63.38% experienced mild stress, and 14.78% reported high stress. The findings suggest a significant prevalence of sleep issues linked to behavioral changes due to the pandemic, highlighting the need for lifestyle modifications to enhance sleep quality.

@@ -1,0 +1,3 @@
+# Title: The power of a pastime
+
+## Summary: This article explores how scientists engage in various hobbies and leisure activities as a means of escape from the pressures of their research work. It highlights the experiences of individuals like Federica Bianco, an astrophysicist and boxer, who find that their pastimes not only provide stress relief but also enhance their performance as researchers. The piece discusses the societal pressures within academia that often discourage leisure pursuits, while emphasizing the benefits of maintaining a balanced life through hobbies.

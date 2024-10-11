@@ -1,0 +1,3 @@
+# Title: Cognitive Behavioral Treatment of Insomnia
+
+## Summary: This article discusses chronic insomnia, a prevalent sleep disorder affecting 6% to 10% of adults, particularly those with comorbid conditions. It highlights the ineffectiveness of treating insomnia as a secondary condition and advocates for cognitive behavioral treatment of insomnia (CBTi) as a more effective approach. CBTi addresses the maladaptive behaviors and cognitions that perpetuate insomnia, making it suitable for patients with various medical and psychological issues. The article also emphasizes the need for increased access to CBTi through alternative delivery methods and expanded training for practitioners.

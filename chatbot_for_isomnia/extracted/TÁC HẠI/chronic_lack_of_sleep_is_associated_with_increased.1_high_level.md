@@ -1,0 +1,3 @@
+# Title: Chronic Lack of Sleep is Associated With Increased Sports Injuries in Adolescent Athletes
+
+## Summary: This article investigates the relationship between sleep deprivation and injury rates among adolescent athletes. The study involved 160 student athletes who completed surveys regarding their training practices and sleep habits. Results indicated that athletes who averaged less than 8 hours of sleep per night were 1.7 times more likely to sustain injuries compared to those who slept more. The findings suggest that promoting adequate sleep may help reduce injury risks in young athletes.

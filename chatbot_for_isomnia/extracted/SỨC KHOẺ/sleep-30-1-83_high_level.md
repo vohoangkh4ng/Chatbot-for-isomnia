@@ -1,0 +1,3 @@
+# Title: Insomnia and Hypersomnia Associated with Depressive Phenomenology and Comorbidity in Childhood Depression
+
+## Summary: This article investigates the relationship between sleep disturbances, specifically insomnia and hypersomnia, and their impact on clinical profiles in children and adolescents suffering from major depressive disorder. The study analyzes data from 553 children, revealing that a significant portion (72.7%) experienced sleep disturbances, with those affected by both insomnia and hypersomnia exhibiting the most severe depressive symptoms and comorbid anxiety disorders. The findings suggest that differentiating between types of sleep disturbances in depressed children is crucial for understanding the etiology and treatment of childhood depression.

@@ -1,0 +1,3 @@
+# Title: The Efficacy of Eye Masks and Earplugs Interventions for Sleep Promotion in Critically Ill Patients: A Systematic Review and Meta-Analysis
+
+## Summary: This systematic review and meta-analysis evaluates the effectiveness of eye masks and earplugs in improving sleep quality among critically ill patients in intensive care units (ICUs). The study analyzed data from 35 studies involving 2,687 participants, assessing various sleep quality metrics. Results indicated that interventions using eye masks and/or earplugs significantly enhanced sleep quality, increased total sleep time, and reduced sleep disturbances. The findings suggest that these simple interventions can be beneficial for sleep improvement in critically ill patients.

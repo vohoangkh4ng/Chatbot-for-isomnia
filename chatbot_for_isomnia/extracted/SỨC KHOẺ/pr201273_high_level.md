@@ -1,0 +1,3 @@
+# Title: Sleep Fragmentation and Intermittent Hypoxemia Are Associated with Decreased Insulin Sensitivity in Obese Adolescent Latino Males
+
+## Summary: This study investigates the relationship between sleep-related breathing disorders (SRBD) and insulin resistance in obese adolescent Latino males. It hypothesizes that the severity of SRBD is linked to metabolic impairment, particularly in glucose metabolism. Using polysomnography and the frequently sampled intravenous glucose tolerance test, the research finds that sleep fragmentation and intermittent hypoxemia negatively impact insulin sensitivity, independent of age and adiposity. The findings suggest that SRBD may increase the risk of developing metabolic syndrome and type 2 diabetes in this population.

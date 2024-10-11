@@ -1,0 +1,3 @@
+# Title: Social Jetlag, Sex, and Depressive Symptoms in Adolescents
+
+## Summary: This study investigates the relationship between social jetlag, sleep duration on school nights, and depressive symptoms among adolescents, with a focus on how these associations differ by sex. Analyzing data from 3058 adolescents, the research finds that for females, longer sleep duration on school nights is linked to fewer depressive symptoms, while social jetlag is positively associated with depressive symptoms. The findings highlight the significance of consistent sleep patterns and adequate sleep for emotional well-being, particularly in female adolescents.

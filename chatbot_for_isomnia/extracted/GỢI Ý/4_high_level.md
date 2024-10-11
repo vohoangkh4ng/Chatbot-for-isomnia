@@ -1,0 +1,3 @@
+# Title: Midday napping in children: associations between nap frequency and duration across cognitive, positive psychological well-being, behavioral, and metabolic health outcomes
+
+## Summary: This study investigates the impact of midday napping on various health outcomes in children, analyzing data from 3819 elementary school students. It finds that habitual napping is linked to improved happiness, grit, self-control, and academic performance, while also reducing internalizing behavior problems. The research highlights the potential benefits of regular napping for cognitive and psychological well-being in children, suggesting a need for further studies to explore causal relationships.

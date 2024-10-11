@@ -1,0 +1,3 @@
+# Title: Association of sleep and generalized anxiety disorder in Korean adolescents
+
+## Summary: This study investigates the relationship between sleep duration and generalized anxiety disorder (GAD) among Korean adolescents, utilizing data from over 106,000 participants aged 12-18. The findings indicate that insufficient sleep is significantly associated with higher odds of developing GAD, particularly in those with poor sleep quality. The research highlights the importance of addressing GAD in adolescents who exhibit irregular sleep patterns.

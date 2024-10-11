@@ -1,0 +1,3 @@
+# Title: A meta-analysis of longitudinal studies on the interplay between sleep, mental health, and positive well-being in adolescents
+
+## Summary: This article reviews longitudinal research examining the relationships between sleep, mental health, and positive well-being in adolescents. It synthesizes findings from 63 studies, revealing that longer sleep duration, better sleep quality, and fewer insomnia symptoms are associated with lower internalizing and externalizing symptoms, as well as higher psychological well-being. The results indicate a bidirectional relationship, suggesting that improvements in sleep can enhance mental health and well-being, and vice versa.

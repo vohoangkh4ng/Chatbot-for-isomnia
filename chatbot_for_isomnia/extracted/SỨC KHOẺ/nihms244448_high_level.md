@@ -1,0 +1,3 @@
+# Title: Behavioral and psychosocial factors associated with insomnia in adolescents with chronic pain
+
+## Summary: This study investigates the prevalence and predictors of insomnia symptoms in adolescents with chronic pain compared to a healthy cohort. It finds that 54.2% of adolescents with chronic pain report insomnia symptoms, significantly higher than the 19.6% in healthy adolescents. Key risk factors identified include the presence of chronic pain and higher levels of cognitive pre-sleep arousal, while pain intensity alone does not predict insomnia. The findings suggest that sleep disturbances in these youth may evolve into a primary sleep disorder influenced by behavioral and psychosocial factors, highlighting the need for targeted sleep interventions.

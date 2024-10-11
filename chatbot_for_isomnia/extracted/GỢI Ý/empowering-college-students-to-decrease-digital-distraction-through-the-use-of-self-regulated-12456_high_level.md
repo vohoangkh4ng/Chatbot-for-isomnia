@@ -1,0 +1,3 @@
+# Title: Empowering College Students to Decrease Digital Distraction Through the Use of Self-Regulated Learning Strategies
+
+## Summary: This article discusses the prevalence of digital distractions among college students, who are often proficient in technology but may struggle with maintaining focus due to various online activities. It highlights the negative impact of these distractions on academic engagement and performance. The authors propose that self-regulated learning (SRL) strategies can help students manage their attention and reduce distractions, ultimately leading to improved learning outcomes. The article emphasizes the importance of teaching these strategies to enhance students' academic achievement.

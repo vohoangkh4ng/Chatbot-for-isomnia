@@ -1,0 +1,3 @@
+# Title: The Impact of Weekday-to-Weekend Sleep Differences on Health Outcomes among Adolescent Students
+
+## Summary: This article examines the effects of sleep duration differences between weekdays and weekends on the health of adolescent students. Utilizing data from the Korean Children and Youth Panel Survey, the study finds that Korean adolescents experience significant sleep duration differences, ranging from 96.8 to 133.2 minutes. These differences are linked to various health outcomes, particularly mental health issues such as concentration difficulties, aggression, and emotional symptoms. The findings suggest that addressing the sleep gap is crucial for improving health during adolescence.

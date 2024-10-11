@@ -1,0 +1,3 @@
+# Title: Quality of sleep and quality of life in adolescents infected with human immunodeficiency virus
+
+## Summary: This article investigates the sleep characteristics of adolescents infected with HIV and explores the association between psychosocial factors and sleep quality. A cross-sectional study involving 102 HIV-infected adolescents and 120 controls revealed a high prevalence of sleep disturbances in both groups. The findings indicate that HIV-infected adolescents experience similar sleep quality to their healthy peers, likely due to improvements in living conditions from effective antiretroviral therapy and the vulnerabilities faced by adolescents in urban Brazil.

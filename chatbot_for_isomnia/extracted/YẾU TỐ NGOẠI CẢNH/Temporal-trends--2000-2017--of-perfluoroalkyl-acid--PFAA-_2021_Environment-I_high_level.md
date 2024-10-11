@@ -1,0 +1,3 @@
+# Title: Temporal trends, 2000–2017, of perfluoroalkyl acid (PFAA) concentrations in serum of Swedish adolescents
+
+## Summary: This article investigates the temporal trends of perfluoroalkyl acid (PFAA) concentrations in the serum of Swedish adolescents aged 16-21 from 2000 to 2017. It analyzes the concentrations of eight specific PFAAs and assesses their stability over time. The study finds that certain PFAAs, such as PFHxS, PFOS, and PFOA, have decreased significantly, correlating with regulatory measures and voluntary phase-out initiatives. The research indicates that PFAAs remain stable in serum samples even after long-term storage, highlighting the impact of environmental policies on reducing exposure to these harmful substances.

@@ -1,0 +1,3 @@
+# Title: The relation between self-regulated strategies and individual study time, prepared participation and achievement in a problem-based curriculum
+
+## Summary: This article explores the connection between self-regulated learning strategies and their impact on individual study time, prepared participation, and overall achievement within a problem-based learning curriculum. It aims to provide insights into how these strategies can enhance educational outcomes in higher education settings.

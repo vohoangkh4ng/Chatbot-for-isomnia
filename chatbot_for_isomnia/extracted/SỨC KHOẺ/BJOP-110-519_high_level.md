@@ -1,0 +1,3 @@
+# Title: Facebook use and sleep quality: Light interacts with socially induced alertness
+
+## Summary: This article investigates the impact of social networking site usage, specifically Facebook, on sleep quality, particularly focusing on the effects of screen light and the personal relevance of content. The study involved participants using Facebook under different lighting conditions and content relevance levels. While filtering blue light or changing content relevance alone did not improve sleep quality, the interaction between these factors suggested that screen light can affect sleep quality under certain conditions, although this effect may be negligible during typical Facebook usage.

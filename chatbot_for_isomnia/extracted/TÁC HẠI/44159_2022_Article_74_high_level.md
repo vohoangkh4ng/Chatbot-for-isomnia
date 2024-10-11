@@ -1,0 +1,3 @@
+# Title: Sleep’s role in the development and resolution of adolescent depression
+
+## Summary: This article reviews the interplay between sleep and adolescent depression, highlighting that sleep problems may precede the onset of depression in adolescents. It discusses how adolescent sleep biology and psychology contribute to this vulnerability, including factors like delayed circadian rhythms and restricted sleep duration. The authors also explore various evidence-based sleep interventions, such as bright light therapy and cognitive-behavioral techniques, which can improve sleep and alleviate depressive symptoms, emphasizing the importance of addressing sleep issues in treating comorbid disorders in adolescents.

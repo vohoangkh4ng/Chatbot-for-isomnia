@@ -1,0 +1,3 @@
+# Title: Advanced sleep schedules affect circadian gene expression in young adults with delayed sleep schedules
+
+## Summary: This study investigates how altered sleep/wake schedules and light exposure influence circadian gene expression in young adults. Twenty-one participants maintained their usual sleep patterns for one week, followed by a week of randomized exposure to either blue light or dim light in the morning. The results indicated significant changes in the expression of nine out of ten circadian genes, suggesting that both sleep schedule advancement and light exposure can effectively alter circadian timing.

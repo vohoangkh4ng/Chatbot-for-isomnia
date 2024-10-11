@@ -1,0 +1,3 @@
+# Title: Sleep Restriction Therapy
+
+## Summary: This article discusses Sleep Restriction Therapy (SRT) as a treatment for insomnia, detailing its indications for individuals experiencing difficulties with sleep onset, maintenance, or early awakening. It highlights the criteria for SRT, including a subjective sleep efficiency of less than 85% based on sleep logs, and notes that even those with higher sleep efficiency may benefit from the therapy under certain circumstances.

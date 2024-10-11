@@ -1,0 +1,3 @@
+# Title: Sleep Duration and Injury-Related Risk Behaviors Among High School Students — United States, 2007–2013
+
+## Summary: This article examines the relationship between sleep duration and injury-related risk behaviors among U.S. high school students. An analysis of data from 50,370 students reveals that insufficient sleep (≤7 hours) is linked to a higher likelihood of engaging in risky behaviors such as infrequent seatbelt use and riding with a drinking driver. Conversely, students who reported sleeping ≥10 hours also exhibited increased risk behaviors compared to those sleeping 9 hours. The findings suggest that interventions targeting these behaviors could help mitigate injury risks associated with sleep deprivation.

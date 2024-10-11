@@ -1,0 +1,3 @@
+# Title: Sleep duration in schooldays is associated with health-related quality of life in norwegian adolescents: a cross-sectional study
+
+## Summary: This cross-sectional study investigates the relationship between sleep duration on schooldays and weekends and health-related quality of life (HRQOL) among Norwegian adolescents aged 13-15 years. The study finds that sleep duration during schooldays is positively associated with various HRQOL subscales, including psychological well-being and self-efficacy. The results highlight the importance of sufficient sleep during schooldays for better health outcomes in adolescents, suggesting that regular sleep patterns may enhance overall well-being.

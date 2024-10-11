@@ -1,0 +1,3 @@
+# Title: Longitudinal Relationships between Nomophobia, Addictive Use of Social Media, and Insomnia in Adolescents
+
+## Summary: This study investigates the temporal relationships between nomophobia (anxiety related to the fear of not having a mobile phone), addictive use of social media, and insomnia among Iranian adolescents. A total of 1,098 adolescents participated, with follow-up assessments revealing that insomnia increased over three months. The findings suggest that both nomophobia and addictive social media use are significant risk factors for insomnia, indicating a need for interventions targeting these issues to improve sleep among adolescents.

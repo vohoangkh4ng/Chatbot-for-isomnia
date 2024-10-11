@@ -1,0 +1,3 @@
+# Title: Impact of sleep restriction on affective functioning in adolescents with attention-deficit/hyperactivity disorder
+
+## Summary: This study investigates the causal link between shortened sleep duration and affective functioning in adolescents with attention-deficit/hyperactivity disorder (ADHD). It involved 48 adolescents who underwent a three-week sleep protocol, alternating between sleep restriction and extension. Results indicated that sleep restriction led to increased depressive symptoms and decreased positive affect, particularly as reported by parents. The findings suggest that targeting sleep may help reduce mood disturbances in adolescents with ADHD.

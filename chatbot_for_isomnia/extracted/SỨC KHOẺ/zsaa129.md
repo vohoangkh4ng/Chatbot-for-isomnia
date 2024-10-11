@@ -1,0 +1,188 @@
+# Abstract
+
+## Study Objectives
+We compared the basic cognitive functions of adolescents undergoing split (nocturnal sleep + daytime nap) and continuous nocturnal sleep schedules when total sleep opportunity was either below or within the recommended range (i.e. 6.5 or 8 h).
+
+## Methods
+Adolescent participants (age: 15–19 year) in the 8-h split (n = 24) and continuous (n = 29) sleep groups were compared with 6.5-h split and continuous sleep groups from a previous study (n = 58). These protocols involved two baseline nights (9-h time-in-bed [TIB]), 5 nights of sleep manipulation, 2 recovery nights (9-h TIB), followed by a second cycle of sleep manipulation (3 nights) and recovery (2 nights). Cognitive performance, subjective sleepiness, and mood were evaluated daily; sleep was assessed using polysomnography.
+
+## Results
+Splitting 6.5 h of sleep with a mid-afternoon nap offered a boost to cognitive function compared to continuous nocturnal sleep. However, when total TIB across 24 h increased to 8 h, the split and continuous sleep groups performed comparably in tests evaluating vigilance, working memory, executive function, processing speed, subjective sleepiness, and mood.
+
+## Conclusions
+In adolescents, the effects of split sleep on basic cognitive functions vary by the amount of total sleep obtained. As long as the total sleep opportunity across 24 h is within the recommended range, students may fulfill sleep requirements by adopting a split sleep schedule consisting of a shorter period of nocturnal sleep combined with a mid-afternoon nap, without significant impact on basic cognitive functions.
+
+## Clinical trial registration
+NCT04044885.
+
+## Statement of Significance
+Splitting sleep into main nocturnal period and a daytime nap has been shown to mitigate deterioration in adolescents’ basic cognitive functions when total sleep opportunity over 24 h is less than recommended (i.e. 6.5 h). With total sleep opportunity at 8 h—the minimum recommended, we found that a split sleep schedule with 6.5-h nocturnal sleep and a 1.5-h nap achieved similar performance in basic cognitive tasks, subjective alertness, and mood as the nocturnal sleep only schedule. Our findings suggest that adopting a split sleep schedule in this manner may be a plausible option for adolescents unable to obtain sufficient sleep at night.
+
+## Key words
+adolescents; cognition; naps; continuous sleep; split sleep; vigilance ## Introduction
+
+Sleep curtailment in adolescents is a problem for many societies, but is particularly challenging in societies with highly competitive school environments. In Singapore, 85% of students report sleeping less than the recommended 8–10 h a night. In such societies, later bedtimes arise not only from the maturational delay in circadian rhythms and slower build-up of homeostatic sleep pressure, but also a perceived need to study longer and later into the night. More than 60% of teens in such societies go to bed after midnight on school nights. Late bedtimes, together with resistance to altering early school start times, significantly curtail the amount of nocturnal sleep a student can obtain. While sleeping the recommended nocturnal duration may still be best, a pragmatic remedy to afford satisfactory total sleep duration in societies with entrenched cultural beliefs is to adopt a split sleep schedule where an acceptable total duration of sleep is split into a shorter nocturnal sleep period combined with a mid-afternoon nap.
+
+In our previous study examining the neurocognitive impact of split sleep schedules across two successive weeks, we found that the group that split a restricted total sleep opportunity of 6.5 h in 24 h into a 5-h nocturnal period combined with a 1.5-h mid-afternoon nap were markedly more vigilant compared to the group who had all of their sleep allocated to night time. This benefit on vigilance may be attributed to having two opportunities to dissipate homeostatic sleep pressure over 24 h. Prior work on adults suggests that when provision for total sleep time (TST) is adequate, for example, 9–10 h of time-in-bed (TIB), apportioning this into two equal periods across 24–28 h does not influence daytime cognitive performance. It is however, an open question whether the cognitive benefits of splitting sleep with a daytime nap would still be observed when total sleep opportunity across 24 h lies within the recommended nocturnal sleep duration for adolescents.
+
+To address this, the present study sought to characterize basic neurocognitive functions of split versus continuous sleep schedules in adolescents wherein total sleep opportunity is 8 h, that is, the minimum amount of sleep recommended for this age group. We compared these 8 h sleep opportunity groups (8-h TIB at night vs. 6.5-h TIB at night plus 1.5-h nap opportunity) to the 6.5 h sleep opportunity groups from our previous study. If the neurocognitive outcomes of a split sleep schedule partitioning 8 h into nocturnal sleep and a daytime nap were found to be comparable to sleeping the full 8 h at night, such a split schedule could be an alternative to sleeping the 8 h allocation solely at night.
+
+## Study protocol
+
+NFS5 was a 15-day experiment that was held during school vacation time at a student dormitory. Details of living arrangements have been reported in previously published work. On the first two nights of the protocol, all participants had a 9-h nocturnal sleep opportunity for adaptation and baseline characterization. This was followed by two cycles of sleep manipulation (continuous or split sleep) and recovery nights. The first cycle began with five nights of manipulation and ended with two nights of 9-h recovery sleep opportunity, simulating a typical school week. This was followed by the second cycle which included three manipulation nights and two recovery nights. This mimicked the recurrent pattern of restricted sleep on school nights and recovery sleep on weekends in a school term. During the manipulation periods, the continuous sleep group had 8-h TIB at night, while the split sleep group had 6.5-h TIB at night followed by a 1.5-h nap opportunity in the mid-afternoon the next day. The 6.5-h manipulation groups from NFS4 followed the same cycles of manipulation and recovery with the continuous sleep group having 6.5-h TIB at night and the split-sleep group having 5-h TIB at night and a 1.5-h daytime nap opportunity.
+
+Cognitive performance was assessed with a computerized test battery administered three times daily (except on the first and final days): at 10:00 am, 4:15 pm, and 8:00 pm. Outside of Table 1. Characteristics of all split and continuous sleep groups
+
+|                                                                                     | Total TIB of 6.5 h |                                   | Total TIB of 8 h |                                   |
+|-------------------------------------------------------------------------------------|---------------------|-----------------------------------|------------------|-----------------------------------|
+|                                                                                     | Split               | Continuous                         | Split            | Continuous                         |
+|                                                                                     | Mean                | SD                                | Mean             | SD                                | P   |
+| N                                                                                   | 29                  | –                                 | 29               | –                                 | –   |
+| Age (years)                                                                         | 16.55               | 0.74                              | 16.58            | 1.12                              | 0.22|
+| Gender (% male)                                                                     | 51.70               | –                                 | 51.70            | –                                 | 0.97|
+| Body mass index                                                                     | 20.7                | 2.80                              | 21.3             | 3.5                               | 0.64|
+| Daily caffeine intake (cups)                                                         | 0.55                | 0.69                              | 0.58             | 0.80                              | 0.87|
+| Morningness-Eveningness Questionnaire                                               | 50.7                | 7.07                              | 49.0             | 7.54                              | 0.73|
+| Epworth Sleepiness Scale                                                             | 7.86                | 3.78                              | 8.21             | 3.43                              | 0.85|
+| Chronic Sleep Reduction Questionnaire                                                 | 36.10               | 4.66                              | 35.24            | 5.96                              | 0.61|
+| Pittsburgh Sleep Quality Index                                                       |                     |                                   |                  |                                   |    |
+| Weekday TIB (h)                                                                     | 6.78                | 0.89                              | 6.85             | 1.35                              | 0.33|
+| Weekend TIB (h)                                                                     | 8.76                | 1.23                              | 8.93             | 1.18                              | 0.74|
+| Weekday TST (h)                                                                     | 6.47                | 0.86                              | 6.46             | 1.19                              | 0.75|
+| Weekend TST (h)                                                                     | 8.41                | 1.18                              | 8.56             | 1.20                              | 0.97|
+| Nap duration (min)                                                                  | 62.9                | 65.7                              | 68.5             | 64.8                              | 0.42|
+| Global score                                                                         | 4.17                | 1.77                              | 4.48             | 1.50                              | 0.82|
+| Actigraphy                                                                          |                     |                                   |                  |                                   |    |
+| Weekday TIB (h)                                                                     | 6.84                | 1.13                              | 7.00             | 0.77                              | 0.32|
+| Weekend TIB (h)                                                                     | 8.15                | 1.05                              | 8.45             | 1.13                              | 0.74|
+| Weekday TST (h)                                                                     | 5.50                | 0.89                              | 5.51             | 0.75                              | 0.50|
+| Weekend TST (h)                                                                     | 6.64                | 1.00                              | 6.76             | 1.14                              | 0.97|
+| Average TST (h)                                                                     | 5.83                | 0.73                              | 5.86             | 0.68                              | 0.80|
+| Sleep efficiency (%)                                                                 | 81.0                | 6.64                              | 79.0             | 5.57                              | 0.65|
+| Nap at least once a week (%)                                                        | 66.7                | –                                 | 47.4             | –                                 | 0.45|
+
+P-values from the ANOVA and chi-squared tests contrasting the four groups are listed. Characteristics of the 6.5-h total TIB groups were obtained from a previous study.
+
+Figure 1. Protocol. In this 15-day protocol, both the 8-h split sleep group and the 8-h split continuous group had two adaptation and baseline nights (B1 and B; TIB indicated by black bars = 9 h from 11:00 pm to 08:00 am). The first cycle of sleep opportunity manipulation lasted 5 nights (M1–M1) followed by two nights of recovery sleep (R11 and R1; TIB = 9 h). The second cycle consisted of three manipulation nights (M21–M2) and two recovery nights (R21 and R2). During the two sleep opportunity manipulation periods, the split sleep group had a nocturnal TIB of 6.5 h (00:15 am–06:45 am) and a 1.5-h nap opportunity between 2:00 pm and 3:30 pm, while the continuous sleep group had a nocturnal TIB of 8 h (11:30 pm–07:30 am). Asterisks indicate nocturnal sleep and daytime nap episodes with polysomnographic recordings. A cognitive test battery was administered at 10:00 am, 4:15 pm, and 8:00 pm daily, except during the first and last days of the protocol.
+
+Scheduled activities during the day, participants were kept engaging in strenuous physical activity. Sleep–wake patterns under constant supervision by research staff and prohibited from napping, consuming caffeinated food and beverages, and actigraphy. Polysomnography (PSG) was recorded on nine nights. | Parameter | Description |
+|-----------|-------------|
+| TST       | Total Sleep Time |
+| N2 Latency| Time from lights off to N2 onset |
+| N1 Duration| Duration of N1 sleep |
+| N2 Duration| Duration of N2 sleep |
+| N3 Duration| Duration of N3 sleep |
+| REM Duration| Duration of rapid eye movement sleep |
+| WASO      | Wake After Sleep Onset |
+| SWA       | Slow Wave Activity |
+
+There was no significant difference in any of the PSG parameters during the baseline night among all four groups of participants (p > 0.10; Supplementary Table S1). Furthermore, even when we restricted our analyses to the 8-h continuous and the 8-h split sleep groups, no significant group difference was observed in TST, the durations of N1, N2, N3, and REM sleep (p > 0.07; Figure 2), and N2 sleep latency (p = 0.15; Figure 3, A). At baseline, no significant difference was found between the 8-h continuous and the 8-h split sleep groups in any of the PSG-assessed sleep parameters, including TST, the durations of N1, N2, N3, and REM sleep (p > 0.07; Figure 2), and N2 sleep latency (p = 0.15; Figure 3, A).
+
+In the first 24 h of both sleep manipulation periods, out of their total TIB of 8 h, both groups had a similar total daily TST. | Sleep Condition               | Total Sleep Time (TST) | N2 Sleep Duration | N3 Sleep Duration | REM Sleep Duration |
+|-------------------------------|------------------------|-------------------|-------------------|--------------------|
+| 8-h Split Sleep               | 7 h 14 min to 7 h 20 min | 31–35 min         | 30–31 min         | 9–12 min           |
+| 8-h Continuous Sleep          | 8 h                    | 47–50 min         | -                 | 20–27 min          |
+
+For the rest of the sleep manipulation periods, total daily TST was 18–21 min shorter among the 8-h split sleep than the 8-h continuous sleep participants (p < 0.01). This was primarily driven by the shorter total REM sleep duration of 12–18 min (p < 0.06). The 7–12 min of REM sleep during the daytime naps in the 8-h split sleep group did not offset the 20–25 min reduction in REM sleep at night compared with the 8-h continuous sleep group (p < 0.001). Total N2 duration and total N3 duration did not differ between the two 8-h sleep groups (p > 0.07) because curtailment of these sleep stages during the 6.5-h nocturnal TIB (p < 0.004) was remedied by the daytime naps that consisted of mainly of N2 and N3 sleep. SWA in the first hour of the nocturnal sleep episodes was significantly and consistently lower in the 8-h split sleep group (p < 0.03), indicating the effectiveness of daytime napping in dissipating some of the homeostatic sleep pressure built up during the preceding wake period. Longer N2 sleep latency at night might also be observed as a result (e.g. night M1: p = 0.04).
+
+During the recovery periods, minimal differences in TST and sleep macrostructure were found between the two 8-h groups. However, on nights R11 and R21, compared with the 8-h continuous sleep group, the 8-h split sleep group had longer N2 sleep latency (p < 0.002) and lower SWA in the first hour of their sleep (p < 0.002). This could firstly be attributed to the nap opportunity these participants had on the immediately preceding days. Also, bedtime during the recovery nights was 75 min earlier than the manipulation nights (11:00 pm vs. 00:15 am). Consequently, the shorter duration of wakefulness prior to the first recovery sleep episodes might have reduced sleep pressure further.
+
+### Vigilance
+With a total TIB of 8 h provisioned, vigilance performance of the split and the continuous sleep groups did not differ significantly throughout the protocol (8-h split vs. 8-h continuous sleep: p > 0.19). A group × day interaction in the daily average PVT lapse count was statistically significant (F = 2.62, p < 0.001). This was attributed to the greater number of PVT lapses in the 8-h split sleep group. | Sleep Condition                | N2 Sleep Latency | SWA in First Hour |
+|-------------------------------|------------------|--------------------|
+| 8-h Split Sleep               |                  |                    |
+| 8-h Continuous Sleep          |                  |                    |
+
+continuous sleep group relative to the split sleep group when a split sleep schedule appeared to confer more total TIB was restricted to 6.5 h (6.5-h split vs. 6.5-h continuous sleep: p < 0.02 from day M1). Also, PVT performance remained relatively stable for the two groups with a total TIB of 8 h per 24 h. In contrast, compounded effects of two sleep restriction periods on vigilance was observed in both the 6.5-h split and the 6.5-h continuous sleep groups.
+
+Similar patterns were observed when PVT performance was considered for each time of day. In the morning (group × day interaction: F = 3.56, p < 0.001), the number of PVT lapses was reduced on most days in the first sleep restriction and recovery cycle for the 6.5-h split sleep group relative to the 6.5-h continuous sleep group. In contrast, no significant contrast was found for the two 8-h groups. Prior to their nap on M2, the 8-h split sleep group was found to have a small increase in the number of PVT lapses from baseline (4.83 ± 1.92, p = 0.01), whereas the 8-h continuous sleep group’s morning vigilance was at baseline level during the entire study.
+
+In the afternoon (group × day interaction: F = 3.58, p < 0.001) and evening (F = 1.41, p = 0.06), compared to sleeping the 6.5 h continuously, splitting sleep with a mid-afternoon nap led to reduction in the number of PVT lapses (from M11 in the afternoon: p < 0.004; from M12 in the evening: p < 0.01). However, when total TIB was 8 h, the split and the continuous sleep schedules resulted in similar levels of vigilance performance at these two times of day, except for the afternoon on M14. In the afternoon, PVT performance of the 8-h split sleep group was at the baseline level throughout the protocol (p > 0.06), and the number of PVT lapses was only slightly elevated from baseline on some days in the 8-h continuous sleep group.
+
+The number of PVT lapses in the evening was minimally elevated from baseline for the 8-h split sleep group on R12 and M22 and the 8-h continuous sleep group on M1–M15.
+
+Other neurobehavioural functions
+Despite the statistically non-significant group × day interactions on speed of processing, and working memory/executive function, we split an 8-h total sleep opportunity over 24 h to allow for a 1.5-h nap in the afternoon to supplement a shortened nocturnal. Daily average sleep opportunity of 6.5 h, and found that this split sleep schedule yielded comparable cognitive performance, subjective sleepiness, and mood as when adolescents slept the entire allocated sleep opportunity at night. The findings held up over multiple nights on this schedule and suggest that when the total sleep opportunity across 24 h is within the recommended range, scheduling part of the total sleep opportunity for an afternoon nap may have little impact on neurobehavioral functions. This offers a practical solution to students who are unable to obtain the full sleep recommendation at night wherein a mid-afternoon nap can be utilized to fulfill sleep requirements without significant costs to basic cognitive functions, alertness, and mood. The present work, the first examining split sleep schedules in adolescents with total sleep duration in the recommended range, converges with findings from studies performed in adults in laboratory settings showing that splitting at least 8-h TIB into two opportunities yielded similar vigilance outcomes compared to continuous sleep. This pattern was consistent across variations in how much sleep was allocated between the two opportunities—while our present study examined a longer nocturnal period with a 1.5-h day time nap, other studies have split the recommended amount of sleep into two opportunities of equal duration, and one examined several combinations of a longer anchor nocturnal period plus a nap ranging from 0.4-h to 2.4-h. These findings suggest that when adolescents and adults obtain at least the minimum recommended TIB, how sleep is apportioned across 24 h may not impact basic neurobehavioral functions relative to sleeping the equivalent amount continuously at night. Nevertheless, future work in adolescents should aim to contrast different allocations of sleep within the two opportunities to examine if splitting adolescents’ sleep in different ways would continue to be comparable to a continuous sleep schedule.
+
+Notably, the pattern found in adolescents diverges from that of adults when total sleep opportunity falls below the recommended range. While our adolescent findings suggest that splitting sleep into a nocturnal period and mid-day nap preferentially boosts cognitive function for sleep restricted adolescents, in adults, a study reported that splitting any amount of sleep up, including durations as short as 6 h, does not affect daytime vigilance differently compared to a consolidated sleep period of the same total amount. Whereas in adults it appears that vigilance is a function of the total time in bed per 24 h independent of how sleep is distributed, our studies suggest that in adolescents, there are differential effects of splitting sleep that vary by the amount of total sleep obtained. This difference under conditions of sleep restriction may reflect ongoing maturation of brain systems governing arousal and cognitive processes in adolescence. Compared to adults, adolescents’ lapses in the PVT are shown averaged across the three tests each day, and separately for tests taken in the morning, afternoon, and evening. PVT results are plotted after the last baseline night, during the first cycle of sleep opportunity manipulation and after recovery nights, to the second cycle of sleep manipulation and recovery sleep. Observations for the 8-h split sleep group are shown in red open circles and dotted lines, while those for the 8-h continuous sleep group are illustrated in red filled circles and solid lines. For comparison, performance in a 6.5-h split sleep group and a 6.5-h continuous sleep group from a previous study are also presented. The least square means and standard errors estimated with general linear mixed models are plotted. ***p < 0.001, **p < 0.01, and *p < 0.05 for significant contrasts between the split and the continuous sleep groups. | Speed of processing | 6.5-h split sleep | 5-h continuous sleep | 8-h split sleep | 8-h continuous sleep |
+|---------------------|-------------------|----------------------|-----------------|---------------------|
+| Day                 | 1                 | 1                    |                 |                     |
+
+| Working memory | executive function |  |  |  |
+|----------------|--------------------|--|--|--|
+| Day            | 1                  |  |  |  |
+
+| Subjective sleepiness |  |  |  |  |
+|-----------------------|--|--|--|--|
+| Day                   | 1|  |  |  |
+
+| Mood |  |  |  |  |
+|------|--|--|--|--|
+| Day  | 9| 3| 1| 1|
+|      | 2| 1|  |  |
+|      | Mi; Mi} M1 Mis R1 Riz M2, MZ; MZ; | Mt; Mt; Mi Mts R1, MZ; MZ, |  |  |
+
+Figure 5. Other neurobehavioral functions during a split or continuous sleep schedule when total TIB was below or within the recommended range. The least square means and standard errors estimated with general linear mixed models are plotted for the daily average in (A) the number of correct responses in the MAT and the SDMT as measures of speed of processing, (B) A’ in the 1- and 3-back tasks as measures of working memory/executive function, (C) the score on the KSS as a measure of subjective sleepiness, and (D) the positive and negative affect scores on the PANAS. Data on the last baseline day (B), as well as during the sleep opportunity manipulation periods (M; gray shading) and the recovery periods (R) are plotted in red open circles and dotted lines for the 8-h split sleep group and red filled circles and solid lines for the 8-h continuous sleep group. For comparison, performance in a 6.5-h split sleep group (blue open circles and dotted lines) and a 6.5-h continuous sleep group (blue filled circles and solid lines) from a previous study also illustrated. ***p < 0.001, **p < 0.01, and *p < 0.05 for significant contrasts between the split and the consolidated sleep groups.
+
+vigilance, memory performance does not always show consistent deficits under adolescent sleep restriction protocols. For example, Voderholzer et al. found that restricting nocturnal sleep to 5 h for four consecutive nights had no impact on adolescents’ declarative and procedural memory consolidation. In addition, in our previous study, we found that even though the split sleep group (5 h nocturnal + 1.5 h nap) experienced a relative dip in vigilance in the morning, they were Lo et al. | 9
+
+still able to effectively learn biology facts at that time, suggesting a potential dissociation in the effects of split sleep on tests measuring basic cognitive processes compared to those involving higher order cognitive functions that may be more interesting and cognitively engaging, and hence, less sensitive to momentary drop outs in performance. Interestingly, studies in undergraduates have also found that even after a normal night of 7–9 h TIB, a midday nap can still confer benefits on long-term memory. It thus appears that split sleep schedules, even without sleep restriction could still have a facilitative effect on memory.
+
+The present work did not include measures of glucose metabolism. While our previous study found a greater increase in blood glucose during an oral glucose tolerance test in the split sleep group (5-h nocturnal TIB + 1.5-h nap) compared to the continuous sleep group (6.5-h TIB at night), the metabolic outcomes of splitting sleep durations within the recommended range remain unknown.
+
+In order to compare the present study to previous protocols and not to over-test participants, we sampled performance on the test battery three times across the day. This limited the ability to assess performance on a finer time scale, and in particular immediately before the nap when homeostatic sleep pressure would be higher in the split sleep group.
+
+Lastly, as the present work contrasted groups of students in the same age range selected one year apart, there may be potential cohort effects. Nonetheless, participants in the NFS4 and NFS5 studies were matched on all relevant demographic variables as well as sleep habits assessed during screening.
+
+Conclusions
+In adolescents, we found that there are differential effects of splitting sleep on basic cognitive functions, alertness, and mood that depend on the total sleep opportunity. These findings suggest that as long as the total duration of sleep obtained across 24 h is satisfactory, many students may be able to adopt a split sleep schedule incorporating a mid-afternoon nap combined with a shorter period of nocturnal sleep. This work adds to the growing literature on practical strategies that may be employed to boost sleep health in modern societies.
+
+Supplementary Material
+Supplementary material is available at SLEEP online.
+
+Limitations
+The present study only examined splitting sleep between a long nocturnal period and a 1.5-h daytime nap. As such, the present conclusions cannot be generalized to other forms of splitting sleep. It is possible that patterns of cognitive functions, subjective sleepiness, and mood measured across the day will differ. | Reference Number | Authors | Title | Journal | Year | Volume | Issue | Pages |
+|------------------|---------|-------|---------|------|--------|-------|-------|
+| 1 | Jiang X, et al. | Sleep duration, schedule and quality among urban Chinese children and adolescents: associations with routine after-school activities | PLoS One | 2015 | 10 | 1 | e0115326 |
+| 2 | Patte KA, et al. | Modifiable predictors of insufficient sleep durations: a longitudinal analysis of youth in the COMPASS study | Prev Med | 2018 | 106 | | 164–170 |
+| 3 | Twenge JM, et al. | Decreases in self-reported sleep duration among U.S. adolescents 2009–2015 and association with new media screen time | Sleep Med | 2017 | 39 | | 47–53 |
+| 4 | Yeo SC, et al. | Associations of sleep duration on school nights with self-rated health, overweight, and depression symptoms in adolescents: problems and possible solutions | Sleep Med | 2019 | 60 | | 96–108 |
+| 5 | Hirshkowitz M, et al. | National Sleep Foundation’s sleep time duration recommendations: methodology and results summary | Sleep Health | 2015 | 1 | 1 | 40–43 |
+| 6 | Paruthi S, et al. | Recommended amount of sleep for pediatric populations: a consensus statement of the American academy of sleep medicine | J Clin Sleep Med | 2016 | 12 | 6 | 785–786 |
+| 7 | Carskadon MA | Sleep in adolescents: the perfect storm | Pediatr Clin North Am | 2011 | 58 | 3 | 637–647 |
+| 8 | Crowley SJ, et al. | A longitudinal assessment of sleep timing, circadian phase, and phase angle of entrainment across human adolescence | PLoS One | 2014 | 9 | 11 | e112199 |
+| 9 | Jenni OG, et al. | Homeostatic sleep regulation in adolescents | Sleep | 2005 | 28 | 11 | 1446–1454 |
+| 10 | Yeo SC, et al. | Associations of time spent on homework or studying with nocturnal sleep behaviour and depression symptoms in adolescents from Singapore | Sleep Health | 2020 | | | (in press) |
+| 11 | Adolescent Sleep Working G, et al. | School start times for adolescents | Pediatrics | 2014 | 134 | | 642–649 |
+| 12 | Watson NF, et al. | Delaying middle school and high school start times promotes student health and performance: an American academy of sleep medicine position statement | J Clin Sleep Med | 2017 | 13 | 4 | 623–625 |
+| 13 | Lo JC, et al. | Differential effects of split and continuous sleep on neurobehavioral function and glucose tolerance in sleep-restricted adolescents | Sleep | 2019 | 42 | 5 | |
+| 14 | Ong JL, et al. | EEG changes accompanying successive cycles of sleep restriction with and without naps in adolescents | Sleep | 2017 | 40 | 4 | |
+| 15 | Jackson ML, et al. | Investigation of the effectiveness of a split sleep schedule in sustaining sleep and maintaining performance | Chronobiol Int | 2014 | 31 | 10 | 1218–1230 |
+| 16 | Kosmadopoulos A, et al. | The effects of a split sleep-wake schedule on neurobehavioural performance and predictions of performance under conditions of forced desynchrony | Chronobiol Int | 2014 | 31 | 10 | 1209–1217 |
+| 17 | Cousins JN, et al. | Memory encoding is impaired after multiple nights of partial sleep restriction | J Sleep Res | 2018 | 27 | 1 | 138–145 |
+| 18 | Lo JC, et al. | Cognitive performance, sleepiness, and mood in partially sleep deprived adolescents: the need for sleep study | Sleep | 2016 | 39 | 3 | 687–698 |
+| 19 | Lo JC, et al. | Neurobehavioral impact of successive cycles of sleep restriction with and without naps in adolescents | Sleep | 2017 | 40 | 2 | |
+| 20 | Horne JA, et al. | A self-assessment questionnaire to determine morningness-eveningness in human circadian rhythms | Int J Chronobiol | 1976 | 4 | 2 | 97–110 |
+| 21 | Johns MW | A new method for measuring daytime sleepiness: the Epworth sleepiness scale | Sleep | 1991 | 14 | 6 | 540–545 |
+| 22 | Meijer AM | Chronic sleep reduction, functioning at school and school achievement in preadolescents | J Sleep Res | 2008 | 17 | 4 | 395–405 |
+| 23 | Buysse DJ, et al. | The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research | Psychiatry Res | 1989 | 28 | 2 | 193–213 |
+| 24 | Patanaik A, et al. | An end-to-end framework for real-time automatic sleep stage classification | Sleep | 2018 | 41 | 5 | |
+| 25 | Iber C, et al. | The AASM manual for the scoring of sleep and associated events: rules, terminology, and technical specification | 1st ed. | 2007 | | | |
+| 26 | Akerstedt T, et al. | Subjective and objective sleepiness in the active individual | Int J Neurosci | 1990 | 52 | 1–2 | 29–37 |
+| 27 | Smith A | Symbol Digit Modalities Test | Los Angeles, CA: Western Psychological Services | 1991 | | | |
+| 28 | Lo JC, et al. | Effects of partial and acute total sleep deprivation on performance across cognitive domains, individuals and circadian phase | PLoS One | 2012 | 7 | 9 | e45987 |
+| 29 | Klein KE, et al. | Air operations and circadian performance rhythms | Aviat Space Environ Med | 1976 | 47 | 3 | 221–230 |
+| 30 | Watson D, et al. | Development and validation of brief measures of positive and negative affect: the PANAS scales | J Pers Soc Psychol | 1988 | 54 | 6 | 1063–1070 |
+| 31 | Dinges DF, Powell JW | Microcomputer analyses of performance on a portable, simple visual RT task during sustained operations | Behav Res Meth Instr Comp | 1985 | 17 | | 652–655 |
+| 32 | Mollicone DJ, et al. | Response Surface mapping of neurobehavioral performance: testing the feasibility of split sleep schedules for space operations | Acta Astronaut | 2008 | 63 | 7–10 | 833–840 |
+| 33 | Short MA, et al. | The effect of split sleep schedules (6h-on/6h-off) on neurobehavioural performance, sleep and sleepiness | Appl Ergon | 2016 | 54 | | 72–82 |
+| 34 | Belenky G, et al. | Patterns of performance degradation and restoration during sleep restriction and subsequent recovery: a sleep dose-response study | J Sleep Res | 2003 | 12 | 1 | 1–12 |
+| 35 | Belenky G, et al. | Split sleeper berth use and driver performance: a review of the literature and application of a mathematical model predicting performance from sleep/wake history and circadian phase | Spokane, WA: Washington State University | 2008 | | | |
+| 36 | Campbell IG, et al. | Differential and interacting effects of age and sleep restriction on daytime sleepiness and vigilance in adolescence: a longitudinal study | Sleep | 2018 | 41 | 12 | |
+| 37 | Talbot LS, et al. | Sleep deprivation in adolescents and adults: changes in affect | Emotion | 2010 | 10 | 6 | 831–841 | 38. Leong RLF, et al. Multiple nights of partial sleep deprivation do not affect prospective remembering at long delays. Sleep Med. 2018;44:19–23
+39. Voderholzer U, et al. Sleep restriction over several days does not affect long-term recall of declarative and procedural memories in adolescents. Sleep Med. 2011;12(2):170–178
+40. Cousins JN, et al. Does splitting sleep improve long-term memory in chronically sleep deprived adolescents? NPJ Sci Learn. 2019;4:8
+41. Alger SE, et al. Slow wave sleep during a daytime nap is necessary for protection from subsequent interference and long-term retention. Neurobiol Learn Mem. 2012;98(2):188–196
+42. Mander BA, et al. Wake deterioration and sleep restoration of human learning. Curr Biol. 2011;21(5):R183–R184
+43. Milner CE, et al. Benefits of napping in healthy adults: impact of nap length, time of day, age, and experience with napping. J Sleep Res. 2009;18(2):272–281
+44. Werth E, et al. Dynamics of the sleep EEG after an early evening nap: experimental data and simulations. Am J Physiol. 1996;271(3 Pt 2):R501–R510 

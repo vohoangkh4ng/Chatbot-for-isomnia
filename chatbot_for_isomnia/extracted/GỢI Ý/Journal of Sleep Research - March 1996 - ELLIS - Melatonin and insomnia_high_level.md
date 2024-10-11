@@ -1,0 +1,3 @@
+# Title: Melatonin and insomnia
+
+## Summary: This article investigates the hypnotic effects of melatonin (5 mg) in 15 subjects suffering from psychophysiological insomnia through a double-blind controlled study. Participants took either melatonin or a placebo for one week, with their sleep and wakefulness monitored via self-report questionnaires. The study found no significant changes in sleep quality or next-day functioning, although some subjects reported a minor subjective improvement in sleep during the melatonin treatment. Side effects included headaches and an unusual taste. The findings suggest that melatonin may have limited clinical value in treating psychophysiological insomnia.

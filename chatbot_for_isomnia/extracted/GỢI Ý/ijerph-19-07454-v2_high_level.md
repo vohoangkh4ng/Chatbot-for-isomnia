@@ -1,0 +1,3 @@
+# Title: Effects of Indoor Plants on Human Functions: A Systematic Review with Meta-Analyses
+
+## Summary: This article investigates the effects of indoor plants on various human functions, including physiological, cognitive, health-related, and behavioral aspects, through a systematic review and meta-analyses. The study includes 42 records and finds that indoor plants positively influence participants' relaxed physiology and cognitive performance. Meta-analyses reveal significant benefits of indoor plants on diastolic blood pressure and academic achievement, while also noting effects on attention and response time. The authors highlight the importance of incorporating plants in urban environments to enhance health and well-being.

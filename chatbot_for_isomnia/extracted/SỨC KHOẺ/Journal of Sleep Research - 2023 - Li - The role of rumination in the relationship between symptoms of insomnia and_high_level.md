@@ -1,0 +1,3 @@
+# Title: The role of rumination in the relationship between symptoms of insomnia and depression in adolescents
+
+## Summary: This study investigates the connection between insomnia symptoms and depression in adolescents, focusing on the mediating roles of rumination and unhelpful beliefs about sleep. It evaluates the impact of cognitive behavioral therapy for insomnia (CBT-I) on these factors and their influence on depressive symptoms. The findings indicate that rumination significantly mediates the relationship between insomnia and depression, suggesting that addressing rumination may enhance therapeutic outcomes for adolescents experiencing both conditions.

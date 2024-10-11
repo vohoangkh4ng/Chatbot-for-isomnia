@@ -1,0 +1,3 @@
+# Title: The associations of mobile touch screen device use with musculoskeletal symptoms and exposures: A systematic review
+
+## Summary: This systematic review investigates the relationship between the use of mobile touch screen devices (MTSDs) and musculoskeletal symptoms and exposures. With the rapid increase in MTSD usage over the past decade, concerns have arisen regarding potential negative musculoskeletal effects. The study aims to consolidate existing literature on this topic to promote informed use of MTSDs and highlight areas needing further research. A total of 45 relevant articles were included in the review, focusing on various study designs and the associations between MTSD use and musculoskeletal issues.

@@ -1,0 +1,3 @@
+# Title: Efficacy and safety of supplemental melatonin for delayed sleep-wake phase disorder in children: an overview
+
+## Summary: This article reviews the efficacy and safety of melatonin as a treatment for delayed sleep-wake phase disorder (DSPD) in children, highlighting its status as the first-choice drug despite concerns regarding its general use. The review synthesizes findings from various studies, indicating that melatonin can significantly improve sleep latency without serious adverse effects. Long-term safety studies also suggest no negative impacts on child development or health. The article concludes that melatonin is a safe and effective treatment for DSPD when administered correctly.

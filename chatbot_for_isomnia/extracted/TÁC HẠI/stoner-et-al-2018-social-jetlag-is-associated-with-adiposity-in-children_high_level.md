@@ -1,0 +1,3 @@
+# Title: Social Jetlag Is Associated With Adiposity in Children
+
+## Summary: This commentary discusses the relationship between social jetlag (SJL) and childhood obesity, highlighting that poor sleep behaviors, including inconsistent sleep patterns, contribute to unhealthy weight gain in children. It reviews existing literature that links insufficient sleep and sleep disorders to obesity and introduces the "Structured Days Hypothesis," which suggests that a structured daily routine can mitigate obesogenic behaviors. The authors emphasize the need for further research to explore the impact of SJL on body composition in preadolescent children.

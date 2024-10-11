@@ -1,0 +1,3 @@
+# Title: Effects of Sleep Quality on the Association between Problematic Mobile Phone Use and Mental Health Symptoms in Chinese College Students
+
+## Summary: This study investigates the relationship between problematic mobile phone use (PMPU) and mental health symptoms among Chinese college students, while also examining the impact of sleep quality on this association. Data from 4,747 students revealed that 28.2% experienced PMPU and 9.8% reported poor sleep quality. The findings indicate that both PMPU and poor sleep quality are independently linked to mental health issues, with poor sleep quality exacerbating the mental health risks associated with PMPU.

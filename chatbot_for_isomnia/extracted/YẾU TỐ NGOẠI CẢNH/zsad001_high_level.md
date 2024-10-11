@@ -1,0 +1,3 @@
+# Title: Measuring light regularity: sleep regularity is associated with regularity of light exposure in adolescents
+
+## Summary: This article explores the relationship between sleep regularity and light exposure regularity in adolescents. It introduces new metrics for quantifying light regularity and examines their utility over a two-week school term and a subsequent two-week vacation. The study finds that higher sleep regularity is significantly associated with more consistent light exposure, suggesting that irregular sleep patterns may lead to irregular light inputs, contributing to circadian disruption.

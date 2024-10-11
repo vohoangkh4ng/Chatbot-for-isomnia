@@ -1,0 +1,3 @@
+# Title: Mapping and Predicting Patterns of Chinese Adolescents’ Food Preferences
+
+## Summary: This study investigates the food preferences of Chinese adolescents aged 12 to 17, utilizing data from the China Health and Nutrition Survey. It identifies four distinct food preference types: varied diet, avoiding vegetables, low appetite, and healthy diet. Key predictors of these preferences include demographic factors, nutrition knowledge, activity preferences, and social attitudes. The research highlights the importance of understanding food preferences in relation to dietary quality and public health, particularly in light of rising obesity rates and poor dietary choices in China.

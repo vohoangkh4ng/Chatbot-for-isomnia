@@ -1,0 +1,3 @@
+# Title: Exposure to nitrate from drinking water and the risk of childhood cancer in Denmark
+
+## Summary: This article investigates the potential association between nitrate exposure from drinking water and the risk of childhood cancers, specifically leukemia, lymphoma, and central nervous system (CNC) cancers, in Denmark. A nationwide case-control study was conducted involving over 1.2 million liveborn children, with a focus on nitrate levels in public water systems. The findings indicate no significant association between nitrate exposure and leukemia or lymphoma; however, there is some evidence suggesting that higher nitrate levels may increase the risk of CNC cancers, particularly with preconception, prenatal, and postnatal exposure.

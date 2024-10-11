@@ -1,0 +1,3 @@
+# Title: Failing to learn: The impact of failures during making activities
+
+## Summary: This article explores the experiences of maker educators regarding failure in educational settings. It discusses how failure is perceived and addressed in both formal and informal learning environments, particularly in maker education. The authors present survey data revealing strategies that can help educators turn failure experiences into opportunities for learning and persistence among youth, highlighting the potential of making activities to engage diverse learners and foster essential skills.

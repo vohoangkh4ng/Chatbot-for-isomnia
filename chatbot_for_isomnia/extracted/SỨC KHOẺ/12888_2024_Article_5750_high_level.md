@@ -1,0 +1,3 @@
+# Title: Sleep disturbance and internalizing symptoms in adolescents: a moderated mediation model of self-control and mindfulness
+
+## Summary: This study investigates the relationship between sleep disturbance and internalizing symptoms (anxiety and depression) in adolescents, focusing on the mediating role of self-control and the moderating effect of mindfulness. Analyzing data from 1,876 Chinese adolescents, the findings reveal that sleep disturbance significantly correlates with increased internalizing symptoms. Self-control mediates this relationship, while higher levels of mindfulness weaken the mediating effects. The study emphasizes the importance of enhancing mindfulness to address self-control deficits and reduce internalizing symptoms among adolescents.

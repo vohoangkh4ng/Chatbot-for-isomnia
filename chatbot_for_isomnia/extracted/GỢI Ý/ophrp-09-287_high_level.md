@@ -1,0 +1,3 @@
+# Title: How Much Caffeine is Too Much for Young Adolescents?
+
+## Summary: This editorial discusses the health implications of caffeine consumption among young adolescents, highlighting both beneficial and harmful effects. It emphasizes the need for adequate nutritional knowledge to guide dietary habits, particularly regarding caffeine intake. The article references a study that found a correlation between lower caffeine intake and better nutritional knowledge and dietary behavior related to bone and sleep health among high school students. The editorial raises concerns about the increasing consumption of caffeinated products among adolescents and the potential health risks associated with excessive intake.

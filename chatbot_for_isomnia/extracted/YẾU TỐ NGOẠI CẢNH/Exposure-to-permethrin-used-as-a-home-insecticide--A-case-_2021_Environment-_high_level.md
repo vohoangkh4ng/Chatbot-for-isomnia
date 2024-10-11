@@ -1,0 +1,3 @@
+# Title: Exposure to permethrin used as a home insecticide: A case study comparing model predictions and excretion of metabolites
+
+## Summary: This study investigates consumer exposure to permethrin, a common pyrethroid used in home insecticides, during the summer season. By analyzing urinary metabolites in a group of 27 participants, the research assesses the impact of home insecticide application on permethrin exposure. Results indicate a significant increase in metabolite levels with insecticide use, highlighting it as a key exposure route. The study also compares these levels with predictions from a screening exposure model, which generally performed well despite some discrepancies attributed to rapid loss of permethrin post-application.

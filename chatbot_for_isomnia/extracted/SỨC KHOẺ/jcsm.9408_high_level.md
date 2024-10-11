@@ -1,0 +1,3 @@
+# Title: Circadian factors in comorbid insomnia and sleep apnea
+
+## Summary: This article discusses the interplay between circadian factors and the treatment of comorbid insomnia and obstructive sleep apnea (COMISA). It highlights the prevalence of insomnia symptoms in patients with obstructive sleep apnea and vice versa, suggesting potential causal associations. The authors emphasize the need for further research into circadian misalignment and its implications for treatment, proposing that understanding these factors could enhance therapeutic approaches for patients suffering from both conditions.

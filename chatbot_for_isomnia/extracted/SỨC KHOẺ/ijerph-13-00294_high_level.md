@@ -1,0 +1,3 @@
+# Title: Pathological Internet Use and Risk-Behaviors among European Adolescents
+
+## Summary: This article investigates the association between pathological Internet use (PIU) and risk behaviors among adolescents in Europe. It highlights the significance of understanding these behaviors, which contribute to morbidity in young people, and presents findings from a cross-sectional study conducted across eleven European countries as part of the FP7 European Union project, Saving and Empowering Young Lives in Europe (SEYLE). The study utilized Young’s Diagnostic Questionnaire to measure PIU among adolescents.

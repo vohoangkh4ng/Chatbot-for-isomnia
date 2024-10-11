@@ -1,0 +1,3 @@
+# Title: Family Socioeconomic Status and Sleep Patterns of Young Adolescents
+
+## Summary: This study investigates the relationship between socioeconomic status (SES) and sleep patterns among young adolescents, specifically focusing on 155 seventh-graders from two urban middle schools. The research highlights how various SES-related factors, including parental demographics and neighborhood environment, influence sleep timing and consistency on school nights and weekends. Findings indicate that both school-night and weekend sleep regularity are linked to demographic and neighborhood aspects of SES, emphasizing the impact of environmental factors on adolescent sleep health.

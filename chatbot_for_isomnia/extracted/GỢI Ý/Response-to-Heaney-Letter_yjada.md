@@ -1,0 +1,19 @@
+# LETTERS TO THE EDITOR
+
+## Author’s Response:
+Calcium absorption from soymilk products has been directly studied. Zhao and colleagues recently measured the calcium bioavailability of cow’s milk, soymilk fortified with calcium carbonate, and soymilk fortified with tricalcium phosphate in a three-way crossover trial using a dual stable isotope technique. The calcium carbonate-fortified soymilk tested was the same soymilk used in our acceptability study. Their results “clearly showed that [calcium carbonate-fortified soymilk] has calcium bioavailability similar to that of cow’s milk.” By their figures, 3 cups of cow’s milk would provide 186 mg of absorbable calcium (22% of 855 mg total calcium). The same amount of calcium carbonate-fortified soymilk would provide 233 mg of absorbable calcium (21% of 1,104 mg total calcium). Tricalcium phosphate-fortified soymilk would provide 200 mg of absorbable calcium.
+
+Heaney and Rafferty note that two of the eight brands they tested delivered the amount of calcium indicated on the label, while sedimentation reduced calcium availability from six other brands, but did not indicate whether the brand used in our study (shelf-stable Silk brand soymilk [White Wave, Boulder CO]) was among the two with high calcium delivery. Like dairy milk, refrigerated soymilk maintains calcium suspension without shaking. Shelf-stable soymilk should be shaken before drinking to ensure that all ingredients are properly dispersed, and is labeled accordingly on the package. Independent third-party analysis on the brand of soymilk used in our acceptability study found consistent calcium levels of greater than 300 mg (30% of the recommended daily value) in both quart and 8-oz shelf-stable soymilks when shaken (unpublished observation, May 2006).
+
+The purpose of our study was to assess whether a significant number of students would select soymilk in place of cow’s milk, if offered the opportunity. We found that, indeed, approximately one in four students chose soymilk. For them, soymilk may not be equal to cow’s milk; rather, it is clearly superior in certain key attributes. Some of these children were lactose intolerant, and soymilk is free of lactose, as well as being much lower in saturated fat, compared with cow’s milk.
+
+While the product we assessed was calcium-fortified, we did not intend to suggest that extremely high calcium intakes are either necessary or safe or that calcium should be the primary basis for judging a beverage’s attributes. A recent review calls into question whether calcium intakes above moderate levels provide any benefit for bone mineralization, noting that dairy intake in the United States is among the highest in the world, accounting for 72% of dietary calcium intake, while osteoporosis prevalence is similarly high. Based on 58 cross-sectional, retrospective, prospective, and randomized, controlled studies, the review concluded that currently available evidence does not support the effectiveness of dairy product intake for augmenting child and adolescent bone mineralization.
+
+Fortified foods such as soymilk, juices, and cereals provide calcium without dairy’s animal protein, which may adversely affect calcium balance. In addition, broccoli and dark leafy greens, such as kale and collard greens, provide calcium at twice the absorption rate of cow’s milk and also provide fiber, cancer-fighting antioxidants, and vitamins and minerals not found in milk.
+
+The safety of high intakes of milk has been called into question, particularly with regard to prostate cancer risk. It may be most prudent to have a moderate calcium intake, along with exercise, modest sun exposure, a high intake of fruits and vegetables, minimal intake of salty and caffeine-rich foods, and avoidance of animal products. As a calcium source, soymilk appears to be both effective and acceptable.
+
+Jennifer Reilly, RD
+Nutrition Consultant
+The Cancer Project
+Washington, DC 

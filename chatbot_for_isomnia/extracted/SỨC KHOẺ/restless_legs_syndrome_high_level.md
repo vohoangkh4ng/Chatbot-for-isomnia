@@ -1,0 +1,3 @@
+# Title: Restless Legs Syndrome
+
+## Summary: Restless Legs Syndrome (RLS) is a movement disorder characterized by uncomfortable sensations in the legs during periods of rest, often described as creepy, crawly, tingling, or painful. This condition leads to an overwhelming urge to move the legs, which can disrupt sleep, particularly in children and adolescents. The exact cause of RLS is unknown, but it may have a genetic component and is associated with low iron levels and certain chronic diseases. Symptoms include leg discomfort, involuntary leg movements, sleep disruption, and behavioral issues at bedtime.

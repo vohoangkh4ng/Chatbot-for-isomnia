@@ -1,0 +1,3 @@
+# Title: Sleep Duration Associated with the Lowest Risk of Depression/Anxiety in Adolescents
+
+## Summary: This study investigates the relationship between sleep duration and the risk of depression and anxiety among adolescents aged 12 to 18 years. Analyzing data from 15,637 Japanese students, the research finds that males benefit from sleeping 8.5 to 9.5 hours, while females show optimal sleep duration at 7.5 to 8.5 hours. The findings suggest that insufficient sleep (less than 7.5 hours) is linked to higher rates of mental health issues, emphasizing the importance of adequate sleep for adolescent mental well-being. The study highlights the need for tailored sleep recommendations based on sex and age to support mental health education in this demographic.

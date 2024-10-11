@@ -1,0 +1,3 @@
+# Title: Quality of life, sleepiness and depressive symptoms in adolescents with insomnia: A cross-sectional study
+
+## Summary: This study investigates the prevalence of insomnia among Portuguese adolescents and its impact on health-related quality of life (HRQoL), daytime sleepiness, and depressive symptoms. Conducted in Viseu, the research involved a sample of 6919 adolescents from 26 public secondary schools. The findings revealed an insomnia prevalence of 8.3%, with significant reductions in HRQoL and increases in daytime sleepiness and depressive symptoms among those affected. The study highlights the need for awareness and intervention regarding insomnia in this demographic.

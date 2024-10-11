@@ -1,0 +1,3 @@
+# Title: Feelings as information: informational and motivational functions of affective states
+
+## Summary: This article by Norbert Schwarz discusses the role of feelings as a source of information and motivation. It explores how affective states can influence decision-making and behavior, highlighting the informational and motivational functions that emotions serve in various contexts. The research report is part of a series published by the Zentrum für Umfragen, Methoden und Analysen (ZUMA) and provides insights into the psychological mechanisms underlying emotional responses.

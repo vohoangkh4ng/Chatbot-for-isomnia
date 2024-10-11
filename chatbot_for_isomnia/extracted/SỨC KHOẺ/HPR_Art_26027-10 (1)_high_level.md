@@ -1,0 +1,3 @@
+# Title: Stress faced by gifted Vietnamese students: what might contribute to it?
+
+## Summary: This study investigates the stress levels experienced by gifted students at the High School for Gifted Students in Hanoi, Vietnam, and identifies contributing factors. It finds that 74% of students experience mild to medium stress, with higher levels in girls and those living away from home. Key factors contributing to stress include school work and well-being, suggesting a need for increased support and recreational activities to improve students' high school experiences.

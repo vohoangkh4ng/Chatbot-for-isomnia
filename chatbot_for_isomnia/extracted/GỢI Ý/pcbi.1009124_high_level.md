@@ -1,0 +1,3 @@
+# Title: Ten simple rules to improve academic work–life balance
+
+## Summary: This article discusses the challenges faced by academics in achieving a work-life balance in the current hypercompetitive academic environment. It highlights how the focus on productivity and the increasing administrative burdens lead to long working hours, particularly affecting early career researchers. The authors argue that this imbalance can result in burnout, decreased job satisfaction, and negative impacts on mental health. They emphasize the need for a shift in the academic culture to prioritize well-being alongside productivity, suggesting that a better work-life balance can enhance overall productivity and career satisfaction.

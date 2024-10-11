@@ -1,0 +1,3 @@
+# Title: Sleep Patterns of Urban School-going Adolescents
+
+## Summary: This research paper analyzes the sleep habits of adolescents in urban India, focusing on students from 9th to 12th grades. The study, which involved a cross-sectional questionnaire-based survey of 1920 adolescents aged 12-18 years, found that higher grade students experienced less total sleep time and more frequent nocturnal awakenings. The results indicated a progressive increase in daytime sleepiness and leg pain among older students, highlighting a concerning trend of sleep deprivation as students advance in their academic grades. The findings suggest that socio-cultural factors significantly influence sleep patterns, emphasizing the need for further research in this area.

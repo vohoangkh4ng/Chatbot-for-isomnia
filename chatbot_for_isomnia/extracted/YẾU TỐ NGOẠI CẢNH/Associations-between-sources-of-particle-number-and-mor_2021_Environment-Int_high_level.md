@@ -1,0 +1,3 @@
+# Title: Associations between sources of particle number and mortality in four European cities
+
+## Summary: This article investigates the relationship between ultrafine particle (UFP) sources and daily mortality rates in four European cities: Barcelona, Helsinki, London, and Zurich. The study assesses various UFP sources, including traffic and secondary aerosols, and their impact on natural, cardiovascular, and respiratory mortality. Results indicate inconsistent associations across cities and sources, with some evidence of increased mortality risk linked to total particle number concentrations and specific UFP sources, particularly in Helsinki, Barcelona, Zurich, and London.

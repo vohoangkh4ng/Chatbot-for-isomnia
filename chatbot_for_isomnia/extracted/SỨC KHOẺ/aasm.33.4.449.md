@@ -1,0 +1,237 @@
+## NONRESTORATIVE SLEEP
+
+### Nonrestorative Sleep as a Distinct Component of Insomnia
+
+**Study Objectives:** Explore characteristics of nonrestorative sleep (NRS) in prospectively defined subgroups of individuals with NRS symptoms, investigate whether NRS can occur independently of difficulties initiating and maintaining sleep (DIS/DMS), and determine its effect on waking function.
+
+**Design:** Cross-sectional and longitudinal population-based study comparing patterns of daytime symptoms, and their persistence, in cohorts of subjects with NRS symptoms grouped according to presence or absence of DIS and DMS.
+
+**Setting:** 28 sleep centers in the US.
+
+**Participants:** Subjects reporting awakening unrestored or unrefreshed at least 3 times weekly over the previous 3 months were classified, based on self-reported sleep problems, to DIS (n = 138), DMS (n = 44), DIS+DMS (n = 125), and NRS-only (no DIS or DMS; n = 192) cohorts. Eighty healthy volunteers formed a control group.
+
+**Interventions:** None.
+
+**Measurements and Results:** Polysomnography confirmed DIS and/or DMS in 56/138 (41%), 18/44 (41%), and 37/125 (30%) subjects in DIS, DMS, and DIS+DMS cohorts, respectively; and absence of DIS or DMS in 115/192 (60%) NRS-only subjects and 52/80 (65%) healthy volunteers. Multiple subject-reported endpoints including the Endicott Work Productivity Scale, Pittsburgh Insomnia Rating Scale, Restorative Sleep Questionnaire, and SF-36, showed that NRS-only subjects had significantly impaired daytime function relative to healthy volunteers, comparable to impairment affecting subjects with DIS and/or DMS. Symptoms persisted over 3 months.
+
+**Conclusions:** This study confirms that NRS can occur independently of other components of insomnia. Daytime symptoms were as severe in individuals with NRS-only as those whose NRS symptoms were combined with DIS or DMS.
+
+**Keywords:** Nonrestorative sleep; insomnia; daytime functioning
+
+INSOMNIA IS CHARACTERIZED BY NIGHTTIME SLEEP PROBLEMS, WHICH MAY MANIFEST AS THE COMPLAINT OF DIFFICULTY INITIATING SLEEP, difficulty maintaining sleep (DMS), or nonrestorative sleep (NRS), or a combination of these complaints, and daytime symptoms. An insomnia diagnosis is confirmed if the sleep complaints or associated daytime problems cause significant distress or functional impairment for at least 1 month. Thus, one critical feature to consider in making the diagnosis of insomnia, over and above the amount of time spent asleep, is the patient’s experience of being insufficiently rested or refreshed to be able to carry out normal social and occupational functions. This is reflected in the recognition of NRS as a core component of insomnia according to DSM-IV diagnostic criteria. However, in practice DIS and DMS remain the most readily recognized sleep complaints in insomnia, and the main targets of treatments for insomnia. NRS, by comparison, remains poorly characterized.
+
+Few studies investigating the prevalence and burden of insomnia have focused on NRS. However, two large surveys have shown that it is a prevalent complaint, occurring in 11% of the insomnia population. Estimation of the prevalence of NRS is hampered by imprecise or inconsistent definitions used to identify patients with NRS, as well as a lack of validation of patient reports of NRS with objective measures. A recent review of literature on NRS highlighted the variation in constructs addressed by different insomnia studies that have attempted to quantify NRS. The authors concluded that there is a lack of empirical data to substantiate a clear conceptualization of NRS, pointing to a need for further research in this area. Furthermore, many reports of NRS arise in the context of other conditions such as fibromyalgia syndrome and chronic fatigue syndrome, leading some clinicians to question whether NRS occurs in the absence of other sleep or health problems. Nonetheless, DSM-IV diagnostic criteria recognize that NRS can occur in the context of primary insomnia (insomnia that does not occur exclusively during the course of another sleep or mental disorder, nor due to effects of a substance or medical condition) and that NRS can in some cases be the sole sleep complaint in primary insomnia. Where attempts have been made to clarify the concept of NRS, proposed criteria include daytime complaints of difficulty getting started in the morning and/or feeling rather or completely unrested upon awakening nearly every day, despite a normal sleep duration for the individual’s age and gender. However, no study to date has provided polysomnographic confirmation that NRS does occur in the absence of other primary sleep disorders, sleep deprivation, or other insomnia symptoms. Patients with NRS could be an important segment of the insomnia population—survey data gathered to date indicate that NRS as a distinct component of insomnia. that individuals with NRS experience significant daytime impairment, including irritable mood, physical and mental fatigue, and role impairment. Patients also commonly report that increased effort is required to perform work and daily activities. The apparent burden associated with NRS suggests that, to be fully effective, the management of insomnia should take account of this component. Currently only the German Society of Sleep Research and Medicine sets out guidelines for the diagnosis and management of NRS. There is a need for research to improve our understanding of NRS and guide management of the condition.
+
+Here we report a study designed to define the population in which NRS occurs by comparing patterns of daytime symptoms in prospectively defined groups of subjects who reported feeling unrefreshed and unrestored, and using polysomnography (PSG) to confirm the presence or absence of other sleep problems. We further characterize the population by assessing symptom persistence and the relative nature of the daytime impairment in the different groups, assessed using a variety of subject-reported measures.
+
+## METHODS
+
+### Study Subjects and Setting
+Male and non-pregnant female subjects aged 18–64 years were recruited through advertisements and referrals and enrolled at 28 study centers in the United States. A sleep intake questionnaire assessing the nature of sleep/wake problems was administered to identify subjects with symptoms consistent with NRS, and characterized the sleep history (over the previous 3 months) of enrolled subjects. Subjects were asked whether, over the previous 3 months, they had experienced problems of awakening unrestored or unrefreshed. Subjects answering yes were eligible for the study if the complaint occurred ≥ 3 times per week, and caused significant distress or impairment in social, occupational, or other important areas of daytime functioning. A control group of healthy volunteers was also enrolled. All enrolled subjects were required to maintain a normal and stable daytime-awake, nighttime-asleep schedule that permitted adequate opportunity for sleep, with 6.5–8.5 h in bed each night, and < 2 h variation in bedtime from night to night, including non-work days.
+
+Subjects were excluded from the study if they had initiated cognitive behavioral therapy or use of any medications (including over-the-counter and herbal treatments) with known or suspected effects on sleep within the previous 3 months or in the first month of the study. Subjects also were excluded if they had any medical, neurological, or psychiatric condition (assessed using the Mini International Neuropsychiatric Interview (MINI) or defined as any history of Axis 1 psychiatric diagnosis); exceptions were mild hypertension, hypercholesterolemia, or allergies not requiring treatment, gender identity disorders, and primary insomnia in subjects with NRS symptoms. Additional exclusion criteria were: excessive caffeine intake (> four 8-ounce caffeinated beverages/ day, or any caffeine intake after 18:00), excessive smoking (> 20 cigarettes/ day or during bedtime hours), excessive alcohol intake (as a sleep aid, or with typical intake of > 2 alcoholic beverages/ day or 14/week, except in isolated instances), or regular napping (≥ 4 daytime naps/week or any napping after 18:00). Subjects also were excluded from further participation in the study if they had a history of sleep disordered breathing, restless legs syndrome, narcolepsy, or any parasomnia; or if their first PSG assessment revealed findings consistent with any of these conditions, including an apnea-hypopnea index > 10/h and/or periodic leg movement activity index > 10/h. This was a non-therapeutic study, and enrolled subjects were not treatment seeking.
+
+Healthy volunteers were defined as having Multidimensional Assessment of Fatigue (MAF) score < 20, Epworth Sleepiness Scale (ESS) score < 10, and no symptoms of anxiety or depression, based on Hospital Anxiety and Depression Scale (HADS) anxiety or depression subscale scores < 8, in addition to meeting the above criteria. Subjects enrolling as healthy volunteers were excluded from the study if they reported awakening un-restored or unrefreshed or had a history of subjective sleep latency > 30 min or time awake after sleep onset > 60 min, other than isolated instances.
+
+All subjects provided written informed consent prior to initiation of any study procedures. The study was conducted in accordance with the Declaration of Helsinki and the International Conference on Harmonization Good Clinical Practices Guidelines, and the protocol was approved by institutional review boards for each study center.
+
+### Study Endpoints
+This study was prospectively designed to primarily define the population in which NRS occurs. A combination of subjective measures derived from questionnaires and scales and objective measures derived from PSG recordings were used to profile nighttime sleep and daytime functioning problems experienced by subjects in the study.
+
+Subject-reported outcome measures used to assess sleep included the Pittsburgh Insomnia Rating Scale (PIRS; total score and sleep parameter, quality of life, and symptom distress indices) to assess subjects’ perceptions of their sleep habits and their impact on daily activities, and the Medical Outcomes Study Sleep Scale (MOS-SS; a 12-item scale consisting of sleep disturbance, snoring, awakening short of breath, quantity of sleep, optimal sleep, sleep adequacy, and somnolence subscales).
+
+Daytime functioning was assessed using a variety of measures: The Endicott Work Productivity Scale (EWPS), a validated, self-administered questionnaire, was used to assess the degree to which subjective feelings were likely to reduce productivity and efficiency in work activities. Two novel questionnaires, which are currently in development and are not yet fully validated were included in this study as exploratory endpoints to evaluate domains not addressed by other available questionnaires: the Restorative Sleep Questionnaire (RSQ; a novel scale, being developed to assess how restored an individual feels shortly after getting out of bed) and the Daytime Consequences of Sleep Questionnaire (DCSQ). Two versions of the RSQ were employed: one with a 1-week recall period (RSQ-W), and one administered daily (RSQ-D). The ESS and MAF were used as confirmatory measures of daytime sleepiness and fatigue.
+
+Mood was assessed based on the HADS, and health-related quality of life was assessed using the Short-form 36 Health Survey (SF-36). Finally, the Clinical Global Impression of Severity Objective characterization of sleep was based on PSG assessments of latency to persistent sleep (LPS), wake after sleep onset (WASO), and total sleep time (TST). PSG recordings also permitted exploratory investigation of sleep stage distribution in subjects with NRS. Key parameters of interest were time spent in stage 1 and stage 3/4 sleep.
+
+## Study Design and Procedures
+This was a non-interventional population-based study (rather than a randomized sample) involving a cross-sectional element to profile sleep problems and daytime functioning across different groups of subjects with NRS symptoms, and a longitudinal element to assess the persistence of these symptoms in subjects with NRS over a 3-month period.
+
+## Cohort Assignment and Confirmation
+On Day 1, subjects with NRS symptoms were assigned, based on self-reports of their sleep over the previous 3 months, to one of the following cohorts:
+- subjects with DIS (reported sleep latency > 30 min most nights)
+- subjects with DMS (reported wake after sleep onset > 60 min most nights)
+- subjects with both DIS and DMS
+- subjects with neither DIS nor DMS (NRS-only).
+
+Questionnaires were administered to all subjects, including healthy volunteers, to collect baseline subject-reported data on sleep symptoms and daytime functioning. On Days 8–10, all subjects were evaluated in a sleep laboratory with overnight PSG recordings. The PSG recording period was 8 h each night. Day 8 was an adaptation night to allow subjects to get used to the recording equipment; recordings were used only to identify subjects with sleep related respiratory or movement disorders, narcolepsy, or parasomnias, who were then excluded from further participation in the study, and from analyses of baseline data for their assigned cohorts. Day 9 and 10 PSG recordings were used to derive values for LPS (time from the start of recording to the start of a 10-min period of continuous sleep), WASO (the sum of all time awake from the onset of persistent sleep to the end of the 8-h recording period), and TST. Results were averaged across nights 9 and 10 to generate LPS and WASO values that were used to confirm the initial cohort assignments from Day 1, following verification of PSG results from individual study centers by a central PSG reader. DIS and DMS were defined as mean LPS ≥ 30 min and mean WASO ≥ 60 min, respectively, over the 2 nights. Subjects whose PSG results did not support their initial self-reported cohort classification (“non-matchers”) were excluded from further participation in the study (including healthy volunteers who were found to have prolonged LPS or WASO). Additionally on Day 8, questionnaires were administered to assess sleep symptoms and daytime functioning. One month later, PSG was repeated (2 consecutive nights; Days 38 and 39) and questionnaires were repeated (Day 38), to assess stability of PSG-measured sleep parameters, and persistence of subject-reported complaints.
+
+Following completion of the Day 38 and 39 assessments, subjects with NRS were permitted to use medication to treat sleep related complaints. Subjects returned for 2 further clinic visits at 30-day intervals, on Day 68 and Day 98. Repeat assessments of subject-reported endpoints only (not PSG) were performed at the last 2 visits. Subjects kept sleep diaries every day throughout the week prior to the first PSG assessment (Days 1–8) and throughout the month (Days 11–38) until the second PSG assessment. Entries captured in the diaries included the times subjects went to bed and rose in the morning to ensure they had the opportunity for 6.5–8.5 h sleep; responses to the RSQ-D; and a record of subject-perceived sleep latency, awakenings, and sleep quality (responses to Subjective Sleep Questionnaire items). Diaries were also completed for one week prior to each of the Day 68 and Day 98 clinic visits.
+
+## Statistical Methods
+Scores for each subject-reported endpoint were summarized for each cohort using descriptive statistics (mean, standard deviation [SD], range). For PSG endpoints, LPS, WASO, and TST were expressed in minutes, averaged across 2 consecutive nights of PSG recording (Days 9/10 and 38/39). These values were used to generate descriptive statistics (mean [SD], range) for each cohort. For the analysis of sleep stage distribution, the duration in each stage was considered for the whole recording period and for each hour, and expressed both as the number of minutes in that stage, and as a proportion of total sleep during the 8-h or 1-h period under consideration. Data for each parameter were inspected for qualitative assessment of patterns across cohorts. For subject-reported endpoints that assessed daytime functioning, post hoc statistical tests were applied to compare NRS-only and healthy volunteer cohorts and explore whether observed differences in functional outcomes between these 2 groups were statistically significant, using the Student 2-sample t-test. As these analyses were of post hoc nature, no multiple comparison adjustment was made. Endpoints included in post hoc analyses were: EWPS, RSQ-W, RSQ-D, DCSQ, SF-36 (vitality subscale), and CGIS. Scales that were used to determine eligibility of healthy volunteers (ESS and MAF) were not subjected to post hoc analyses; nor were scales with items focused on sleep rather than daytime functioning (PIRS and MOS-SS) or mood (HADS).
+
+## RESULTS
+
+## Subject Demographics and Disposition
+A total of 579 subjects aged 18–64 years were enrolled in the study. (An additional 2 subjects aged ≥ 65 years were not included in the analyses reported here.) Three hundred one (52%) subjects were subsequently excluded because of PSG evidence of other disorders (n = 34), because PSG results for LPS and WASO did not “match” their historical reports of DIS or DMS (n = 219), or because they did not undergo the Day 8–10 PSG assessment (n = 48; reasons included ceasing to meet other study criteria and withdrawal of consent). The proportions of subjects in each cohort whose PSG results were consistent with their initial cohort assignment (“matchers”) are shown in Table 1. Among subjects describing symptoms of DIS, DMS Table 1—Summary of self-reported and PSG-measured subject disposition
+
+| Cohort                     | DIS | DMS | DIS+DMS | NRS-only | Healthy volunteers | Total |
+|---------------------------|-----|-----|---------|----------|-------------------|-------|
+| Baseline categorization based on self reports | 138 | 44  | 125     | 192      | 80                | 579   |
+| Confirmed by Day 9/10 PSG (“matchers”), n (% of total) | 56 (41) | 18 (41) | 37 (30) | 115 (60) | 52 (65) | 278   |
+| Completed Days 38/39, n (% of matchers) | 51 (91) | 17 (94) | 31 (84) | 110 (96) | 50 (96) | 259 (93) |
+| Completed Day 98, n (% of matchers) | 46 (82) | 15 (83) | 29 (78) | 101 (88) | 50 (96) | 241 (87) |
+
+DIS, difficulty initiating sleep; DMS, difficulty maintaining sleep; NRS, nonrestorative sleep; PSG, polysomnography
+
+Table 2—Subject demographics among subjects with PSG-confirmed cohort assignment
+
+| Cohort                     | DIS (n = 56) | DMS (n = 18) | DIS+DMS (n = 37) | NRS-only (n = 115) | Healthy volunteers (n = 52) | Total (n = 278) |
+|---------------------------|--------------|--------------|------------------|--------------------|-----------------------------|------------------|
+| Gender, n (%)             |              |              |                  |                    |                             |                  |
+| Male                      | 23 (41)      | 3 (17)       | 16 (43)          | 45 (39)            | 14 (27)                    | 101 (36)         |
+| Female                    | 33 (59)      | 15 (83)      | 21 (57)          | 70 (61)            | 38 (73)                    | 177 (64)         |
+| Age, mean (SD)           | 31.9 (10.0)  | 44.8 (10.0)  | 39.7 (10.7)      | 29.6 (8.3)         | 30.2 (9.4)                 | 32.5 (10.3)      |
+| Race, n (%)               |              |              |                  |                    |                             |                  |
+| White                     | 27 (48)      | 6 (33)       | 16 (43)          | 51 (44)            | 40 (77)                    | 140 (50)         |
+| Black                     | 8 (14)       | 8 (44)       | 17 (46)          | 13 (11)            | 2 (4)                      | 48 (17)          |
+| Hispanic                  | 11 (20)      | 2 (11)       | 4 (11)           | 39 (34)            | 7 (13)                     | 63 (23)          |
+| Other                     | 10 (18)      | 2 (11)       | 0 (0)            | 12 (10)            | 3 (6)                      | 27 (10)          |
+
+DIS, difficulty initiating sleep; DMS, difficulty maintaining sleep; NRS, nonrestorative sleep; PSG, polysomnography
+
+Scores on the EWPS showed that work productivity was impaired to a similar degree in subjects with NRS-only and subjects with DIS and/or DMS; all cohorts had worse mean scores than the healthy volunteer group. Post hoc analysis revealed that the mean score in the NRS-only cohort was significantly worse than that in the healthy volunteer group (17.26 versus 3.54). The NRS-only cohort also had significantly worse mean scores than healthy volunteers on the RSQ-W, RSQ-D, and DCSQ. The other cohorts, with NRS symptoms associated with DIS and/or DMS had RSQ and DCSQ scores similar to the NRS-only cohort. This pattern was replicated with ESS and MAF scores. Mean Day 8 ESS scores were 5.9–8.6 in NRS cohorts and 2.4 in the healthy volunteer group; equivalent MAF scores were 23.0–26.7 and 3.0. This may in part reflect the study design, since subjects were excluded from the healthy control group if their baseline ESS and MAF scores exceeded 10 and 20, respectively. However, considering only the cohorts with sleep disorders, the results confirmed that subjects with NRS-only suffer from NRS as a distinct component of insomnia. levels of sleepiness and fatigue comparable to                  | Cohort          | Healthy volunteers |
+|---------------------|----------------|----------------|----------------|----------------|----------------|
+|                     | DIS (n = 56)   | DMS (n = 18)   | DIS+DMS (n = 37) | NRS-only (n = 115) |                |
+| PIRS                |                |                |                |                |                |
+| Total score         | 61.5 (24.9)    | 68.7 (30.1)    | 76.4 (26.2)    | 44.6 (26.6)    | 4.7 (6.0)      |
+| Sleep parameters index | 11.0 (3.6)  | 12.7 (4.2)     | 17.2 (3.6)     | 4.8 (2.8)      | 1.2 (1.7)      |
+| Symptom distress index | 36.7 (19.4) | 40.2 (23.4)    | 42.4 (22.9)    | 28.1 (20.5)    | 1.6 (2.7)      |
+| Quality of life index | 14.5 (4.9)   | 15.8 (4.9)     | 16.8 (3.7)     | 12.0 (5.3)     | 2.0 (2.9)      |
+| MOS-SS              |                |                |                |                |                |
+| MOS Summary 9-item  | 46.5 (13.7)    | 42.5 (13.0)    | 57.8 (10.3)    | 27.7 (12.8)    | 4.9 (6.7)      |
+| Sleep disturbance    | 42.7 (15.9)   | 32.9 (16.6)    | 70.5 (12.9)    | 10.8 (14.9)    | 2.2 (5.9)      |
+| Snoring             | 9.1 (19.9)     | 12.2 (17.0)    | 13.5 (20.6)    | 6.1 (13.3)     | 1.5 (5.4)      |
+| Awaken short of breath | 9.3 (23.8)  | 10.0 (15.7)    | 4.3 (11.7)     | 5.4 (15.1)     | 0.0 (0.0)      |
+| Quantity            | 6.4 (0.9)      | 5.4 (1.2)      | 5.1 (1.0)      | 7.7 (4.0)      | 7.6 (0.6)      |
+| Optimal             | 0.5 (0.5)      | 0.1 (0.2)      | 0.1 (0.2)      | 0.8 (0.4)      | 1.0 (0.2)      |
+| Adequacy            | 23.4 (23.6)    | 20.6 (19.2)    | 20.5 (21.2)    | 38.5 (24.8)    | 85.2 (24.1)    |
+| Somnolence          | 34.1 (19.4)    | 31.5 (20.0)    | 28.3 (18.7)    | 32.8 (22.7)    | 3.7 (5.3)      |
+
+Quality of life, as assessed using the SF-36, was affected to a similar degree in all NRS cohorts, with a lower score relative to healthy volunteers on both mental (48.5–50.9 versus 59.0) and physical (48.5–54.0 versus 58.2) components of the scale at Day 8. The domain that showed the greatest deficits in subjects with NRS symptoms (with or without DIS/DMS) was vitality: the mean Day 8 score in the NRS-only cohort was 48.3, compared with 88.2 for healthy volunteers; mean Day 8 scores in the DIS, DMS, and DIS+DMS cohorts were consistent with those in the NRS-only group, at 49.1, 44.1, and 50.7, respectively. It is not clear whether the exclusion of subjects with significant fatigue or sleepiness (MAF scores > 20, ESS scores > 10) from the healthy volunteer group affected scores on the SF-36 vitality scale.
+
+One clinician-rated endpoint, the CGIS, was included in this study. On average, clinicians rated DIS and DMS symptoms as more severe than NRS-only (with the greatest severity scores assigned to subjects with both DIS and DMS). Nonetheless, clinicians did recognize the impact of NRS-only and rated symptom severity as significantly worse in this group than healthy volunteers.
+
+Considered together, the subject-reported and PSG endpoints described here show that, despite adequate sleep duration with no DIS or DMS (as confirmed with PSG), subjects with NRS-only exhibited a level of daytime functional impairment similar to that seen in subjects with DIS and/or DMS.
+
+PSG confirmation of presence or absence of DIS/DMS
+PSG results on Day 9/10 for “matchers” (following exclusion of subjects with discrepancies between subject-reported and PSG assessment of DIS or DMS) confirmed that mean LPS was similar in the NRS-only and healthy volunteer cohorts (13 min and 10 min, respectively), compared with 62 and 66 min in the DIS and DIS+DMS cohorts, respectively. Mean WASO was also similar in the NRS-only cohort and healthy subjects (32 min and 30 min, respectively), compared with 94 and 96 min in the DMS and DIS+DMS cohorts, respectively. Thus, PSG recordings of LPS and WASO confirmed a lack of sleep onset/maintenance problems in the NRS-only cohort, as required for confirmation of assignment to the cohort. Overall sleep duration appeared “normal” in the NRS-only cohort, at 438 min, compared with 442 min in the healthy volunteer group, and 325–386 min in the DIS, DMS, and DIS+DMS cohorts.
+
+Within each cohort, mean PSG parameters were similar at Day 38/39 to Day 9/10. A higher proportion of NRS-only subjects retained the same PSG-based cohort classification (no DIS/DMS) one month after the initial PSG assessment than subjects with DIS, DMS, or DIS+DMS (78% versus 59%, 59%, and 39%, respectively). In the healthy control group, 86% of subjects retained normal PSG-measured sleep parameters. Scores on questionnaires were similar at Day 38 to Day 8 within each cohort, and the pattern of elevated scores in NRS, DIS, DMS, and DIS/DMS cohorts compared with healthy volunteers was retained for EWPS, RSQ-W, RSQ-D, DCSQ, and CGIS, and all additional questionnaires and scales. Figure 2—Restorative sleep and daytime consequences in subjects with NRS symptoms, with and without DIS/DMS, and healthy volunteers, mean (SD) scores on the Restorative Sleep Questionnaire (RSQ)-Weekly (A), RSQ-Daily (B), and Daytime Consequences of Sleep Questionnaire (DCSQ) (C)
+
+DIS, difficulty initiating sleep; DMS, difficulty maintaining sleep; NRS, nonrestorative sleep; SD, standard deviation
+
+| Group         | RSQ-Weekly Mean (SD) | RSQ-Daily Mean (SD) | DCSQ Mean (SD) |
+|---------------|-----------------------|----------------------|-----------------|
+| DIS           |                       |                      |                 |
+| DMS           |                       |                      |                 |
+| DIS+DMS      |                       |                      |                 |
+| NRS-only      |                       |                      |                 |
+| Healthy Volunteers |                 |                      |                 |
+
+Figure 3—Clinician-rated symptom severity for subjects with DIS, DMS, DIS+DMS, and NRS-only, and healthy volunteers, mean (SD) Clinical Global Impression of Severity (CGIS) scores.
+
+DIS, difficulty initiating sleep; DMS, difficulty maintaining sleep; NRS, nonrestorative sleep; SD, standard deviation
+
+| Group         | CGIS Mean (SD) |
+|---------------|----------------|
+| DIS           |                |
+| DMS           |                |
+| DIS+DMS      |                |
+| NRS-only      |                |
+| Healthy Volunteers |            |
+
+Figure 4—Polysomnography-measured sleep parameters in DIS, DMS, DIS+DMS, NRS-only, and healthy volunteer cohorts, latency to persistent sleep (LPS) (A) and wake after sleep onset (WASO) (B)
+
+DIS, difficulty initiating sleep; DMS, difficulty maintaining sleep; NRS, nonrestorative sleep described above (data not shown). Thus it appears that symptoms affecting daytime functioning persisted in the continued absence of DIS or DMS in the majority of subjects with NRS-only over a 1-month period.
+Subject-reported symptoms persisted further, over the entire 3-month study period, in the NRS-only, DIS, DMS, and DIS/DMS cohorts. There was a trend towards slight improvements over time in scores on several scales (shown for EWPS, RSQ, and DCSQ in Figures 1 and 2), which could relate to changes in sleep patterns in some subjects (as subjects who did not retain the same PSG findings at Day 38/39 to Day 9/10 were not reassigned to different groups). However, there remained substantial differences in mean scores between NRS cohorts and healthy volunteers for most endpoints, indicating that symptoms persisted in many subjects. Although the protocol permitted the use of insomnia medication in Months 2 and 3, no subjects in any cohort initiated treatment, so the slight improvements noted above were not attributable to medication.
+Exploration of PSG Correlates of NRS on the basis of sleep parameters such as LPS, WASO, and TST; having comparable sleep latency, continuity, and duration to healthy volunteers. In an attempt to identify a possible objective basis to distinguish NRS-only subjects from healthy volunteers, an exploratory analysis of time in stage 1 and stage 3/4 sleep was performed. Average time spent in stage 1 sleep varied across cohorts with total sleep time, and the proportion was slightly higher in DMS and DIS+DMS cohorts than other groups, but was similar in the NRS-only and healthy volunteer groups (Table 5). NRS-only subjects spent 10.45 min less in stage 3/4 sleep than healthy volunteers over the 8-h sleep period. Although the overall difference was small, there were apparent differences in the distribution of stage 3/4 sleep across the night, with the most marked reduction in the NRS-only cohort relative to healthy volunteers observed in the first hour of the night (Figure 5A). The amount of stage 3/4 sleep declined through the night in all groups and was similarly low in all groups in the latter part of the night. The overall time in stage 3/4 sleep was also reduced in DIS, DMS, and DIS+DMS cohorts relative to healthy volunteers, which may reflect both reductions in total sleep time and increases in the proportion of stage 1 sleep. When the proportion rather than the absolute amount of time in stage 3/4 was considered, the lowest proportion of stage 3/4 sleep was seen in subjects with DMS or DIS+DMS (the converse of the pattern seen for stage 1 sleep). Latency to stage 3/4 sleep was increased in the DMS and DIS+DMS cohorts, suggesting that DMS, rather than NRS, was a factor in increased latency to stage 3/4 sleep.
+Time spent in REM sleep generally decreased across all NRS cohorts compared with healthy volunteers (Table 5), particularly in DIS, DMS, and DIS+DMS. Analysis of the distribution of
+
+Table 5—Time spent in stage 1 and stage 3/4 sleep, latency to stage 3/4 sleep, REM sleep, latency to REM sleep, and arousals, in DIS, DMS, DIS+DMS, and NRS-only cohorts and healthy volunteers (Day 9/10 PSG assessments; mean [SD])
+
+| Cohort          | Healthy volunteers |
+|------------------|------------------|
+|                  | DIS (n = 56)     | DMS (n = 18)     | DIS+DMS (n = 37) | NRS-only (n = 115) |
+|------------------|------------------|------------------|------------------|------------------|
+| Stage 1          |                  |                  |                  |                  |
+| Time, min        | 26.2 (11.0)      | 38.5 (13.0)      | 36.6 (15.8)      | 32.2 (13.9)      | 31.6 (12.9)      |
+| Proportion of TST, % | 6.9 (2.9)       | 10.3 (3.6)       | 11.8 (6.1)       | 7.4 (3.3)       | 7.2 (3.0)       |
+| Stage 3/4       |                  |                  |                  |                  |
+| Time, min        | 59.9 (35.7)      | 38.2 (29.2)      | 30.2 (25.1)      | 59.7 (32.5)      | 70.1 (25.4)      |
+| Proportion of TST, % | 15.5 (9.3)      | 10.6 (8.2)       | 9.1 (7.2)        | 13.6 (7.3)      | 15.9 (5.7)       |
+| Latency to stage 3/4 |                  |                  |                  |                  |
+| Time, min        | 17.7 (13.9)      | 27.1 (28.9)      | 37.3 (35.2)      | 17.1 (12.1)      | 13.5 (5.6)       |
+| REM              |                  |                  |                  |                  |
+| Time, min        | 77.8 (17.2)      | 74.4 (18.6)      | 60.2 (21.3)      | 89.2 (20.2)      | 95.1 (20.1)      |
+| Proportion of TST, % | 20.1 (3.8)       | 19.7 (4.8)       | 18.2 (6.1)       | 20.3 (4.4)       | 21.5 (4.4)       |
+| Latency to REM   |                  |                  |                  |                  |
+| Time, minutes    | 81.4 (29.5)      | 73.9 (32.0)      | 82.0 (60.8)      | 84.6 (34.3)      | 80.2 (25.6)      |
+| Arousals         |                  |                  |                  |                  |
+| Total number of arousals | 46.9 (22.6)      | 55.5 (21.3)      | 47.3 (22.1)      | 51.1 (26.4)      | 57.3 (26.5)      |
+| Arousals per hour of TST | 7.30            | 8.84            | 8.73            | 7.00            | 7.77            |
+
+DIS, difficulty initiating sleep; DMS, difficulty maintaining sleep; NRS, nonrestorative sleep; TST, total sleep time | Cohort         | DIS (n = 56) | DMS (n = 18) | DIS+DMS (n = 37) | NRS-only (n = 115) | Healthy volunteers (n = 52) |
+|----------------|--------------|--------------|-------------------|---------------------|-----------------------------|
+| Mean (SD)      | 7.8 (4.6)    | 13.4 (10.9)  | 10.57 (8.9)       | 8.3 (4.9)           | 7.7 (5.3)                   |
+
+RDI, respiratory disturbance index; PAT, peripheral arterial tonometry; DIS, difficulty initiating sleep; DMS, difficulty maintaining sleep; NRS, nonrestorative sleep; TST, total sleep time
+
+REM sleep across the night also revealed that the DIS+DMS cohort experienced less REM sleep. Similar to stage 3/4 sleep duration, there was a modest decrease in REM sleep in the NRS-only cohort compared to healthy volunteers (5.9 min over the 8-h period). In contrast, latency to REM did not increase across all NRS cohorts. Absolute time and proportion of time spent in stage 3/4, stage 1, REM sleep, and latency to stage 3/4 and REM sleep are shown in Table 5. Table 5 also shows the average number of arousals and number of arousals per hour of total sleep time for each cohort, which support the suggestion of a relationship between number of arousals, reduced time in stage 3/4 sleep, and increased time in stage 1 sleep. In this study, the data for time spent in different sleep stages were quite variable, and further analysis of PSG data from subjects with NRS is required to determine if there is statistical or clinical significance to these findings that suggest alteration in the distribution of stage 3/4 sleep in NRS. The respiratory disturbance index (RDI), as assessed by peripheral arterial tonometry, was similar across groups, showing a marginal increase in those subjects with DMS. The low RDI across the cohorts was probably due to the fact that patients with sleep apnea were excluded from the study.
+
+This population-based study highlights a cohort of subjects, in whom PSG demonstrates an absence of long sleep latencies or elevated wake time during sleep, yet whose NRS symptoms are associated with persistent daytime functional impairment. Subjects with NRS exhibited daytime symptoms across a range of domains including impaired work productivity, sleepiness, and fatigue. These symptoms were of similar severity and had a comparable impact on quality of life in subjects with NRS-only and those who also had DIS and/or DMS.
+
+The exclusion criteria used in this study ruled out potential causes of NRS, such as chronic sleep restriction, sleep apnea, periodic limb movements or restless legs syndrome (the absence of which were confirmed by PSG), and medical conditions associated with NRS. Sleep deprivation was also excluded as a potential cause of NRS-like symptoms, based on sleep histories taken at screening and the requirement that subjects maintain a regular sleep-wake schedule throughout the study; this was further validated by absence of elevated TST relative to healthy volunteers. In addition, RDI was similar across groups and thus can be discounted as a potential cause of NRS. Therefore, it appears that subjects’ reports of NRS in the absence of DIS/DMS do not simply reflect symptoms of another underlying disorder, but a distinct condition with detrimental consequences in terms of patients’ well-being and functional ability, comparable to the consequences of other sleep problems in insomnia. The finding that the many non-PSG aspects of the presentation of NRS-only are similar to symptoms associated with other components of insomnia is consistent with the varied diagnostic characterization of the insomnia complex.
+
+Clinician ratings of symptom severity indicated a perception that NRS in the absence of DIS or DMS is not as severe as these more commonly diagnosed sleep problems. However, many of the subject-reported endpoints measured in this study, particularly those that focused on daytime rather than nighttime problems, revealed that subjects’ own experience of NRS had as much impact when it occurred alone as when it was associated with DIS or DMS. Both clinician- and subject-rated functional outcomes were significantly worse in subjects with NRS-only than in healthy volunteers. It is highly likely that clinician ratings of overall severity are influenced by the number of nighttime as well as daytime symptoms. By definition, subjects with NRS-only will therefore be rated as having less severe symptoms than other insomnia patients. This possibility warrants further investigation of the clinician severity ratings used to assess insomnia populations.
+
+In all insomnia groups, daytime symptoms were persistent over 1 to 3 months’ follow up, with only a hint of a decline in average symptom severity. In addition, NRS-only appeared to be relatively stable, with 78% retaining the same PSG-based classification one month after the initial PSG assessment. In contrast, approximately 40% of subjects in each of the DIS and DMS cohorts, and 60% of subjects who exhibited both DIS and DMS at the first PSG assessment, no longer showed the same sleep patterns on repeat PSG assessment. We have not determined, in our analyses to date, in what proportion of subjects this reflects resolution of DIS/DMS, versus changing symptomatology (i.e., switching between initiation and maintenance difficulties). It would be of interest in future studies to follow subjects over a longer period, and determine the rate of switching between different symptom sets, with repeat PSG assessments at intervals in conjunction with repeated assessment of subject reports of NRS. In the current study, 14% of healthy volunteer subjects developed DIS/DMS, as determined by the PSG criteria defined for this study, at least transiently, one month after the initial assessment.
+
+By identifying a “pure NRS” population, and characterizing the daytime symptoms they experience, this study provides empirical data on NRS that has thus far been lacking. Indeed, a recent review article by Stone et al. called out for such data and suggested that studying the differences in the EEG patterns of comparison groups would help establish an appropriate conceptualization for NRS; this could add credence to NRS as a distinct entity. We have begun to characterize NRS, although we acknowledge some limitations to this study, including the post hoc nature of statistical comparisons. In addition, this study relied on a match between self-reported cohort classification and PSG data to confirm a diagnosis of NRS, which resulted in the exclusion of a large percentage of patients. Further research in studies powered for comparisons across groups will help further to characterize NRS, and assess the impact of NRS-only. relative to that associated with DIS and/or DMS. Nonetheless, our analyses have demonstrated that NRS symptoms occurring in the absence of DIS or DMS are associated with significant impairment of daytime functioning, based on comparisons with healthy volunteers. Healthy volunteer comparisons were confounded for endpoints derived from scales that formed part of the inclusion/exclusion criteria for healthy volunteers—ESS, MAF, and HADS. Nonetheless, these endpoints supported the finding from daytime functioning endpoints that symptom severity was consistently similar in all groups of subjects with NRS, with or without DIS/DMS. This suggests that any associations between NRS and sleepiness, fatigue, anxiety, and depression persist in patients who do not exhibit DIS or DMS.
+
+A final limitation to our study is that we were not able to obtain positive validation of NRS, only to exclude other known possibilities. It is hypothesized that a relationship may exist between slow wave sleep and perception of the restorative nature of sleep, and our exploration of potential PSG correlates of NRS focused on time in stage 3/4 sleep. The difference between NRS-only subjects and healthy volunteers was small, with an average of approximately 10.5 minutes less stage 3/4 sleep for NRS-only subjects over the 8-h sleep period. The difference was more marked in the early part of the night, suggesting an abnormality of the distribution of stage 3/4 sleep across the night; however, prospectively designed studies would be required to clarify whether there is real and consistent reduction of stage 3/4 sleep in NRS. The total amount and proportion of stage 3/4 sleep was reduced to a greater extent in DMS cohorts (DMS alone and DIS+DMS). This was accompanied by an increase in stage 1 sleep time and in the frequency of arousals, and likely reflects fragmentation of sleep in these groups reducing the opportunity to reach “deep” stage 3/4 sleep. This points to another potentially important consideration for improving the restorative nature of sleep in the sizeable segment of the insomnia population affected by sleep maintenance difficulties. Experimental sleep fragmentation studies have shown that sleep fragmentation reduces daytime alertness and other measures of restoration, even when total sleep time is minimally reduced. Therefore, improving sleep continuity/reducing fragmentation could improve patients’ perceptions of restorative sleep not only by increasing the total time asleep, but also by rectifying a distortion in sleep architecture. A recent study revealed that many subjects with insomnia, including NRS, do not fit into the classifications of the 4th edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV) and the International Classification of Sleep Disorders (ICSD). The authors emphasized that diagnostic criteria and measurements need to be identified for a valid, clinically relevant classification of insomnia. The present study has added to our understanding of NRS, which may go some way to address this challenge.
+
+Much progress remains to be made in elucidating the mechanisms underlying NRS, as well as clarifying other features of the condition such as its incidence, prevalence, and risk factors. (It should be noted that the relative cohort sizes in this study do not reflect the prevalence of NRS relative to DIS and DMS, as enrollment was based on set criteria rather than random sampling, so no conclusions on the epidemiology of NRS can be drawn from this study.) Nonetheless, this study has provided support for the existence of NRS as a distinct component of insomnia, not simply a symptom of other sleep disorders. Objective confirmation that in many cases self-reports of NRS cannot be attributed to DIS/DMS suggests that treatment of insomnia should go beyond improving sleep onset and maintenance and should target all insomnia domains. By defining the NRS population as a group affected by significant burden, comparable to that associated with other core components of insomnia, this study highlights the relevance of pursuing research into NRS, including its prevalence, how best to evaluate its severity and associated burden, and assessment of the efficacy of current behavioral and pharmacological insomnia treatments in improving NRS, as well as development of new treatments targeting NRS. Aventis, AVER, BMS, BTG, Cephalon, Cypress, Dove, Elan,
+Eli Lilly, Evotec, Forest, GlaxoSmithKline, Hypnion, Impax,
+Intec, Intra-Cellular, Jazz, Johnson & Johnson, King, Lundbeck,
+McNeil, MediciNova, Merck, Neurim, Neurocrine, Neurogen,
+Novartis, Orexo, Organon, Prestwick, Procter & Gamble, Pfizer,
+Purdue, Resteva, Roche, Sanofi, Schering-Plough, Sepracor,
+Servier, Shire, Somaxon, Syrex, Takeda, TransOral, Vanda, Vi-
+vometrics, Wyeth, Yamanuchi, and Xenoport; and has partici-
+pated in speaking engagements supported by Cephalon, Sanofi,
+and Takeda. Dr. Zammit has received grants/research support
+from Actelion, Ancil, Arena, Aventis, Cephalon, Elan, Epix,
+Evotec, Forest, GlaxoSmithKline, H. Lundbeck A/S, King,
+Merck and Co., National Institute of Health (NIH), Neurim,
+Neurocrine Biosciences, Neurogen, Organon, Orphan Medical,
+Pfizer, Respironics, Sanofi-Aventis, Sanofi-Synthelabo, Scher-
+ing-Plough, Sepracor, Somaxon, Takeda, Targacept, Transcept,
+UCB Pharma, Predix, Vanda, and Wyeth-Ayerst Research; has
+acted as a consultant to Actelion, Alexza, Arena, Aventis, Bio-
+vail, Boehringer-Ingelheim, Cephalon, Elan, Eli Lilly, Evotec,
+Forest, GlaxoSmithKline, Jazz, King Pharmaceuticals, Ligand,
+McNeil, Merck, Neurocrine Biosciences, Organon, Pfizer, Ren-
+ovis, Sanofi-Aventis, Select Comfort, Sepracor, Shire, Somnus,
+Takeda, Vela, and Wyeth; has received honoraria from Neuro-
+crine Biosciences, King Pharmaceuticals, McNeil, Sanofi-Aven-
+tis, Sanofi-Synthelabo, Sepracor, Takeda, Vela Pharmaceuticals,
+and Wyeth-Ayerst Research; and holds ownership/directorship
+of Clinilabs, Inc. (the company contracted by Pfizer to provide
+central PSG data services for this study), Clinilabs IPA, Inc.,
+and Clinilabs Physician Services, PC. Dr. Lankford has received
+research funding from Actelion, Arena, Cephalon, Evotec,
+GlaxoSmithKline, Lilly, Merck, Neurim, Neurocrine, Neuro-
+gen, Organon, Pfizer, Respironics, Sanofi-Aventis, Schering-
+Plough, Sepracor, Somaxon, Takeda, Transcept, Vanda; and
+has served on advisory boards or as a consultant for Actelion,
+Cephalon, Concert, GlaxoSmithKline, Neurocrine, Neurogen,
+Ovation, Pfizer, Somaxon, Transcept, and on speakers bureau
+for Jazz Pharmaceuticals and Somaxon. Dr. Mayleben is a prin-
+cipal owner in Community Research, a company that contracted
+with Pfizer to conduct this study. Community Research has also
+conducted studies sponsored by Abbott, Actelion, GlaxoSmith-
+and Wyeth. Drs. Pitman and Clark are full-time employees of
+Pfizer Inc. Drs. Werth and Stern were employees of Pfizer Inc. at
+the time this study was conducted. 

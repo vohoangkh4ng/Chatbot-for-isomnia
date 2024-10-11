@@ -1,0 +1,3 @@
+# Title: Associations of Sleep with Food Cravings, Diet, and Obesity in Adolescence
+
+## Summary: This study investigates the relationships between sleep characteristics, dietary intake, and obesity in adolescents, focusing on the role of food cravings. It finds that poor sleep is linked to increased food cravings and lower dietary quality, while sleep duration negatively correlates with body mass index (BMI) z-scores. The research highlights the importance of sleep in influencing obesogenic behaviors among adolescents, suggesting that improving sleep may help mitigate unhealthy eating patterns and obesity.

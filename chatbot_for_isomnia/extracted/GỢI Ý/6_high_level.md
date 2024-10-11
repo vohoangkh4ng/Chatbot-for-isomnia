@@ -1,0 +1,3 @@
+# Title: Cognitive effects of split and continuous sleep schedules in adolescents differ according to total sleep opportunity
+
+## Summary: This article investigates the cognitive functions of adolescents who follow split sleep schedules (nocturnal sleep plus a daytime nap) compared to those who maintain continuous nocturnal sleep. The study finds that when total sleep opportunity is below the recommended 8 hours, split sleep can enhance cognitive performance. However, when total sleep reaches 8 hours, both sleep schedules yield similar cognitive outcomes. The findings suggest that adolescents may benefit from a split sleep schedule without compromising cognitive functions, particularly when total sleep is insufficient.

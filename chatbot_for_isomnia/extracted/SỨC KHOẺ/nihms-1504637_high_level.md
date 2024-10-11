@@ -1,0 +1,3 @@
+# Title: Neighborhood Economic Deprivation and Social Fragmentation: Associations with Children’s Sleep
+
+## Summary: This study investigates the impact of neighborhood economic deprivation and social fragmentation on children's sleep quality and duration. It analyzes data from 210 children in Alabama, revealing that higher levels of economic deprivation correlate with fewer sleep minutes and poorer sleep efficiency. Additionally, increased social fragmentation is linked to lower sleep efficiency. The findings suggest that both community context and individual factors are crucial in understanding children's sleep patterns.

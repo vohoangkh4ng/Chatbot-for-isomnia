@@ -1,0 +1,3 @@
+# Title: A Multi-Step pathway Connecting Short Sleep Duration to Daytime Somnolence, Reduced Attention, and Poor Academic Performance: An Exploratory Cross-Sectional Study in Teenagers
+
+## Summary: This study explores the relationships between short sleep duration, daytime somnolence, attention levels, and academic performance in teenagers. It highlights that insufficient sleep is linked to increased daytime sleepiness, which negatively impacts attention and, consequently, academic achievements. The research indicates that short sleep duration leads to daytime somnolence, which in turn affects attention and academic performance, suggesting that promoting adequate sleep is crucial for cognitive functioning in adolescents.

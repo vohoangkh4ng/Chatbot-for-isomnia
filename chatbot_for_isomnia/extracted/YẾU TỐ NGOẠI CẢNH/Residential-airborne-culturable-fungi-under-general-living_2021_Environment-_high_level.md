@@ -1,0 +1,3 @@
+# Title: Residential airborne culturable fungi under general living scenario: On-site investigation in 12 typical cities, China
+
+## Summary: This study investigates the presence and characteristics of residential airborne culturable fungi (RAF) across 12 cities in China, highlighting the potential health risks associated with these fungi. The research identifies various influencing factors, including environmental pollutants, architectural features, and lifestyle behaviors, that correlate with RAF levels. The findings provide a baseline for understanding RAF distribution and suggest evidence-based strategies for managing residential airborne fungi in China.

@@ -1,0 +1,3 @@
+# Title: Nonrestorative Sleep as a Distinct Component of Insomnia
+
+## Summary: This article investigates nonrestorative sleep (NRS) as a significant aspect of insomnia, distinct from difficulties initiating and maintaining sleep (DIS/DMS). The study aims to explore the characteristics of NRS in various subgroups of individuals, assess its occurrence independent of DIS/DMS, and evaluate its impact on daytime functioning. Conducted across 28 sleep centers in the US, the research involved participants reporting NRS symptoms and revealed that individuals with NRS-only experienced severe daytime impairments comparable to those with DIS or DMS. The findings underscore the need for further research on NRS, which is often overlooked in insomnia diagnoses and treatment.

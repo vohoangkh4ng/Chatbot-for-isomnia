@@ -1,0 +1,3 @@
+# Title: How Concentration Shields Against Distraction
+
+## Summary: This article discusses the relationship between concentration and distraction, proposing that higher levels of concentration reduce susceptibility to distractions. It identifies two main reasons for this effect: first, increased concentration diminishes the processing of background stimuli, and second, it strengthens the focus of attention. The authors explore how factors such as task difficulty and motivation influence concentration levels and highlight the implications of their findings for understanding attentional engagement in various contexts.

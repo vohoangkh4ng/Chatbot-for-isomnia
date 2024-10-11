@@ -1,0 +1,3 @@
+# Title: Associations between positive and negative social media experiences and sleep disturbance among young adults
+
+## Summary: This article investigates the relationship between social media experiences—both positive and negative—and sleep disturbances in a national survey of young adults in the U.S. The study found that high levels of negative social media experiences were significantly associated with increased odds of sleep disturbance, while positive experiences did not show a similar association. The authors suggest that further research into the impact of negative social media interactions on sleep quality is necessary.

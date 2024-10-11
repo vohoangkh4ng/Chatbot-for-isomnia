@@ -1,0 +1,3 @@
+# Title: Sleep, Growth, and Puberty After 2 Years of Prolonged-Release Melatonin in Children With Autism Spectrum Disorder
+
+## Summary: This article investigates the long-term effects of pediatric prolonged-release melatonin (PedPRM) on sleep, growth, body mass index, and pubertal development in children with autism spectrum disorder. Following a previous short-term study that demonstrated the efficacy and safety of PedPRM for insomnia, this research examines its impact over a two-year period on a cohort of eighty children and adolescents aged 2 to 17.5 years.

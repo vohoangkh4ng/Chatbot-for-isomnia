@@ -1,0 +1,3 @@
+# Title: Increased rates of brain protein synthesis during [N1,N2] sleep: L-[1-11 C]leucine
+
+## Summary: This article investigates the rates of regional cerebral protein synthesis (rCPS) during different sleep states in human subjects. Using L-[1-11C]leucine positron emission tomography (PET) scans, the study compares rCPS in three conditions: rested awake, sleep-deprived awake, and during sleep. The findings indicate that rCPS is significantly higher during combined N1 and N2 sleep stages compared to N3 sleep, suggesting that non-REM sleep facilitates increased protein synthesis, which is essential for memory consolidation.

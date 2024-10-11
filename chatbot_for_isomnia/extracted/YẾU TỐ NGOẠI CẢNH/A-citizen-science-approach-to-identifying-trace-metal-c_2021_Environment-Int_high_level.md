@@ -1,0 +1,3 @@
+# Title: A citizen science approach to identifying trace metal contamination risks in urban gardens
+
+## Summary: The article discusses the VegeSafe program, launched in 2013, which enables Australians to analyze garden soils for trace metal contamination at little to no cost. The program received over 17,000 soil samples, revealing that 35% of homes, particularly older ones in inner cities, had lead levels exceeding safety guidelines. The findings highlight significant public health risks and demonstrate the program's success in educating participants about contaminants, with many taking remedial actions based on their results. The study emphasizes the importance of citizen science in addressing environmental health issues related to urban gardening.

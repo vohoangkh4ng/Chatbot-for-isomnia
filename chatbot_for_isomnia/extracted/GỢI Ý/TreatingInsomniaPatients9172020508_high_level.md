@@ -1,0 +1,3 @@
+# Title: Treating Insomnia with Behavior Change: A Patient’s Guide
+
+## Summary: This article discusses chronic insomnia disorder, characterized by difficulty sleeping at least three nights a week for over three months, and its impact on daily life. It highlights effective behavioral therapies, specifically Cognitive Behavioral Therapy for Insomnia (CBT-I) and Brief Behavioral Therapy for Insomnia (BBT-I), as recommended treatments. The article outlines the components and differences between CBT-I and BBT-I, emphasizing the importance of addressing sleep-specific thoughts and behaviors to improve sleep quality.

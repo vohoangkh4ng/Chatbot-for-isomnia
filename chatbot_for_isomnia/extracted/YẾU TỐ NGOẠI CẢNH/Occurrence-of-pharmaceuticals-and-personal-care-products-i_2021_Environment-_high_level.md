@@ -1,0 +1,3 @@
+# Title: Occurrence of pharmaceuticals and personal care products in bottled water and assessment of the associated risks
+
+## Summary: This article investigates the presence of 187 pharmaceuticals and personal care products (PPCPs) in bottled water samples from both Chinese and foreign brands. The study found that 44 compounds from 14 PPCP categories were detected in over 80% of the samples, with macrolides being the most prevalent. Although the risk quotients for detected PPCPs were generally low, certain compounds posed higher risks for infants. The article emphasizes the need for further research on the toxicity of PPCP mixtures and their potential effects on human health, particularly concerning gut microbiota and the development of drug-resistant bacteria.

@@ -1,0 +1,3 @@
+# Title: Effect of Sleep Deprivation on the Academic Performance and Cognitive Functions among the College Students: A Cross Sectional Study
+
+## Summary: This article investigates the impact of sleep deprivation on the academic performance and cognitive functions of college students through a cross-sectional study. It highlights the significance of adequate sleep for optimal cognitive functioning and academic success, providing insights into the relationship between sleep patterns and student performance.

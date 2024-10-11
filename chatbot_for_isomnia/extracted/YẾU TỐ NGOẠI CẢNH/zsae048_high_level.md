@@ -1,0 +1,3 @@
+# Title: Data-driven, generalizable prediction of adolescent sleep disturbances in the multisite Adolescent Brain Cognitive Development Study
+
+## Summary: This article investigates the prevalence and associations of sleep disturbances in adolescents, utilizing data from the Adolescent Brain Cognitive Development Study. Through canonical correlation analysis, the study identifies significant links between sleep issues, such as difficulty initiating sleep and excessive daytime sleepiness, and various psychological and demographic factors. The findings highlight the interconnectedness of sleep disturbances with mental health and social variables, demonstrating robustness across multiple sites and follow-up data.

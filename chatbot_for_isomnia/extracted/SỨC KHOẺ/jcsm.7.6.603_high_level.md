@@ -1,0 +1,3 @@
+# Title: Pediatric Periodic Limb Movement Disorder: Sleep Symptom and Polysomnographic Correlates Compared to Obstructive Sleep Apnea
+
+## Summary: This study investigates the prevalence and characteristics of pediatric periodic limb movement disorder (PLMD) in a large case series, comparing it to obstructive sleep apnea (OSA). The research identifies that PLMD is common among referred children, with significant clinical correlates such as sleep disturbances, leg discomfort, and parasomnias. The findings suggest that PLMD is a distinct pediatric sleep disorder, differing from OSA, and highlight the need for clinicians to recognize its unique features and implications for treatment.

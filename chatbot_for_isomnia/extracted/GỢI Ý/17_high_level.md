@@ -1,0 +1,3 @@
+# Title: Medicinal Plants Used for Anxiety, Depression, or Stress Treatment: An Update
+
+## Summary: This article reviews the use of medicinal plants for treating anxiety, depression, and stress, highlighting the increasing preference for herbal products due to the adverse effects of pharmacological therapies. It discusses various plants such as lavender, hops, and St. John’s wort, which have shown efficacy in clinical trials, while also addressing safety concerns and the need for further research to validate their mechanisms of action. The article emphasizes the rising prevalence of mental disorders globally and the importance of exploring safe and effective herbal treatments.

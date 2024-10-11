@@ -1,0 +1,3 @@
+# Title: What Would You Do Without Your Smartphone? Adolescents’ Social Media Usage, Locus of Control, and Loneliness as a Predictor of Nomophobia
+
+## Summary: This study investigates the relationship between adolescents' smartphone usage, nomophobia (the fear of being without a smartphone), and various psychological factors such as social media addiction and locus of control. Conducted with a sample of 786 middle school students, the research employs quantitative analysis to reveal that social media addiction is strongly correlated with higher levels of nomophobia, while locus of control shows a weaker correlation. The findings highlight the growing issue of smartphone addiction among adolescents and provide recommendations for addressing nomophobic behaviors.

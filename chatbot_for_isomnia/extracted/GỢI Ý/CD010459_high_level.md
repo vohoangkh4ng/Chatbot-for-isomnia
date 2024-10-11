@@ -1,0 +1,3 @@
+# Title: Listening to music for insomnia in adults (Review)
+
+## Summary: This article reviews the effects of listening to music as a potential intervention for insomnia in adults. It evaluates the evidence from various studies to determine the efficacy of music in improving sleep quality and reducing insomnia symptoms. The review aims to provide insights into how music may serve as a non-pharmacological treatment option for individuals struggling with sleep disturbances.

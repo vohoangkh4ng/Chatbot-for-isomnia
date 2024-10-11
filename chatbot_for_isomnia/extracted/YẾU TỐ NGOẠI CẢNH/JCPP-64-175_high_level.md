@@ -1,0 +1,3 @@
+# Title: Prospective association between evening circadian preference and academic functioning in adolescents: the role of daytime sleepiness
+
+## Summary: This study investigates the relationship between evening circadian preference and academic performance in adolescents, focusing on the mediating role of daytime sleepiness. Utilizing a sample of 302 adolescents, the research found that a greater preference for evening activities in eighth grade predicted increased academic impairment and lower GPA by tenth grade, primarily through heightened daytime sleepiness reported in ninth grade. The findings suggest that addressing circadian preferences and sleepiness may be crucial for improving academic outcomes in adolescents, particularly those with ADHD.

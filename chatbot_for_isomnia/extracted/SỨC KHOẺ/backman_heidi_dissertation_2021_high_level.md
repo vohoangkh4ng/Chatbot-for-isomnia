@@ -1,0 +1,3 @@
+# Title: ADOLESCENT PSYCHOPATHIC TRAITS: SLEEP, SOCIAL RELATIONSHIPS AND PARENTAL BEHAVIORS AS RISK AND PROTECTIVE FACTORS
+
+## Summary: This doctoral dissertation explores the relationship between adolescent psychopathic traits and various factors such as sleep, social relationships, and parental behaviors. It aims to identify both risk and protective factors that influence these traits, contributing to a better understanding of adolescent mental health. The research is presented by Heidi Backman at the University of Helsinki.

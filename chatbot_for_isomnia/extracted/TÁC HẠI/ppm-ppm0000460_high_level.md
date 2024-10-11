@@ -1,0 +1,3 @@
+# Title: Reducing Social Media Use Improves Appearance and Weight Esteem in Youth With Emotional Distress
+
+## Summary: This study investigates the impact of reducing smartphone social media use (SMU) on body image among youth experiencing emotional distress. A randomized controlled trial with 220 participants (ages 17-25) revealed that limiting SMU to one hour per day significantly improved both appearance and weight esteem compared to a control group with unrestricted access. The findings suggest that a brief intervention to reduce SMU can effectively enhance body image in vulnerable youth populations.

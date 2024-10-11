@@ -1,0 +1,3 @@
+# Title: A comparison of sleep restriction and sleep compression on objective measures of sleep: A sub-sample from a large randomised controlled trial
+
+## Summary: This study investigates the effects of sleep restriction therapy and sleep compression therapy on objective sleep measures in individuals with insomnia. It highlights that while sleep restriction initially leads to a decrease in total sleep time, both therapies improve sleep continuity. The findings suggest that the mechanisms underlying these treatments may differ, with sleep compression potentially relying less on homeostatic sleep pressure. Overall, both treatments resulted in similar improvements in sleep after 10 weeks, albeit at different rates.

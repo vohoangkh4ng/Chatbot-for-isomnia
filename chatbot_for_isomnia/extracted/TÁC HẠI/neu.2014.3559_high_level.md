@@ -1,0 +1,3 @@
+# Title: Subjective and Objective Assessment of Sleep in Adolescents with Mild Traumatic Brain Injury
+
+## Summary: This study investigates sleep problems in adolescents following mild traumatic brain injury (mTBI) by comparing subjective and objective sleep measures between adolescents with mTBI and healthy peers. The research involved 100 adolescents, revealing that those with mTBI reported poorer sleep quality and exhibited shorter sleep duration and lower sleep efficiency. The findings indicate that sleep disturbances can persist for up to a year post-injury, highlighting the need for further research to understand the mechanisms behind these sleep issues and to develop targeted interventions.

@@ -1,0 +1,3 @@
+# Title: Effects of thermal environment on sleep and circadian rhythm
+
+## Summary: This review article discusses the significant impact of the thermal environment on human sleep and circadian rhythms, emphasizing the role of thermoregulation. It highlights how both heat and cold exposure can alter sleep stages, with heat leading to increased wakefulness and reduced rapid eye movement and slow wave sleep. The article notes that the effects vary based on the use of bedding and clothing, with cold exposure having a more pronounced impact in real-life scenarios. The authors call for further research into the effects of cold exposure on sleep and related physiological parameters.

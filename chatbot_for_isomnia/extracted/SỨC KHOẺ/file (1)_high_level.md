@@ -1,0 +1,3 @@
+# Title: Adolescent Sleep Patterns and Night-Time Technology Use: Results of the Australian Broadcasting Corporation’s Big Sleep Survey
+
+## Summary: This study investigates the relationship between the use of electronic devices in the bedroom and sleep patterns among adolescents aged 11-17 years. The research, based on a survey of 1,184 participants, reveals that a significant number of adolescents have multiple electronic devices in their bedrooms, with frequent use linked to delayed sleep onset and waking times. The findings suggest that higher usage of devices, particularly computers and cellphones, correlates with poorer sleep quality and may negatively impact health and educational outcomes.

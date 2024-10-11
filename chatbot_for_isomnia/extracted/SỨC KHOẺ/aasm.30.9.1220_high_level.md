@@ -1,0 +1,3 @@
+# Title: Adolescent Use of Mobile Phones for Calling and for Sending Text Messages After Lights Out: Results from a Prospective Cohort Study with a One-Year Follow-Up
+
+## Summary: This study investigates the prevalence of mobile phone use among adolescents after lights out and its correlation with tiredness levels over a year. Conducted with 1,656 secondary school children in Belgium, the findings reveal that a significant portion of adolescents use their phones at night, with increased usage linked to higher levels of tiredness. The study concludes that there is no safe level of mobile phone use after lights out, as it is associated with increased tiredness among adolescents.

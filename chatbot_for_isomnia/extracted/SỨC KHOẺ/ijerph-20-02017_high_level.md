@@ -1,0 +1,3 @@
+# Title: The Social Side of Sleep: A Systematic Review of the Longitudinal Associations between Peer Relationships and Sleep Quality
+
+## Summary: This systematic review investigates the longitudinal associations between peer relationships and sleep quality among adolescents. It highlights the importance of peer relationships during adolescence, noting that while positive peer relationships do not show a significant association with sleep quality over time, negative peer relationships are bidirectionally linked to sleep quality. The review synthesizes findings from nineteen longitudinal studies involving over 21,000 adolescents, discussing the implications of these associations for understanding adolescent well-being and sleep patterns.

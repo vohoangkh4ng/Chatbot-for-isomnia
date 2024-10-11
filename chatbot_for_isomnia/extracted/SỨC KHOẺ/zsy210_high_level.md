@@ -1,0 +1,3 @@
+# Title: Short sleep duration is associated with inadequate hydration: cross-cultural evidence from US and Chinese adults
+
+## Summary: This article investigates the relationship between sleep duration and hydration status among adults in the US and China. It finds that short sleep duration (specifically 6 hours) is linked to higher odds of inadequate hydration, as indicated by urinary biomarkers. The study utilizes data from the National Health and Nutrition Examination Survey and the Chinese Kailuan Study, highlighting the need for further research on the physiological mechanisms connecting sleep and hydration.

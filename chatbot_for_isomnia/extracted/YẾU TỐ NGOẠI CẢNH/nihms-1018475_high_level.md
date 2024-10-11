@@ -1,0 +1,3 @@
+# Title: Nighttime Media Use in Adolescents with ADHD: Links to Sleep Problems and Internalizing Symptoms
+
+## Summary: This study investigates the relationship between nighttime media use and sleep issues, as well as anxiety and depression symptoms, in adolescents with ADHD. The research involved 81 adolescents aged 13-17, revealing that excessive media use (averaging 5.31 hours after 9:00 PM) correlates with shorter sleep duration and increased sleep problems. Notably, 63% of participants reported less than 8 hours of sleep on school nights. The findings suggest that nighttime media use may exacerbate sleep difficulties and internalizing symptoms, highlighting the need for further research to explore causality and potential interventions.

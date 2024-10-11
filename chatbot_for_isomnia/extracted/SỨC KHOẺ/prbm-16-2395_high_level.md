@@ -1,0 +1,3 @@
+# Title: To Binge Watch TV Series: How a Leisure Activity May Affect Sleep, Mood and Quality of Life
+
+## Summary: This study investigates the impact of binge-watching (BW) on sleep quality, mood, and overall quality of life among young adults. It categorizes participants based on their binge-watching habits and assesses the associated health outcomes. The findings suggest that BW can range from a positive leisure activity to a maladaptive behavior with negative effects on sleep and psychological well-being, highlighting the need for further understanding of BW's implications on health.

@@ -1,0 +1,3 @@
+# Title: A bibliometric analysis of insomnia in adolescent
+
+## Summary: This study conducts a bibliometric analysis of research on adolescent insomnia, highlighting its significant impact on development, academic performance, and quality of life. The analysis covers publications from 2002 to 2022, revealing a rapid increase in research activity since 2017, with a total of 2468 publications from 3102 institutions across 87 countries. Key findings indicate that mental health issues, particularly depression and anxiety, are central themes in this field, with notable trends including the effects of COVID-19 and stress. The study aims to summarize current research progress, identify hot topics, and predict future research directions in adolescent insomnia.

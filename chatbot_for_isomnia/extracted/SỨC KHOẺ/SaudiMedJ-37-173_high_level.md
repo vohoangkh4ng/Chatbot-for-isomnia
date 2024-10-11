@@ -1,0 +1,3 @@
+# Title: Sleep quantity, quality, and insomnia symptoms of medical students during clinical years: Relationship with stress and academic performance
+
+## Summary: This study investigates the sleep habits and quality of medical students during their clinical years, focusing on the prevalence of poor sleep quality, excessive daytime sleepiness, and insomnia symptoms. Conducted with a sample of 320 students, the research found that students averaged 5.8 hours of sleep per night, with significant associations between high stress levels, poor sleep quality, and academic performance. The findings suggest that sleep deprivation and related issues are common among medical students, potentially influenced by academic pressures and stress.

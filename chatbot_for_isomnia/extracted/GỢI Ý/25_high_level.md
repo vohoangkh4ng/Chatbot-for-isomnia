@@ -1,0 +1,3 @@
+# Title: Hybrid Cognitive Behavioral Therapy Intervention for Adolescents with Co-Occurring Migraine and Insomnia: A Single-Arm Pilot Trial
+
+## Summary: This study evaluates the feasibility and acceptability of a hybrid cognitive behavioral therapy (CBT) intervention for adolescents suffering from both chronic migraine and insomnia. Conducted as a single-arm pilot trial with 21 participants, the research found that the intervention was well-received, with significant improvements in headache days and insomnia symptoms observed from pre-treatment to post-treatment, which were sustained at a three-month follow-up. The findings suggest that hybrid CBT is a promising approach for addressing these co-occurring conditions in youth.

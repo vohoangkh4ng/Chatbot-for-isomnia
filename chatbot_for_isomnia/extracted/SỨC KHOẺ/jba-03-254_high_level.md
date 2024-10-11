@@ -1,0 +1,3 @@
+# Title: The invisible addiction: Cell-phone activities and addiction among male and female college students
+
+## Summary: This study investigates the relationship between various cell-phone activities and cell-phone addiction among college students. It highlights that while social connectivity drives cell-phone addiction for both genders, the specific activities associated with this addiction differ significantly between male and female users. The research indicates that as cell-phone functionality expands, the potential for addiction increases, necessitating further exploration into how certain activities may lead to excessive use that undermines personal well-being.

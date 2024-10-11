@@ -1,0 +1,3 @@
+# Title: Internet Addiction and Sleep Problems among Russian Adolescents: A Field School-Based Study
+
+## Summary: This study investigates the relationship between internet addiction and sleep disturbances among adolescents in Central Siberia. It examines a sample of 4,615 schoolchildren aged 12-18, utilizing various scales to assess internet addiction and sleep quality. The findings indicate that adolescents with internet addiction experience significant disruptions in their sleep patterns, including later bedtimes, reduced sleep duration, increased sleep onset latency, and heightened daytime sleepiness. The study concludes that these sleep issues necessitate psychological intervention for affected adolescents.
