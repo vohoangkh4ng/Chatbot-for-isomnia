@@ -38,3 +38,18 @@ Here’s an overview of the key files and their functions:
 ├── semantic_vectorstore.py            # Manages vector storage and embedding creation with Qdrant
 ├── utils/                             # Utility functions for chunking, embedding, etc.
 └── README.md                          # Project documentation (this file)
+```
+## Installation
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+- Python 3.8+
+- [Qdrant](https://qdrant.tech/)
+- [Torch](https://pytorch.org/), [LangChain](https://github.com/hwchase17/langchain)
+- Install additional dependencies with `pip`:
+
+```bash
+pip install -r requirements.txt
+```
